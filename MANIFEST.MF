@@ -1,0 +1,5152 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xxhdpi-v4/chips_5.png
+SHA1-Digest: jcoDPLiA/hqu5KvaobiqM59LvkU=
+
+Name: res/drawable-xhdpi-v4/ic_notification_button_sad.png
+SHA1-Digest: IWy/OmCCoZkNUd6oLMWtNxYZiXI=
+
+Name: assets/thedeal/ui/dialog_message.csb
+SHA1-Digest: 9Y2y2+Ar5JWS9rJ5AEKvuakCsvY=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: UXCDxpOg7UXbnFoDNGrU88J4zC4=
+
+Name: assets/cards/0576/images/rank_5.png
+SHA1-Digest: KuB254kvYSrHQPdre4+NHSIJpjA=
+
+Name: res/drawable-nodpi-v4/lobbyicon_clock.png
+SHA1-Digest: sDnxwEjxxL9xNnBdQYJ8mCa55jY=
+
+Name: res/drawable-mdpi-v4/chips_2.png
+SHA1-Digest: mTAU9BvRq4C32b74F8fZrExQJwM=
+
+Name: res/drawable-xxhdpi-v4/actionicon_account.png
+SHA1-Digest: HMIS/WtzeGIg81vvSST7LPavEJg=
+
+Name: assets/thedeal/jackpot/jackpot.csb
+SHA1-Digest: gcQmu6/LcDAigTMuvM9oscJyeFg=
+
+Name: assets/thedeal/ui/images/icon_prizes_on.png
+SHA1-Digest: gCPCZGJtpawh0YDDIEmDbXy1eT4=
+
+Name: assets/rdn
+SHA1-Digest: G97wfmhJnrZcyXjxoR42M84LAbU=
+
+Name: res/drawable-xxhdpi-v4/tooltip_arrow.png
+SHA1-Digest: b/X8wl5FFS87Xx4pMpj4puU0RYw=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: UnGnluRjvPtWCPTuaQl6cAdhCys=
+
+Name: assets/thedeal/ui/images/button_skewed.png
+SHA1-Digest: UPnX+/+gKE4pWbAs0tRv4S3LsAw=
+
+Name: res/drawable-xhdpi-v4/home_sag_logo.png
+SHA1-Digest: P5leZEjY4XLBd26bxg4bwBsb4Hk=
+
+Name: res/layout/bc_form_email.xml
+SHA1-Digest: Fdu6EgzkJiFHNEjvWipe0WxoRDI=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA1-Digest: 2ie/VnnJeIPKI0X/LLAatCEnI9Y=
+
+Name: res/raw/snd39.wav
+SHA1-Digest: M0OzZe6uerAxrYXHMZThvWIiBII=
+
+Name: res/layout/dialog_starcode.xml
+SHA1-Digest: BYTGVA23VL7Vg6T/56DdQBNJyPs=
+
+Name: res/drawable/lobby_toggle.xml
+SHA1-Digest: piAURGYaxnAR5cjeYi4m74PvJh8=
+
+Name: res/drawable-hdpi-v4/live_assistance_animated_button_04.png
+SHA1-Digest: RCGnDU/VnpL4QKGG5X4DIziB/3o=
+
+Name: res/drawable-hdpi-v4/fd_i_spin_10.png
+SHA1-Digest: COvFNXrwBvJ2RgBa7uRArg1eO2g=
+
+Name: res/drawable-ldpi-v4/folded_corner.png
+SHA1-Digest: EUVtAaYZbEgIojz9QeLbGVF4T9Y=
+
+Name: res/layout/roomactivity_row.xml
+SHA1-Digest: hpeIhyyprJj/jlcMwfeuJOxrKBI=
+
+Name: res/drawable-xhdpi-v4/aide_aux_jouers.png
+SHA1-Digest: 9koDDBAbnZDU7V3kIAlFp51xjag=
+
+Name: res/drawable-xxhdpi-v4/button_close_on.png
+SHA1-Digest: RxXrt7JK5atv7U/jyWzCndVsIro=
+
+Name: res/layout/bc_form_select.xml
+SHA1-Digest: bzSzQEQVFCwD30ct8x4ZoT3mLyQ=
+
+Name: res/drawable-mdpi-v4/tournicon_players.png
+SHA1-Digest: 3aY1dxcAO88YtxgnXlMXTcU0yTU=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: WXKtpz66pJSKelShj899BDnb29U=
+
+Name: res/drawable-xxhdpi-v4/action_table_attention_white.png
+SHA1-Digest: kfRgbt9BvgsgBRin8at3hB2BwYk=
+
+Name: res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: NJuMq0n7Coq8s/ff6QHhDQhI9uw=
+
+Name: res/drawable-xxhdpi-v4/tournicon_status.png
+SHA1-Digest: JftGpL1iw9Fax6Z+Jt44Lwb0f7I=
+
+Name: res/layout-xlarge-v11/tournamentfragment.xml
+SHA1-Digest: wbZRG06EXgvkLX9IL3oCfxdyqDw=
+
+Name: res/layout/itemsadapter_rownotfound.xml
+SHA1-Digest: XewEjugkBxdt+bp6rDamUyivMlk=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: +3A3jUbzRBRBAJ8oRmGYp+sMfXc=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: pCIvTjWlEd+72lf6cxDeEv/N0Pg=
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA1-Digest: Jh9zCFzB5Yh9AYoedRCDxfVtIr4=
+
+Name: res/layout/dialog_gamesummary.xml
+SHA1-Digest: 3h5Tk+Ijw46/lJwc7n3NwCwB4Io=
+
+Name: res/layout/simple_spinner_item_v2.xml
+SHA1-Digest: nHDw7tA/xeLV8uX8Kuq4gzrbt0c=
+
+Name: res/drawable-ldrtl-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: TLz0shtwfe+lkIdH+pFYAuOhfeM=
+
+Name: res/drawable-xxhdpi-v4/list_opened.png
+SHA1-Digest: R8bMONYLX+mxceV/Y83XEJHegtU=
+
+Name: res/drawable-xhdpi-v4/ic_notification_button_accept.png
+SHA1-Digest: c47YWr/vXrtiLKK7VKzqSM+anGg=
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA1-Digest: E5MtzEAqqFbNHg7LcykOXV11/Hg=
+
+Name: res/layout/dialog__boldchat.xml
+SHA1-Digest: XmaiiyGE47mrO7/dOlgLvkdEj0o=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: GWc6ybKC9nsIf6Z+0RBEJ2TFdQ0=
+
+Name: res/layout/dialog_dateofbirth.xml
+SHA1-Digest: slJg0jEMgrJutrAIrYg2FSiNhLQ=
+
+Name: lib/x86/libopencv_core.so
+SHA1-Digest: Ol0sBCNYeioaE4FKW1YL1jpNr+U=
+
+Name: assets/thedeal/table/background.jpg
+SHA1-Digest: mpU6aV0Wk1lrYi1En+4ftx8dAjE=
+
+Name: assets/thedeal/ui/images/currency_euro.png
+SHA1-Digest: uJ7671paebauYxBjhLdakNZRXEY=
+
+Name: res/drawable/bc_envelope.png
+SHA1-Digest: wdhLTR4bHI0gEtVui+/GHIL7mvc=
+
+Name: res/drawable/common_signin_btn_text_dark.xml
+SHA1-Digest: 7Q/+MQNHx50dqf3n9FQ9xT0H9Vc=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: eKx4ZX8uxPQScA0cj5eCO2+ZgJw=
+
+Name: res/drawable-mdpi-v4/push_notification.png
+SHA1-Digest: UIxdtm6MeysTgKmCVgFudeOHJAY=
+
+Name: res/layout/dialog_authconfirm.xml
+SHA1-Digest: 1wwnQQIGV1sQ/xQ6t/0oDiC5YfQ=
+
+Name: res/layout/quickseatactivity_tile.xml
+SHA1-Digest: 2WyCvSI0iYIeb3KWcR3JDbnWS7w=
+
+Name: assets/thedeal/ui/coachmarks.csb
+SHA1-Digest: rayj2SQZ4DsNdo02t4RrNYgdSNE=
+
+Name: assets/thedeal/ui/images/jackpot_counter.png
+SHA1-Digest: hx+Lna2QUcv3chOUTIzuZQceJR8=
+
+Name: res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: B+cN6iKZSO8ykyZHYqOhXoO7dJA=
+
+Name: res/drawable-xxhdpi-v4/icon_confirmation.png
+SHA1-Digest: HFBUjz3CU0TebkSoRa9zECTR97U=
+
+Name: res/drawable-mdpi-v4/ic_notification_button_share.png
+SHA1-Digest: ngoHpfQxlR5OejwJbdPi2Q467y8=
+
+Name: res/drawable-hdpi-v4/back.png
+SHA1-Digest: JokM9qdfLVGm9JXa8mpKDeC2xw4=
+
+Name: assets/thedeal/jackpot/wheel_light_off.png
+SHA1-Digest: 1Uwp3J0wlQAOHIEpCL9pV5dMvcA=
+
+Name: res/drawable-xhdpi-v4/chips_2.png
+SHA1-Digest: MITYLVSRMbNVmfMROAWvNzVIcU8=
+
+Name: res/animator-v14/ua_iam_slide_out_bottom.xml
+SHA1-Digest: rebJh17VtLHEkNLLhOmPWq05Zzs=
+
+Name: res/drawable-ldrtl-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: nhOdszX2MHoKx6H7uBb+tEWPyJ0=
+
+Name: res/raw/snd_click.wav
+SHA1-Digest: iAPUofxYxko0VHTzvzJY/7CxTfg=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: fpThxh5dB2oWG7w3WPZkwX8ipI8=
+
+Name: res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: idNZFNqwX4NjrkS539jMeovyeGY=
+
+Name: res/drawable-xxhdpi-v4/ic_notification_button_accept.png
+SHA1-Digest: uiJlyJx4VRzd4u6VKuBJ0/YVhAA=
+
+Name: res/drawable-nodpi-v4/minitable_sag_countdown_1.png
+SHA1-Digest: pGawhMsRKhX+wECNZ/VioQMps7I=
+
+Name: res/layout-xlarge-v11/lobbyfragment.xml
+SHA1-Digest: +ADhODKn2m2iiOyoJ37qhZDbEms=
+
+Name: assets/thedeal/ui/icon_prizes.png
+SHA1-Digest: VYycU2VJwbwUj0zDkGX4dIxx+xg=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: lE9emiDkxOmBmaNeDovU1EZQC2A=
+
+Name: res/drawable-xxhdpi-v4/particle_star.png
+SHA1-Digest: rYg4VoHWqu7yfUbrQbzXCxm9ja0=
+
+Name: res/drawable-hdpi-v4/menu_home.png
+SHA1-Digest: SOUY2xJQMz2m5874KfM0Ddpw3Jo=
+
+Name: res/layout/page_realmoneyacclimits.xml
+SHA1-Digest: 3ICyWh1/Uz+hipa/KVHMuBp5xbA=
+
+Name: assets/thedeal/ui/button_back_to_game.csb
+SHA1-Digest: mmUxCziP9TPV2JL5ZE8/P+uOYdg=
+
+Name: res/drawable-nodpi-v4/sag_ticket_checkmark.png
+SHA1-Digest: H1x5CMtBOjno41o73jG3PWdhf0I=
+
+Name: res/layout/dialog_tourn_finished_ko.xml
+SHA1-Digest: Qbi/NuK0KFPci0Vg6yOt1AltNeA=
+
+Name: res/layout/itemsadapter_rowmore.xml
+SHA1-Digest: 2AcYVS5nVEIUxx5DjlJRkVBwn2s=
+
+Name: res/drawable-hdpi-v4/in_app_bg_1.png
+SHA1-Digest: qnQEzPVG0y829i73nwv2n1v61WU=
+
+Name: res/drawable-xlarge-hdpi-v11/live_assistance_animated_button_04.
+ png
+SHA1-Digest: qjkm08jgtdx5BvjpDUQwe/xve20=
+
+Name: res/drawable-hdpi-v4/ic_notification_button_share.png
+SHA1-Digest: jXMcETmBb0BJWpcaoIA+YbamG7w=
+
+Name: res/drawable-xhdpi-v4/v2_icon_pencil.png
+SHA1-Digest: r8srmOm6uYKcCMylznfZXA1drss=
+
+Name: res/drawable/btn_check_holo_light.xml
+SHA1-Digest: z5ZGb56+xd7KHZIGL10YJ1HOVKw=
+
+Name: res/layout/page_migrationerror.xml
+SHA1-Digest: xnMqnDBQeaUTrNdQcazFivMj99Y=
+
+Name: assets/thedeal/table/deal_coin_added_01.mp3
+SHA1-Digest: 6HTFc2YOvSjxrRNBcdjmbSZ9BsM=
+
+Name: res/drawable-xhdpi-v4/drawer_shadow.9.png
+SHA1-Digest: utDk0NKN3CklXyoNTkzpahPy7Aw=
+
+Name: res/layout/dialog_tablelimits.xml
+SHA1-Digest: Zy393OK82/IZ0REh6+ZKsYkeUJs=
+
+Name: res/layout/page_realmoneyaccpage1es.xml
+SHA1-Digest: ThjWYWY9AFLq58ZYTbUxGdYibXc=
+
+Name: res/drawable-mdpi-v4/actionicon_account.png
+SHA1-Digest: qY/j3/pQaPcoNftebCfR9xcKhdM=
+
+Name: res/drawable-mdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: 5whZWZwuRck5OpUfQtK68/nh9Ac=
+
+Name: res/drawable-xxhdpi-v4/aide_aux_jouers.png
+SHA1-Digest: c29TzYPer026hF1xl9qJXsY6bvY=
+
+Name: res/drawable-xxhdpi-v4/drawer_close.png
+SHA1-Digest: folAj+OL/rCazyQ9W5wxUFBjzGo=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: nKaHZR/SZMMQaMr3tIMJk0K1+k0=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: qyyA8++tpZMeE5woicJ8hRb+SDY=
+
+Name: res/drawable-xxhdpi-v4/drawericon_buy_chips.png
+SHA1-Digest: COzrke+D4p5MHROLjOHEGxb/0GU=
+
+Name: res/drawable-hdpi-v4/bc_bubble_system.9.png
+SHA1-Digest: PYll9VIeX4At0dxQf29dHcIQ3m4=
+
+Name: res/raw/snd6.wav
+SHA1-Digest: v/bLFZVxp6ENCeIzqxVf2wx3uQc=
+
+Name: res/drawable-mdpi-v4/tableicon_ice.png
+SHA1-Digest: Vka5QQ4IqoDy/bwjj7G6vgO7lM4=
+
+Name: lib/x86/libopencv_imgproc.so
+SHA1-Digest: gOi8iZ5yY8Xeru9ge3d2ew2WBOU=
+
+Name: assets/thedeal/ui/button_prizes.csb
+SHA1-Digest: tQH6t5ZT1tD07pgINnvSz3Li7Sc=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: NKiwT1Cicrvb5S9HSLoNH7C2DQY=
+
+Name: res/drawable-mdpi-v4/cast_ic_notification_1.png
+SHA1-Digest: fT/nzND36MfgjxDkV6kbMCZosPU=
+
+Name: res/drawable/gray_triangle_up.xml
+SHA1-Digest: pNStJ4tCKKBBGSjSEn0AuLMEmcM=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: qFfG6dXcF1UdzYPLJ5SEjR/3CiE=
+
+Name: res/drawable/white_tile_bottom.xml
+SHA1-Digest: cmqDNsZeSe/V1414Gxv6J/PawQc=
+
+Name: res/drawable-xxhdpi-v4/preference_arrow.png
+SHA1-Digest: 91GxEYZz1mt6ZJsEdk48WMD45NQ=
+
+Name: assets/cards/0576/card_face_k.csb
+SHA1-Digest: xmAcAULyHzR9fpWNQBLuWiiD1Kw=
+
+Name: res/drawable-mdpi-v4/chips_0.png
+SHA1-Digest: c0Kd4a6lXqGf6nHoCMhQOvdjRKc=
+
+Name: res/layout/bc_chat.xml
+SHA1-Digest: t74Ki7kZiphF1Zg43Lr1j0ZOgj0=
+
+Name: res/drawable-nodpi-v4/sag_add_logo.png
+SHA1-Digest: +Y6jTTmxL4lWn/1A8QMFaJ+qT74=
+
+Name: assets/thedeal/ui/button_disabled.png
+SHA1-Digest: tSwbvHt5mMFTstwwoDrDYYp7g9U=
+
+Name: res/drawable/black_buttonv2.xml
+SHA1-Digest: A6LyJyoP7KqDJ0qbbI6oKr1EUXE=
+
+Name: res/drawable-nodpi-v4/tableslider_button_minus.png
+SHA1-Digest: ziT7ozaiVvndg7Pl08BwDxuQc7c=
+
+Name: res/layout/bc_form_select_option.xml
+SHA1-Digest: nENLqDlNlc3sfGuopa1O6+pGVeQ=
+
+Name: res/drawable-mdpi-v4/room_overflow.png
+SHA1-Digest: ltRMlwy92kVfao/EAq/X0OsL1oc=
+
+Name: res/layout/page_realmoneyaccpage1_address.xml
+SHA1-Digest: Uz8P+/ICEEUsTitu7gYEDormECI=
+
+Name: assets/cards/0576/images/rank_3.png
+SHA1-Digest: 6HGshfPx9rLGMK3wdnYUrAsn60g=
+
+Name: res/drawable-xhdpi-v4/ic_notification_button_thumbs_up.png
+SHA1-Digest: 3mfiLmeHcXWuRg9imtXV7vUBrZE=
+
+Name: assets/cards/0576/images/dq.png
+SHA1-Digest: cEWovCiFuGmyCcvJb8jxV6iCJ94=
+
+Name: res/drawable-hdpi-v4/menu_casino.png
+SHA1-Digest: PWTCmD0PRDnCKy+AFKCzM+aHClw=
+
+Name: res/drawable/start_background.xml
+SHA1-Digest: JYYhqtWcj3yJAB6sCGMJ/1IhUe0=
+
+Name: res/drawable-xxhdpi-v4/drawericon_account.png
+SHA1-Digest: JW3M1t3TmwKfWfL8fK3VlQF8B1E=
+
+Name: assets/cards/0576/images/rank_q.png
+SHA1-Digest: SeDuvsO4W8/+eqU0pVjtFPEiFGo=
+
+Name: res/raw/snd4.wav
+SHA1-Digest: eKJVgXYKTLLHVHuN8RqbTsBaSbc=
+
+Name: res/drawable-xhdpi-v4/ic_drawer.png
+SHA1-Digest: N75/8dY2S8vnSTRHZ7G1zf1TuiM=
+
+Name: res/layout/homeactivityv2_tilelogo.xml
+SHA1-Digest: 4gh/ajzv4vfP/GbweZ6YbLssVOI=
+
+Name: res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: JKV8P+rg3eY4lfp/aRgwOCFBeL0=
+
+Name: res/drawable/black_buttonv2_shape_normal.xml
+SHA1-Digest: nB/k50zd4x27jPXKTyJSG3OKAtU=
+
+Name: res/drawable-nodpi-v4/promo_vpps.png
+SHA1-Digest: sZIVBuxOIH67fhvjeE9eYjphSWQ=
+
+Name: res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: BmwsKC3uNvwcF8agRRgehS1CAm0=
+
+Name: res/layout/videoactivity.xml
+SHA1-Digest: NRq4cIungkGlrDs6bJBFogixnUk=
+
+Name: assets/thedeal/table/table.csb
+SHA1-Digest: dHiGVi1m/sTUno8TqL99IsGIB9E=
+
+Name: res/raw/script.html
+SHA1-Digest: mDWBMAgDFI2UTB44Ra4kVxfY9W0=
+
+Name: res/drawable-hdpi-v4/fd_i_spin_1.png
+SHA1-Digest: GI//DwCp0mazIgPuz6OTP0oP//M=
+
+Name: res/drawable-hdpi-v4/ic_notification_button_accept.png
+SHA1-Digest: r7hF4/TparYk/XAIN/o4CtG/TY8=
+
+Name: res/drawable-xxhdpi-v4/drawericon_vegas.png
+SHA1-Digest: a8nFekybAon3pX1FIw2JOsFTsNs=
+
+Name: res/drawable-hdpi-v4/actionicon_search.png
+SHA1-Digest: xhHrHE0QikN/GM/GlRReg9QrnPQ=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: VfF1Y+3CjDiM4dG+tUnOEInJ2T8=
+
+Name: res/drawable/lobby_button_text_color.xml
+SHA1-Digest: YxSliDRr0CgeAcVNO2Fxx+biffc=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 4YsKb2IwvWnlnKLr79msGTpIdXg=
+
+Name: res/drawable-nodpi-v4/combobox_background_disabled.9.png
+SHA1-Digest: Ft4RrABkQHd7Zfbe7EE1wCC78Ec=
+
+Name: res/drawable-hdpi-v4/live_assistance_animated_button_06.png
+SHA1-Digest: yLZ9NEgs+4gqw5JO20djT5LRIUM=
+
+Name: res/layout/dialog_termofservice.xml
+SHA1-Digest: 4CUiLVYoF1vMOcCpTNQ+DRpA2rg=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_dar
+ k.9.png
+SHA1-Digest: wv2dVvaU2YokwLE9rPy/vR71x8o=
+
+Name: res/drawable-xxxhdpi-v4/ua_ic_close.png
+SHA1-Digest: Xk8Cn6J6HlYWwyojW/+iCFDLjBM=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: FHCsTwuTNTPGmGaj9wS5Cf8LnZE=
+
+Name: res/layout/webfragment.xml
+SHA1-Digest: f+AoheBpG2wonJWCukLi0Bvxh5Q=
+
+Name: assets/thedeal/seat/images/avatar_mask_desktop.png
+SHA1-Digest: SWY1lRUD6/fVmzZr0ieudrutsIU=
+
+Name: res/layout/lobby_grand_total_arrow_up.xml
+SHA1-Digest: Be26LiZTMy26nKb5uHMPx1bnTDM=
+
+Name: res/drawable-hdpi-v4/actionicon_room_disabled.png
+SHA1-Digest: KqoqeQJCHRj1l3ChbYZ7jppy/e8=
+
+Name: res/drawable-mdpi-v4/ic_notification_button_remind.png
+SHA1-Digest: ZZlSxkbxn2XK9jKvIs2DCMeivtM=
+
+Name: res/drawable-nodpi-v4/leather_tile.png
+SHA1-Digest: abiSawFivcIr/dN5iKMMjNmOvDA=
+
+Name: assets/thedeal/table/images/how_to_screen1_ps.jpg
+SHA1-Digest: eF6JvirGEwx1+1UcBomX0TT2dCM=
+
+Name: assets/cards/0576/back.csb
+SHA1-Digest: NAlGCW0qFmBEvJD6vRzxXpBR5ug=
+
+Name: assets/thedeal/sounds/deal_win_regular.mp3
+SHA1-Digest: jTDG/16MVkdI7Uc6gvth3a8EQUc=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: y5NEiGadCzArYseq09UiAUCI9Ys=
+
+Name: res/drawable-xxhdpi-v4/ua_ic_close.png
+SHA1-Digest: qxpsr2MfKvKqZrYqrguJ/DJcR8U=
+
+Name: res/layout/dialog_msgbox.xml
+SHA1-Digest: f5blfIeaFOZ7fYuwjGv/RkqZPVU=
+
+Name: res/layout/casino_lobby_activity.xml
+SHA1-Digest: 7yBBs7Ghz0j2W/1Ke74No1C8LEQ=
+
+Name: res/drawable/custom_seekbar.xml
+SHA1-Digest: hiVACTdbdioJ2+Sb78kxsVOXYtA=
+
+Name: assets/thedeal/table/thedeal_logo.png
+SHA1-Digest: 2kiao1KuhgOr5IMLSYko9LtGHtM=
+
+Name: res/layout-v11/abc_screen_content_include.xml
+SHA1-Digest: /y5MvdEzTeZAQDuJq0TDHSS5kFo=
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA1-Digest: GcBbKJcMWdQ42ssCQexb9kGH6us=
+
+Name: res/drawable/default_image.jpg
+SHA1-Digest: Amf9j/N7HQzp6NvcqKZOJ3/M2X4=
+
+Name: res/drawable-xxhdpi-v4/minitable_table_thedeal.png
+SHA1-Digest: r7QiKjcyOllunNrIczZzoazs8AA=
+
+Name: res/drawable-nodpi-v4/minitable_twoholder.png
+SHA1-Digest: FzNeR57qA+N616OWinjTGqVBKPw=
+
+Name: res/drawable-nodpi-v4/logo_lobby_casino.png
+SHA1-Digest: m6gN0KRTR53C4eojItP78WmBxNg=
+
+Name: res/layout/dialog_passcode.xml
+SHA1-Digest: 5GoVzDBSVBIJykkhQ5g9l/sn5KU=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: gfHaH8EPI7tPXVeskcJGZH2tiRQ=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: meTbFvJL0s3oA4sDj2GzpobVb3Q=
+
+Name: res/drawable/gray_button_border.xml
+SHA1-Digest: /M5dL02It21TS3ouAlD9HtwAtuo=
+
+Name: res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: 3PaqrIbYXWJg4tMXULVMzvNu3Qo=
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA1-Digest: o64Tt4BnkkqEYiKYEh/Pj0JBBWU=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: CyHUb+nEtXS5lCR5jTCXKlZ0AzU=
+
+Name: res/drawable-xhdpi-v4/in_app_bg_0.png
+SHA1-Digest: 1yKxzQwz9+UcIJHXEpL0OVAjhNs=
+
+Name: res/raw/empty_gif.gif
+SHA1-Digest: ULMP1fh8hf5cuiY1y4MxbKcSUNc=
+
+Name: res/drawable/blue_tile.xml
+SHA1-Digest: xEa8leDXNpJU6G+uEg0ZtZsZ9To=
+
+Name: res/drawable-xhdpi-v4/homeicon_dfs.png
+SHA1-Digest: 97ugUCzjqsIWWs5ZfyN02C+EPG8=
+
+Name: res/drawable-xhdpi-v4/chips_4.png
+SHA1-Digest: psfI+1FLeIv9MS9TWv5r4lzes0A=
+
+Name: res/drawable/tile_active_border.xml
+SHA1-Digest: SzBvCvTlFzRK0J67vKrttxLRTHc=
+
+Name: res/drawable-nodpi-v4/black_button_disabled.9.png
+SHA1-Digest: fKCUExeuYTuzaIXdTY8AfAgFJWY=
+
+Name: res/drawable/white_button_thick_border.xml
+SHA1-Digest: tmASRdsc0tbHllRLKBAzF2wrKtM=
+
+Name: res/layout/bc_web_history.xml
+SHA1-Digest: Kjb01OtQYq7xhcXpNbTVpgwKfTo=
+
+Name: assets/thedeal/table/images/background_blurred.jpg
+SHA1-Digest: Gvke//721ZndbaYrF/8rugz5Gx4=
+
+Name: res/drawable-nodpi-v4/minitable_sag_countdown_3.png
+SHA1-Digest: T1iKLiHCej9VGD9k3owiVk1nnZ8=
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA1-Digest: TSaL0HTHku29r/nou5EOhoiuLpc=
+
+Name: res/layout/startupflowactivity.xml
+SHA1-Digest: jJV9NxcKVdVnUcuiwDDhx8WhNj8=
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: 8fFdZoyOA0FyEP0K/a0QnLk0bbE=
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA1-Digest: 55vd4qJ9atYQB7EgFjSa08i40w0=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: /5RFzsw1zwQJHkUKjDGzni0BQNE=
+
+Name: res/drawable-xhdpi-v4/ic_urbanairship_notification.png
+SHA1-Digest: zEllWegbi+7b1zHN2xp43udVXYk=
+
+Name: res/drawable-xlarge-hdpi-v11/live_assistance_animated_button_02.
+ png
+SHA1-Digest: lUScKW16ISPrz1Noty7EUhOQfv4=
+
+Name: res/drawable-xhdpi-v4/list_closed.png
+SHA1-Digest: eFXsm2bN9/HinPwAHzeBFS9ri9Y=
+
+Name: res/drawable-nodpi-v4/lobbyicon_escalating_knockout.png
+SHA1-Digest: oBzoFpL545NjgrV1YEgrMLWQzIs=
+
+Name: res/layout/page_realmoneyacceulaee.xml
+SHA1-Digest: S8JlZ8vD3+FH/hD84SmX0psJpFc=
+
+Name: res/drawable-nodpi-v4/tournament_running_closed.png
+SHA1-Digest: Qg5ZlRkzJNs8dLlQhlk8U2kpAhI=
+
+Name: res/color/common_signin_btn_text_dark.xml
+SHA1-Digest: 0Jz2TufEpkximtehHOoYe6Wue4s=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: FMoZxbKyy1t4RWJZNFgkkfl6R2I=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: hMf/FoHQ1ncswR3Ha2oj+rtb3FA=
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA1-Digest: KMjK+5696GakGbc9WY6F5gYcwno=
+
+Name: res/drawable-nodpi-v4/sag_add_table_ticket.png
+SHA1-Digest: 6mMU7u7WrSGf5aqgDRtnK9YzTEg=
+
+Name: res/layout/tournamentfragment_text.xml
+SHA1-Digest: eij3W628cLRvLt+FZA6PR8ssGpY=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: 9aVwwDJLurzAdd/0dY0hcfBsZLI=
+
+Name: res/drawable-mdpi-v4/baricon_refresh_dark.png
+SHA1-Digest: GiW5ipwPSZN4KQtVuDG/58hbAp4=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: dYDfYdQeVCs4/1WeSohObo/Y42U=
+
+Name: res/drawable-xhdpi-v4/tournicon_status.png
+SHA1-Digest: bxm6MOImMx2rniKLWECgb7ZLrfo=
+
+Name: assets/thedeal/ui/icon_prizes_on.png
+SHA1-Digest: gCPCZGJtpawh0YDDIEmDbXy1eT4=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: CLs5FbiMwb7vIKZyvZ2iE6odMZs=
+
+Name: res/drawable-mdpi-v4/back.png
+SHA1-Digest: dWpxaihwl5EgfLSRGMPDNhhSDeU=
+
+Name: res/drawable-hdpi-v4/bc_bubble_operator.9.png
+SHA1-Digest: ZWA/GqDWPXJsdchfSVCZjde9oC4=
+
+Name: res/drawable-nodpi-v4/lobbyicon_btc.png
+SHA1-Digest: NHfrNtu5VwvGpGESGUhRVC2uy54=
+
+Name: res/drawable/pmrm_switch_text_color.xml
+SHA1-Digest: dzqF2rwquOi4zx2MQ6cdo9pX/2Q=
+
+Name: assets/cards/0576/images/suit_diamond.png
+SHA1-Digest: mc8XEoVN3U24Q3gFB1hL/hoAQJI=
+
+Name: res/drawable-nodpi-v4/bkg_sport.jpg
+SHA1-Digest: ZMGBgK/GmiVt3PzUN+Dw1hIOBcA=
+
+Name: res/drawable/white_button.xml
+SHA1-Digest: OTg34lUzd9GEo41eiKlnEsIyGMI=
+
+Name: res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: A+A9MdQmrAvMMxMOybyfoSwgnqw=
+
+Name: res/drawable-mdpi-v4/ic_notification_button_copy.png
+SHA1-Digest: HXSb9hQgS/oqU/IDe6To2LfOdDk=
+
+Name: res/layout/abc_action_bar_view_list_nav_layout.xml
+SHA1-Digest: qDwEr4aPd6kCIAZdan0X8coUF/U=
+
+Name: res/drawable-hdpi-v4/fd_i_alert.png
+SHA1-Digest: f+AMINKllX/d3GPgHCSN05bfoXU=
+
+Name: res/drawable/combobox_background.xml
+SHA1-Digest: owVKq9wqD/USVbNoSng0vbNaqw8=
+
+Name: res/drawable-hdpi-v4/actionicon_settings.png
+SHA1-Digest: xtNQN6Ivz0TSymok0UzqjFah3L4=
+
+Name: res/drawable-xlarge-hdpi-v11/live_assistance_animated_button_06.
+ png
+SHA1-Digest: UszS0/ccFAoUCuzKRzytuEZnhuM=
+
+Name: res/layout/bc_form.xml
+SHA1-Digest: 5BG4RclFgWdTwVWh81jZ9N/lncA=
+
+Name: res/anim/fade_out.xml
+SHA1-Digest: HoCfryJUr9tiODwi0VxFv5krzZ4=
+
+Name: res/drawable-xxhdpi-v4/drawericon_spade.png
+SHA1-Digest: wefwFCjHIzX1E4kEy8ixeFKk99U=
+
+Name: res/drawable/room_button.xml
+SHA1-Digest: xcLw3VFbX+uxV1H34dRAfRM5JXk=
+
+Name: res/layout/page_realmoneyaccpage1.xml
+SHA1-Digest: nprSIAGLO/ihwIwc5PhP2DEAPIY=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: CG3lDkcP/GHQTYwc/aOmdEm1/oA=
+
+Name: res/layout/quickseatactivity.xml
+SHA1-Digest: esdbMwHKRU6A7QglI2XpUzgMHiE=
+
+Name: res/layout/wizard_finish_button.xml
+SHA1-Digest: m8Mlh/lhyZ5LaU08jCxU83ckj/0=
+
+Name: res/drawable-xxhdpi-v4/ic_notification_button_cart.png
+SHA1-Digest: 0nCUPpWq7+nduIyYL2lFsl1jzP0=
+
+Name: res/raw/snd2.wav
+SHA1-Digest: zYFeSfa97qDAgppjKRXualbAelU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: tv4xWQtW9TQLopCJIWMa2XoykAc=
+
+Name: assets/cards/0576/images/dk.png
+SHA1-Digest: 4WEgn+hI/27G5eRpkfmMK4js3K4=
+
+Name: res/drawable-xhdpi-v4/ko_bg.png
+SHA1-Digest: euc8wELCyUeEr3k1uh/Mmuq/N/w=
+
+Name: assets/thedeal/ui/rec_rounded.png
+SHA1-Digest: 1Sq8HlFsf5b7GQ6QUhzE1Z/6bKo=
+
+Name: res/drawable-mdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: 5mRZ2sFLI0LRLV8zEdkzMhgnR9I=
+
+Name: res/drawable-nodpi-v4/logo_lobby_vegas.png
+SHA1-Digest: Brq/94fEdMER3kxJ0grJSJvHAG4=
+
+Name: res/drawable-nodpi-v4/promo_100bn_tab.png
+SHA1-Digest: 0mYJl7DSlRIG38rxsiDYZblcqOc=
+
+Name: res/layout/bc_list_view_history.xml
+SHA1-Digest: VY6vum2GW6rb6+dVnQIr3V3xf4Q=
+
+Name: res/drawable/white_button_thick_border_pressed.xml
+SHA1-Digest: FpIJ0p70WGIgt15uo0y04+AA4p4=
+
+Name: res/drawable-xhdpi-v4/homeicon_buy_chips.png
+SHA1-Digest: Zmz1Y5BduCq9QGTZjO7PrFBhXQ4=
+
+Name: res/drawable/button_border_pressed.xml
+SHA1-Digest: pplsArcqK3i5Z1qoR6Q3yi0D8E8=
+
+Name: res/drawable-xlarge-nodpi-v11/logo_lobby_poker.png
+SHA1-Digest: 69GLnK17CZLmcDuf87qkD4Ru5KM=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: HJdSnxPzW/dtUr+R9bfh15Nk+oo=
+
+Name: res/drawable-xhdpi-v4/back.png
+SHA1-Digest: UMznR5GWoapEN/OTEDI8a6lpNUU=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: 3P2Q/ZAE5zdB3clrfhpWK44ry8k=
+
+Name: res/drawable-hdpi-v4/fd_i_spin_3.png
+SHA1-Digest: RDQTijv3MBKdOMfF730JtB0YMaA=
+
+Name: res/drawable-xxhdpi-v4/ic_notification_button_copy.png
+SHA1-Digest: 937z0S9OHHijOPiITRPC0uplmG4=
+
+Name: res/drawable/checkedtext_checkmark.xml
+SHA1-Digest: i/UdsO/mFbBFYEXE62R8r/0qsYk=
+
+Name: res/layout/dialog_attachfiles.xml
+SHA1-Digest: x0ixdXGD0dcE9Mb0r/iLUdRQAYM=
+
+Name: res/raw/snd21.wav
+SHA1-Digest: iXdt4aUbSBVDyLuly9obZNGhyzg=
+
+Name: res/drawable-tvdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: res/drawable-xxhdpi-v4/drawericon_betting_history.png
+SHA1-Digest: 37UmQdgLKW1xIarbOMvu/L0dfYI=
+
+Name: res/drawable-nodpi-v4/background_home_1.jpg
+SHA1-Digest: 8O9xYN5qQ602faqlg09OZbI7VK8=
+
+Name: res/layout/bc_bubble_visitor.xml
+SHA1-Digest: nYCU6sc4bGnUVwD5hDCHxFIF4QQ=
+
+Name: res/drawable-hdpi-v4/powered_by_google_dark.png
+SHA1-Digest: I/G/mu9XuPJTzwp/WdZLjQ6xTfg=
+
+Name: res/layout/signup_wizard_page1.xml
+SHA1-Digest: O9ilThFxcs7bY+hqqDFiMgvNkiQ=
+
+Name: res/layout/dialog_tourntickets_ticketlist_row.xml
+SHA1-Digest: QJYcO/ZOdir19mYg+13GrSs605Y=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: jniuuw+ps9CtTIC7MeCedJBG1rs=
+
+Name: assets/thedeal/ui/images/icon_prizes_disable.png
+SHA1-Digest: ed66LCNjHNNK0/O38UNFyrSycgE=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: oHKnBBbWgjP4o7A/6GgdHOh1E3M=
+
+Name: assets/thedeal/seat/seat.csb
+SHA1-Digest: KSJvrRP3EfgaqnJRX67L2cJa6Q8=
+
+Name: lib/x86/libcardioRecognizer_tegra2.so
+SHA1-Digest: wjVROF0o4VZXOcGfye4Jtr8NdqI=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_dark.9.pn
+ g
+SHA1-Digest: M/AuBUDrasZr5kX0EObwl5+LiN8=
+
+Name: assets/thedeal/ui/images/button_skewed_over.png
+SHA1-Digest: 2BG3N8fy9q5EGC51SpCLr7C7XZo=
+
+Name: res/drawable-mdpi-v4/notification_regular.png
+SHA1-Digest: gH+IeCnZYp6PzWHYJifXOzPacGs=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: QZ9FkSY1uLrLNUoYvFP8D6yQGLQ=
+
+Name: res/drawable-mdpi-v4/cast_ic_notification_on.png
+SHA1-Digest: sayxlLYpcwDYAyHOyJOv364NYzE=
+
+Name: res/drawable-nodpi-v4/tableslider_button_plus.png
+SHA1-Digest: hQKp3g83CkoiDJBdTH07JiI9bAo=
+
+Name: res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: Kw0Qo9eKlw06/oxLHYSWR6VftBw=
+
+Name: assets/thedeal/table/images/how_to_screen2.jpg
+SHA1-Digest: 6a///DZN7YRC8XJLUzY8a7vbfEI=
+
+Name: res/drawable-xxhdpi-v4/ic_urbanairship_notification.png
+SHA1-Digest: AEBXv91/BevO+zg9s+nb+pTMqe8=
+
+Name: res/drawable/lobby_button_gradient_left.xml
+SHA1-Digest: iDPNeaUHrpF2E4FHgTfuEafeXdU=
+
+Name: res/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: rtSUS00JLWjJ4+bLZjSssV3d2wg=
+
+Name: res/drawable-mdpi-v4/ic_notification_button_decline.png
+SHA1-Digest: AdxFzehrCKJu+3SVTdgWb7cdQt8=
+
+Name: res/anim/fade_in.xml
+SHA1-Digest: oulGn5sixSiy9ytZDKm3LKjxFr0=
+
+Name: res/drawable-nodpi-v4/combobox_background_normal.9.png
+SHA1-Digest: 7Tbbn/WTuoF0hm54h/Kj7DB+Bgg=
+
+Name: res/drawable-xxhdpi-v4/actionicon_cashier.png
+SHA1-Digest: LXGhRUxBR3+vU1y3Z9uffbAVRJ0=
+
+Name: res/layout/dialog_depositlimit_questionaire.xml
+SHA1-Digest: 3Fm6moCGYAmW6qaLHfXATcRcvfA=
+
+Name: res/drawable-xxhdpi-v4/logo_icon.png
+SHA1-Digest: 16av1j41Um9hnwrYEsx6E10ezMM=
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA1-Digest: NJKx9igyTP1wQX2ZOdsXn0b7DBU=
+
+Name: assets/thedeal/table/images/background.jpg
+SHA1-Digest: mpU6aV0Wk1lrYi1En+4ftx8dAjE=
+
+Name: res/layout/dialog_marketingcode.xml
+SHA1-Digest: cYc5zXNu53vENdT5gcYIozTts7w=
+
+Name: res/drawable-hdpi-v4/chips_5.png
+SHA1-Digest: nScJfHJ5sdgJD0d+gD5iBoLvitU=
+
+Name: res/drawable-xxhdpi-v4/ic_notification_button_thumbs_down.png
+SHA1-Digest: zKTWAxVhy60p4T1Rolhttmn2J90=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: FMoZxbKyy1t4RWJZNFgkkfl6R2I=
+
+Name: res/drawable-xxhdpi-v4/back.png
+SHA1-Digest: WoWS6j2K51A7wbZF8TW53GJnvY4=
+
+Name: res/layout/dialog_geoiprejected.xml
+SHA1-Digest: YOCOCBHNmzKXe+PVkelhdFsQH78=
+
+Name: res/layout/table_fpp_layout.xml
+SHA1-Digest: mvVxCDADathBe29TAAZBqU62pHc=
+
+Name: res/drawable-xxhdpi-v4/actionicon_casino.png
+SHA1-Digest: kPe5aGh+8EqgRyD6BpvMaDTAGlo=
+
+Name: res/raw/snd35.wav
+SHA1-Digest: 3aEGGyHlwm6K9vHFrpdzMcRcUCc=
+
+Name: res/drawable-xxhdpi-v4/tournicon_players.png
+SHA1-Digest: sOc9Ia2fohTK7VEqX4up1uy6xoA=
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA1-Digest: DrHxET1ERS5Dyji724wpJ5M87uY=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 1BuFFGqXKd2oLlGoMWaCcT0oFug=
+
+Name: res/layout/dialog_gameinfo_table_row.xml
+SHA1-Digest: yi/dW3SmL3nniR2RG71Y6WBgs/4=
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA1-Digest: 4si5Kwk/EHtjT7yr1mT4pH8FypM=
+
+Name: res/drawable-mdpi-v4/notification_attention.png
+SHA1-Digest: FgAWbHFRrDof0lCw8GuWLbxfX3Q=
+
+Name: res/drawable-xxhdpi-v4/ic_notification_button_unfollow.png
+SHA1-Digest: kJDNoLDDRf0heQI6eukPTY9cXlk=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: T5slVQklwytRhhFRjSw66UZR3vQ=
+
+Name: res/drawable-hdpi-v4/drawer_shadow.9.png
+SHA1-Digest: iaWaiCscygiqoeyCwDZvkqNikPE=
+
+Name: res/drawable-hdpi-v4/tournicon_flighted.png
+SHA1-Digest: tSzIwQu+VNPBE4OFiCz0oZeQLHU=
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: W6K3P94iAz0CiSFCp6GiJlxogqs=
+
+Name: res/drawable-hdpi-v4/tournicon_status.png
+SHA1-Digest: 6tlrJzqkQVOpP9e3004IPPjIXng=
+
+Name: res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: qQpaYoGWL908h/WoyV81hrJSp9E=
+
+Name: assets/thedeal/ui/slider1.csb
+SHA1-Digest: oQvSo2zvM1HCoSTY8Ue8gQLziQM=
+
+Name: res/drawable-xxhdpi-v4/ic_close_white_18dp.png
+SHA1-Digest: UIAm9jTYNr7wyEN7x712vvIKvsY=
+
+Name: res/drawable-xhdpi-v4/ic_close_white_18dp.png
+SHA1-Digest: xwdo2lCc361ea9dDoy+/MuIl4Y4=
+
+Name: res/drawable-mdpi-v4/powered_by_google_dark.png
+SHA1-Digest: SYwxuihJgUaoyjHCQQvZHUzSvgw=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: aLOtkEElPKVQnb/x08i/wBkFiH8=
+
+Name: res/drawable/lobby_grand_total_bg.xml
+SHA1-Digest: rd/qLLLVTYXRvDe1CQNfBDTN6yQ=
+
+Name: res/anim/abc_slide_in_top.xml
+SHA1-Digest: YBdDQbyB2IFfhjwKI6NSPOXqz7g=
+
+Name: res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: f5w1/P3BOViOfigUbV/eR0uuTmE=
+
+Name: res/drawable-xhdpi-v4/actionicon_search.png
+SHA1-Digest: hUpP0GTlRdOW0iKRQxyjUborSzM=
+
+Name: res/drawable-xxhdpi-v4/action_table_attention.png
+SHA1-Digest: G9YLP0Pb2ywpMwVtIQkV5PF2nnY=
+
+Name: res/drawable-hdpi-v4/fd_i_spin_5.png
+SHA1-Digest: V6GBuypQfTLj22p9C5ETMJCKZEU=
+
+Name: res/drawable-hdpi-v4/poker_table_attention.png
+SHA1-Digest: 5MPfKllFB6tF3sbJrzioBXeJhro=
+
+Name: res/layout/dialog_inappstore_list_cell.xml
+SHA1-Digest: RiJTscPQgDMYoRXbXKhVysDU5cI=
+
+Name: assets/thedeal/table/images/how_to_screen3_ft.jpg
+SHA1-Digest: 0WI9oNYHrtRXEhEc+DmzoHy1WFY=
+
+Name: res/drawable-hdpi-v4/minitable_table_casino.png
+SHA1-Digest: QHmHHdhZDdwKYphtfEVowGyoCLA=
+
+Name: res/layout/activity_v2_bg.xml
+SHA1-Digest: iH2zhDnVBaICiUe7k7FeXlahfrc=
+
+Name: res/layout/dialog_buyinlimit_ex.xml
+SHA1-Digest: HELWFsW5PhqqRHkOQJGm/11PzNk=
+
+Name: res/layout/dialog_verifypassword_ssn.xml
+SHA1-Digest: q5ZSyMPe7JyyTOMpUFazBmQca3U=
+
+Name: res/drawable-nodpi-v4/edit_background_disabled.9.png
+SHA1-Digest: 8uo04rFNj98jrVobJanAzZRjlBI=
+
+Name: assets/thedeal/ui/logo_ft.png
+SHA1-Digest: S3Il9g58BsOYnmRJdB/Z1ZopvRU=
+
+Name: res/raw/snd37.wav
+SHA1-Digest: sMQgMrD06znSWJBv7AW0JihC6PA=
+
+Name: res/layout/quickseat_criteria_toggle.xml
+SHA1-Digest: Wv45/Lcko3kE+JAS0HsKny4h/gM=
+
+Name: res/drawable-xxhdpi-v4/unchecked.png
+SHA1-Digest: mJJzCp4HP7H9d/iiQmoAx4jV6Ds=
+
+Name: res/drawable/custom_seekbar_thumb.xml
+SHA1-Digest: arumYgDWCfaFM3OD93qaKZQh9Hw=
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA1-Digest: tBDuzqZKYLCNN0sbPW4tyRlkHRk=
+
+Name: res/layout/tableslider_full_layout.xml
+SHA1-Digest: PLEdJHeaoBRPoXFhCXNJ/tnFPXA=
+
+Name: res/drawable/green_button.xml
+SHA1-Digest: DBtImo8GrQeHVx4R2cijzqjnxbE=
+
+Name: res/layout/login_activity.xml
+SHA1-Digest: jMc1HClAz6vtEtTJznt3Q9TJ36g=
+
+Name: res/layout/settings_section_expanded.xml
+SHA1-Digest: RrxHTvAbDQPtsciWFKTPjJRM+Dg=
+
+Name: res/drawable-xhdpi-v4/actionicon_account.png
+SHA1-Digest: 1gM/blgeu4Kn20euWoIM3zBfK/k=
+
+Name: res/drawable-xxhdpi-v4/drawericon_sports.png
+SHA1-Digest: gLOsuYnleP2fEmP5nXorPM68nCE=
+
+Name: res/drawable-hdpi-v4/list_opened.png
+SHA1-Digest: uYyBpmHRsmHfvwfm6Ubm/7sQDJo=
+
+Name: res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: GFCjouEOsx2zwJ4qrfooYQ63590=
+
+Name: res/layout/preference_boolean.xml
+SHA1-Digest: fmCIGGHOEB1AqJd/Z3pFqb43Pmw=
+
+Name: res/layout-xlarge-v11/startupflowactivity.xml
+SHA1-Digest: TqnPMrekxDYO5N1nbQwaniBUM7Q=
+
+Name: res/raw/snd0.wav
+SHA1-Digest: uVdZL7CjjN88mpADhzzEGRjCO4A=
+
+Name: assets/thedeal/ui/button_pressed.png
+SHA1-Digest: uoOQmZGIP2WEZg+2i5uEbTHTRyI=
+
+Name: res/drawable-nodpi-v4/background_home_3.jpg
+SHA1-Digest: Lk+rceA3b8zRy3quLHrWBP2jg+E=
+
+Name: res/layout/dialog_tournstat.xml
+SHA1-Digest: zG7MFiDN9oR/8sLslOBOiYOKsUE=
+
+Name: res/drawable-xxhdpi-v4/drawer_shadow.9.png
+SHA1-Digest: NP4XWP/Gd+1DIGSKhKAUT81YnAc=
+
+Name: assets/thedeal/sounds/deal4.mp3
+SHA1-Digest: 2Gdex2mZckqcA0VLPblftbo6HgM=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 92pHkmawW9x95wDQw6uvTZBRXkQ=
+
+Name: res/drawable-nodpi-v4/logo_lobby_poker.png
+SHA1-Digest: VRITYhwV/GniTxKBRY9Z3rL4ikE=
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA1-Digest: gXeSd8A0UfkemUk3PPDO1QiTyMs=
+
+Name: res/layout/dialog_migrationcreateaccount.xml
+SHA1-Digest: +zVfK+HKhS54qOgjCIu+L5DkrNI=
+
+Name: res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: +XwNOsyv2DWN30GlWVSISZnhYYI=
+
+Name: res/layout-xlarge-v11/dialog_autorebuy.xml
+SHA1-Digest: vkeHdM9YeL/kmkZMMDLcZRk+Zho=
+
+Name: res/drawable-mdpi-v4/abc_ab_share_pack_holo_dark.9.png
+SHA1-Digest: uIT3RVDH3TeBkTZRawIL6qHJdy0=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: MMkP0OZqp3er4oTF2Gl+RImzkzI=
+
+Name: res/drawable-nodpi-v4/lobbyicon_win_the_button.png
+SHA1-Digest: c06HoNTlkkiuqSkOuDJvLS+eN4o=
+
+Name: assets/thedeal/sounds/deal_deck_shuffle.mp3
+SHA1-Digest: eqpja7SiDemcPbAb21Z0Mi3/5g8=
+
+Name: res/layout/page_migration1nj.xml
+SHA1-Digest: SZKG/e681RbTZoPxdUWhwA3Vc78=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: res/drawable-ldrtl-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: NhV2sZqVWW5UUoJmNFGXO3uM/A4=
+
+Name: res/drawable-xxhdpi-v4/drawericon_cashier.png
+SHA1-Digest: aiYxYR+KF5QrllpxULalAcqk6QU=
+
+Name: res/raw/snd23.wav
+SHA1-Digest: X7MeJHR5TXcxeUaaVeDlUj9jC28=
+
+Name: res/layout/dialog_tournrematch_row.xml
+SHA1-Digest: crHeAVlp9UtKe/pwgJcnU8E1Ugc=
+
+Name: res/layout/dialog__start.xml
+SHA1-Digest: xnHjY1qyvU1GIIS3+WYCKw4PbJA=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: W5TvXvoCtsDZ8z420pI8yCW94Yc=
+
+Name: res/drawable-mdpi-v4/ic_notification_button_unfollow.png
+SHA1-Digest: Ztol8CFp9Q0QVVctrYAhBFnfcGk=
+
+Name: res/drawable/abc_edit_text_material.xml
+SHA1-Digest: nfKaMfoLNJvcupJ/7sQ9iz7a9XI=
+
+Name: res/drawable-mdpi-v4/actionicon_settings.png
+SHA1-Digest: dUhbQCZQQ2RMMxJXKqd6ROD+Kyg=
+
+Name: assets/thedeal/ui/icon_starscoin.png
+SHA1-Digest: 2IYZkJVFKsVuEgNaQGc92pWXPyE=
+
+Name: res/raw/snd9.mp3
+SHA1-Digest: rJM4hGzGparBUEV9RVkjH5cr5wc=
+
+Name: res/layout/page_activatetokenwizard2.xml
+SHA1-Digest: mcAG0bV820nKaqey7pErFN8sFzg=
+
+Name: res/drawable-ldrtl-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: xzR4QYhDLijnhAqvCWT+8WMmqNQ=
+
+Name: res/drawable-hdpi-v4/ic_notification_button_sad.png
+SHA1-Digest: 8HPiEMeY7ikKWXin8T/FCrzNoR0=
+
+Name: res/drawable-xhdpi-v4/notification_regular.png
+SHA1-Digest: zVAWVlf6XFBwVCgNU9fUnk2pbew=
+
+Name: res/layout/signup_wizard_page3.xml
+SHA1-Digest: MQmEBciP/R24Nuf1KRvSiX7Wz/s=
+
+Name: res/layout/dialog_requestplayinghist.xml
+SHA1-Digest: KYxAox0QYAqcx3j10719dfBJHP8=
+
+Name: res/drawable/bc_action_send.png
+SHA1-Digest: TSOqUEoOLyGejdXZK6hml9atmLA=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: qUes7E1WY2JY7Fd6HKCYNy966/o=
+
+Name: res/drawable-hdpi-v4/common_ic_googleplayservices.png
+SHA1-Digest: VI4dX5B2Y48SEkB7kbHeKlBvZ4s=
+
+Name: res/drawable-xxhdpi-v4/drawericon_bonus.png
+SHA1-Digest: wqUl8yuHBK+4LoQU/tKSiHwGPU4=
+
+Name: res/drawable-xxhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: res/layout/login_activity_logo.xml
+SHA1-Digest: d9a8H95AkNQvly4pAz+xUJ1WFuc=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: 4LnPZ0EIh2yTqhOvCTdrDYEF9vg=
+
+Name: res/layout/custom_checkbox.xml
+SHA1-Digest: MkptCYTWWCFN9FyV3SAAtrqBE7I=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_light.9.pn
+ g
+SHA1-Digest: +qORW9oS7s5/oY5Z1R4KkQ+aJ1g=
+
+Name: res/drawable-hdpi-v4/sag_less_btn.png
+SHA1-Digest: madWXbZSgPSQnQJSwH0E4exCtHM=
+
+Name: res/drawable-xxhdpi-v4/drawericon_ice.png
+SHA1-Digest: wygY4m+b06c6TIjoMqSkR2q19FI=
+
+Name: res/drawable/drawer_expand_background_color.xml
+SHA1-Digest: VpILMVkev1bD6ZTBdEoXKhiFlaY=
+
+Name: res/menu/lobby_selector.xml
+SHA1-Digest: B9cq525PH4vhbP++Qf5xP6RxZ0E=
+
+Name: res/drawable-xxhdpi-v4/in_app_bg_1.png
+SHA1-Digest: zt144H/89cn+WSQHUp7R6aS3tig=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: zZurrSYAwBsyNtHv58yh4NOk06U=
+
+Name: res/layout/settings_item_action.xml
+SHA1-Digest: gIeB5vuhk/CVc6QkD/X7Xi+bZlU=
+
+Name: res/layout/dialog_lifetimedepositlimit.xml
+SHA1-Digest: H1osCX+Zs9zXtnGtOSUrGtGn2NQ=
+
+Name: res/layout/dialog_gamesummary_table_row.xml
+SHA1-Digest: +sH7wRj85rQunsO3jWFlEReGDnk=
+
+Name: res/drawable-hdpi-v4/chips_3.png
+SHA1-Digest: 3WKoRfSyJngFulhwkXkNMeppSQk=
+
+Name: res/drawable-nodpi-v4/lobbyicon_gold_sng.png
+SHA1-Digest: EcUTc6w3ROVVqyOxmznGeHdLiY0=
+
+Name: res/drawable-xhdpi-v4/ua_ic_close.png
+SHA1-Digest: KHcz50H5d6CMIUK7PBa8PM9jrPI=
+
+Name: res/layout-v17/ua_activity_landing_page.xml
+SHA1-Digest: +dBxSKPXFjDLt+55VrotYkSXjgk=
+
+Name: classes.dex
+SHA1-Digest: +lg4vNRp0bxqTJtlLur0ZoBVfbY=
+
+Name: assets/thedeal/seat/images/pod_desktop.png
+SHA1-Digest: bVmzBl6F1G62cuEXssKp7IzFPt4=
+
+Name: res/drawable-xhdpi-v4/chips_0.png
+SHA1-Digest: mLoKN2XCEm+tTWieVaAFqqLcvfU=
+
+Name: res/anim/slide_up.xml
+SHA1-Digest: 7QAckOcRGLZEAPhr5ojK6pN/0o8=
+
+Name: res/drawable-xhdpi-v4/homeicon_cashier.png
+SHA1-Digest: AczzDFZytSXJf+TUOnmLTz3XyvY=
+
+Name: res/drawable-xxhdpi-v4/drawericon_home.png
+SHA1-Digest: F+qSPY3dZeV12nx8Xr4/i0UqKic=
+
+Name: res/layout-v14/ua_iam_content.xml
+SHA1-Digest: ujcSUS1eJJIFbUQt2YHxw+jHZWE=
+
+Name: res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: KQunCQh0E4bP0utgN0cHdQr9OwA=
+
+Name: res/drawable-xxhdpi-v4/bc_bubble_operator.9.png
+SHA1-Digest: 0r/5E7uivufR1tBnVCGiwKD7P8w=
+
+Name: res/layout/bc_form_text_multiline.xml
+SHA1-Digest: TWGySLies0n2pzBXaly4q/qd4+M=
+
+Name: res/layout/dialog_loginhistory.xml
+SHA1-Digest: X6MLbH4g8/rCZ1iw1iv/MuqyTcQ=
+
+Name: res/layout/dialog_tournlimits.xml
+SHA1-Digest: ByPU/c/zG6Aq8QFH3faFl5OtOMU=
+
+Name: assets/thedeal/ui/circle_stroked_bkg.png
+SHA1-Digest: g8Ehg+yo9IgB9mVR9nFkbMwJhxk=
+
+Name: assets/thedeal/ui/images/jackpot_counter_numbers.png
+SHA1-Digest: qeuuiuEGdyWvgAGAu9V2UQn7jFY=
+
+Name: res/layout/quickseat_criteria_toggle_singleline.xml
+SHA1-Digest: 5trR3oykovcnG/cMdcCXLjcowq8=
+
+Name: res/drawable-hdpi-v4/chips_1.png
+SHA1-Digest: 7f6yA1skCp5F0wf4aQVhoZ6IUrE=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: AppXOewxC/QI7e8k90KnlawH5MA=
+
+Name: assets/thedeal/ui/btn_autoplay.png
+SHA1-Digest: CPBbRXcIXfzcWQ57dfPOgFFVEc4=
+
+Name: res/drawable-xhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: psVwTFCoE8L/YbYPXiTtAelEWs8=
+
+Name: res/drawable-xxhdpi-v4/actionicon_dfs.png
+SHA1-Digest: j7MD55tpYwg7gD16sU5yxJzk4Mw=
+
+Name: res/layout-xlarge-v11/action_bar_logo.xml
+SHA1-Digest: qoT4CPRJ93/vuwFm3aTqjmh1ZJU=
+
+Name: res/drawable-ldrtl-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: dT9O498/3E1mpkpzpSmdy7tcxxU=
+
+Name: res/layout-xlarge-v11/settingsactivity.xml
+SHA1-Digest: FsDxgK3deBa+DxkrzREPx+FwslA=
+
+Name: assets/thedeal/cards/dealer_deck.csb
+SHA1-Digest: YdEkPPF62nlWTJE6AWq66COLMYE=
+
+Name: res/layout/lobbyfragment_tab_item.xml
+SHA1-Digest: Yxf7kfzitRNEzQsoKzIUC0nbVAc=
+
+Name: res/raw/snd40.wav
+SHA1-Digest: CdH8nKCR8oV2nF166IcwVm8BUA4=
+
+Name: res/drawable-hdpi-v4/baricon_sort_dark.png
+SHA1-Digest: nptfKkCPinas46H1HzrbmTupGfw=
+
+Name: res/drawable-xxhdpi-v4/actionicon_sort.png
+SHA1-Digest: Vkq0FaOSmDtxvuqkJniC3z0RpGs=
+
+Name: res/drawable/tool_tip_triangle.xml
+SHA1-Digest: qKS6PLCNJFit8rXyKe1i6lxx2aM=
+
+Name: res/layout/action_bar_logo.xml
+SHA1-Digest: ED/Wj1LgNwizX7ECv1jg29H6PYU=
+
+Name: res/drawable-hdpi-v4/menu_room.png
+SHA1-Digest: p/T0k5djjUfEAoLjr1ua8xJpFBA=
+
+Name: res/drawable-nodpi-v4/white_button_normal.9.png
+SHA1-Digest: arGU+Y/QkWafCQ/Xki8+SsdhZp8=
+
+Name: res/layout/signup_wizard_congatulationspage.xml
+SHA1-Digest: ZzcemI9Ov4RCn3pOAq7ajqZJLkU=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9
+ .png
+SHA1-Digest: bHADGZ86aGisr0oBfZBoU7RHX/g=
+
+Name: assets/thedeal/table/images/thedeal_logo.jpg
+SHA1-Digest: BFcFf/+A/E733/yJEzGVcInfZ1c=
+
+Name: res/drawable-hdpi-v4/fd_i_spin_7.png
+SHA1-Digest: Z2VpBVO/bQLRfY9mEwXAGBDEu/8=
+
+Name: res/drawable-xhdpi-v4/home_sng_logo.png
+SHA1-Digest: wwc6SvX724gMxtuYxnbZtWaWCVc=
+
+Name: res/layout/dialog_bouncedemail.xml
+SHA1-Digest: wfyszoHW25ENO0Xcg4aKGPAX/Co=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.pn
+ g
+SHA1-Digest: bwjSzuahpvwVgJavscLUKen/ZqQ=
+
+Name: res/drawable-nodpi-v4/minitable_rank.png
+SHA1-Digest: KauIApQJf40okPo1Ma26GKlVqV0=
+
+Name: res/drawable-xxhdpi-v4/info_button_on.png
+SHA1-Digest: xiCr3lajmwuOH1cU40jWcJ1YYiE=
+
+Name: res/layout/dialog_pokerschoolchangepassword.xml
+SHA1-Digest: kyIZ1eH0LOJqxqZ8lLSSjT8nB7Y=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: MoCLKmenbTlsz905dAkmwWiKKG0=
+
+Name: assets/thedeal/sounds/deal_bonus_win_regular.mp3
+SHA1-Digest: iwxNIPV3il+68kJ3KfC1oPzLnRU=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: VPmKAqmLJ6ke7a8XellbYKiIBh8=
+
+Name: res/color/common_signin_btn_text_light.xml
+SHA1-Digest: UaxV9LxRZP2V2w7JGBxvsSkyV7U=
+
+Name: assets/thedeal/ui/images/rec_white.jpg
+SHA1-Digest: N6U9eiQA1bkDRfcISheK3b1C5oI=
+
+Name: res/layout/dialog_newpassword.xml
+SHA1-Digest: Boj0CaTdhrKdIgIwVRv7m32ZjNk=
+
+Name: res/layout/dialog_attachfile_row.xml
+SHA1-Digest: hHLkNQ1fhoOZB6heFPGCw1fw6E0=
+
+Name: res/drawable/home_criteria_background.xml
+SHA1-Digest: GAqCtb/WWGJUWuXvGO/uktIBJyg=
+
+Name: res/drawable-land-nodpi-v4/light_effect.png
+SHA1-Digest: ATPEK1BaMXzWK2xkRU7gJUEeZ6s=
+
+Name: res/drawable-xxhdpi-v4/action_table_normal.png
+SHA1-Digest: G6TriF4emeepjqKflsKLL+ifZjM=
+
+Name: res/drawable-nodpi-v4/minitable_sevenholder.png
+SHA1-Digest: meAiaZE6t/3cXnsUyJyeXg5lJgk=
+
+Name: res/drawable/lobby_button_gradient_right.xml
+SHA1-Digest: ZH619i//qRZ28amLq5xAepW9nD0=
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA1-Digest: +AuHi6Bwp+vUjtF+cGR224SpypI=
+
+Name: res/menu/room.xml
+SHA1-Digest: Q/K6nwZKj9P5A4K3jQzhWp92bSA=
+
+Name: res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: QqPpbBwEr9nywoEL/OHp+2+gZ1Q=
+
+Name: res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: e4+xS2IHT21cqoB/yQU6OyS1b7o=
+
+Name: res/anim/slide_down.xml
+SHA1-Digest: jeQQUiKIsUFOihXdHfz676dbGc8=
+
+Name: res/layout/dialog_activateaccountemailnotvalidated.xml
+SHA1-Digest: QviSARXc/0KyGbgvN+fkVPlY2Wg=
+
+Name: res/drawable-xxhdpi-v4/drawericon_thedeal.png
+SHA1-Digest: BesqGHYCkvO3150oPNa0SVDNnk8=
+
+Name: res/drawable-mdpi-v4/in_app_bg_0.png
+SHA1-Digest: o+uc25GGtrf8ovY2kA3iO4FSRQY=
+
+Name: res/layout/dialog__progress.xml
+SHA1-Digest: PKHhQbLgauxR3SRJqJKBmoKtR28=
+
+Name: res/layout/table_separator.xml
+SHA1-Digest: f8YFrXLhsgrrD6JAwZyS9keMRT4=
+
+Name: res/drawable-hdpi-v4/ic_urbanairship_notification.png
+SHA1-Digest: +L4j4WdyhBTS5SCeJ+ckgmsmz9s=
+
+Name: res/drawable-hdpi-v4/ua_ic_close.png
+SHA1-Digest: ftXPicpbJ817/Pz6c5r1K1LCdxg=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: lsCLR2XlXhS2SIGQjEcPfWqirCQ=
+
+Name: assets/thedeal/cards/active_card.csb
+SHA1-Digest: ODddQzARafTkKjl2NHMMQGIGdvw=
+
+Name: res/layout/bc_bubble_operator.xml
+SHA1-Digest: lOH5rnli7qvqKb4jNUc3ixw6i3s=
+
+Name: res/layout/cashier_loading.xml
+SHA1-Digest: TWsRulYcTj+rptijPw570ijr7bQ=
+
+Name: res/menu/wizard_menu.xml
+SHA1-Digest: oK2ca1aHI74wo2LngPmC6ZNfi+E=
+
+Name: res/drawable-xxhdpi-v4/drawericon_specialoffer.png
+SHA1-Digest: Vg4S6V8EoW7sbVO04FzdfEQ+UPE=
+
+Name: res/layout/page_ageverificationid.xml
+SHA1-Digest: C2YDjDzYN/Rgu91O+fgvC+3EYIA=
+
+Name: res/raw/snd31.wav
+SHA1-Digest: vxveVqgXSsCN+8xoCU+Obox2tUg=
+
+Name: assets/thedeal/ui/currency_pound.png
+SHA1-Digest: BNVCJklzLqIgRBHP5Dq0plIxQeU=
+
+Name: res/drawable-mdpi-v4/bc_bubble_visitor.9.png
+SHA1-Digest: WWo/8fR34t/sELwmERHMWwxkjGc=
+
+Name: res/drawable-mdpi-v4/baricon_save_dark.png
+SHA1-Digest: QWnbmYm9eGwe8+b6upsTceoXEaE=
+
+Name: res/drawable-xhdpi-v4/tournicon_flighted.png
+SHA1-Digest: vVJXb4/XsYI+Utez5nFwYg0Wu6Q=
+
+Name: res/layout/dialog_accountrevalidationsms.xml
+SHA1-Digest: 718D4IekbuTb1kWUoLWG3ddafiU=
+
+Name: res/layout/dialog_my_tax_events.xml
+SHA1-Digest: 9krQJnmHUcG9CqVqopBUxWXZRKw=
+
+Name: res/drawable-xhdpi-v4/checkmark.png
+SHA1-Digest: XWfGtEyNqCJ/1QuvkhyXS93hstI=
+
+Name: res/layout/page_realmoneyacctermsofservice.xml
+SHA1-Digest: 54jNAEzlDEWBxh/mA+bRDuz61I4=
+
+Name: assets/thedeal/ui/slider_background.png
+SHA1-Digest: +HTDRodbZpL+aFmBUXyuTdR1qnk=
+
+Name: res/drawable/baricon_sort.xml
+SHA1-Digest: wAomxybVKqxs96snHCxRVX9LveU=
+
+Name: res/drawable-xxhdpi-v4/notification_attention.png
+SHA1-Digest: laJGg7Dgj/aI2SyLyWWBa+zkzBU=
+
+Name: res/drawable-xxhdpi-v4/v2_logo_join.png
+SHA1-Digest: nWEMPuLgb1ot4W5bRIilFXXGcf8=
+
+Name: lib/armeabi-v7a/libopencv_imgproc.so
+SHA1-Digest: e1iNEbwhJyIzMN66oAckweoU/0o=
+
+Name: res/layout/dialog_instantbonus.xml
+SHA1-Digest: 3vMwY9TJbdrl6x+4ibpBe1RofbU=
+
+Name: res/drawable-xxhdpi-v4/lobby_titlebar_arrowdown.png
+SHA1-Digest: 4BgMtXPhzL9L4XTVljUWASPgXlA=
+
+Name: res/layout/abc_activity_chooser_view_include.xml
+SHA1-Digest: PZUyX/wlL4Er/GbWKPrOdKwxCLU=
+
+Name: res/drawable/gray_button_border_state.xml
+SHA1-Digest: 7E1napFbWxNSemEdSetUBV5N21Q=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: sSo2eVyCVNeDBah+XyDsR3c+eao=
+
+Name: res/drawable-xxhdpi-v4/abc_ab_share_pack_holo_dark.9.png
+SHA1-Digest: fU9LJnM+MWeEa6zb6SE4VQLvkZ8=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_light.9.p
+ ng
+SHA1-Digest: Jo7euj4LvkDv54RWdIWxYYLnMbg=
+
+Name: res/layout/tooltip_layout.xml
+SHA1-Digest: RkJRTtTKm3ZgfbJKQX+T/vD2Dvk=
+
+Name: assets/thedeal/ui/rec_rounded_header.png
+SHA1-Digest: oSoyCtyJDduDZcI/C6L6hfTOAq8=
+
+Name: res/drawable-hdpi-v4/baricon_sort_light.png
+SHA1-Digest: k9PjjRwjLY535j2aSZdGlT6kLKI=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: pt2sGm+R9IKa/yNYVOguoJ1i7qI=
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA1-Digest: Uaax8TsSlV1ssfdd4JM/P9lAyjc=
+
+Name: assets/thedeal/jackpot/bonusround_wheel.png
+SHA1-Digest: lpVH/5VCyVs70LfwWM+lCi/Q++c=
+
+Name: res/drawable/gray_button_border_pressed.xml
+SHA1-Digest: UTyUYUOtzKTvrIXiwd1J8cUKJBA=
+
+Name: res/drawable-nodpi-v4/minitable_fourholder.png
+SHA1-Digest: G9PUoJkDukZuB00h7nP1m7HgwoQ=
+
+Name: res/drawable-nodpi-v4/white_button_pressed.9.png
+SHA1-Digest: k+gesRzhooXp2Rf9TgwjgGgPg4U=
+
+Name: res/layout/homeactivityv2.xml
+SHA1-Digest: PUB0I1qhMwEXNDbODegdYMhv06o=
+
+Name: res/drawable-xxhdpi-v4/drawericon_settings.png
+SHA1-Digest: 5BGVmga6an0KMMsTKEtVi/EvQ3s=
+
+Name: res/drawable-xxhdpi-v4/progress_bg_hld.png
+SHA1-Digest: Z4e3JHi/vYZzY8mZ/ISKdCZlzM0=
+
+Name: res/drawable/actionicon_room.xml
+SHA1-Digest: nRgJV+x3CWDzV+vS1qZwZckpu+U=
+
+Name: res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: ZyFTNu8NFk5e/z1RVkprfr1u2DU=
+
+Name: res/drawable-xhdpi-v4/home_ko_logo.png
+SHA1-Digest: qn3Gwrgoi+4yChN9ZcIn/rmwWUw=
+
+Name: res/raw/snd25.wav
+SHA1-Digest: fg5h/NivI3a8bKO1IYQNijLQADE=
+
+Name: res/layout/page_activatetokenwizard4.xml
+SHA1-Digest: 7HOhIgvsKBE71lM4zkZh07jdeGU=
+
+Name: assets/thedeal/ui/circle_stroked_pressed_bkg.png
+SHA1-Digest: oQqUL1kgybjWb2hCi8gcvAJI/Xw=
+
+Name: res/layout/browseactivity.xml
+SHA1-Digest: 8+BWnTYwLv79VpP0tZbfd5rELRY=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: D3OTzMV535uT6sXCK160AaIEUdI=
+
+Name: res/drawable/red_buttonv2_shape_pressed.xml
+SHA1-Digest: lv9XIMHhjGgM18le+HYk4Gabcw0=
+
+Name: assets/thedeal/ui/controls_layer.csb
+SHA1-Digest: 7eALqDXy1fUEc4l3xs1+JoxVVT0=
+
+Name: res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: zND8CPcT8wBLOji5D5ZGNvi5kR8=
+
+Name: assets/thedeal/pod/mp_avatar_placeholder.png
+SHA1-Digest: xYwYsXNXPN42PrBIThHO3IA+/5E=
+
+Name: res/drawable-nodpi-v4/lobby_button_pressed.9.png
+SHA1-Digest: XyWuswnSC7GUjZg8eLT6aVjREdc=
+
+Name: res/drawable/tile_active_border_state.xml
+SHA1-Digest: r1o78RRR5pYyXnSZY1HwtnLYZ7c=
+
+Name: res/layout-xlarge-v11/lobbyfragment_tab_item.xml
+SHA1-Digest: Y7jbZmgiHRYmDEfcPnRU/VcvADk=
+
+Name: res/layout/dialog__pushnotifications.xml
+SHA1-Digest: UWq18+jpdzH1ONd6iXjLdhSJ0Oc=
+
+Name: res/drawable-nodpi-v4/minitable_sag_seating_2.png
+SHA1-Digest: spUzi3dlZX4k5e82wfw7U7DTx5A=
+
+Name: res/color/abc_background_cache_hint_selector_material_dark.xml
+SHA1-Digest: 6645rwlQUBLGCtZuyIvz+WlHUhs=
+
+Name: res/drawable-xhdpi-v4/home_zoom_logo.png
+SHA1-Digest: I2C1m8QNWsGLOC3MtKOJlp8PMys=
+
+Name: res/drawable-xxhdpi-v4/notification_icon.png
+SHA1-Digest: AmsOZljLCTaWJaUBmZsjA2Gu3d8=
+
+Name: res/drawable-hdpi-v4/tableicon_ice.png
+SHA1-Digest: TLP47AHWfE56PuZ3VR9lf7x+J5g=
+
+Name: assets/cards/0576/images/ck.png
+SHA1-Digest: Zjw4daDomrq2hnZHKdqGwwTtiss=
+
+Name: res/layout/abc_search_view.xml
+SHA1-Digest: 1Pj76c1ZY8qT1nOl0uaFRCQCNlk=
+
+Name: res/drawable-mdpi-v4/menu_logout.png
+SHA1-Digest: fEei7QyfnKZ//6/1gqM9ucuRJiM=
+
+Name: res/layout/lobby_grand_total_item.xml
+SHA1-Digest: ptRTczH4UQ6AQvjNQaqNJEXLKyU=
+
+Name: res/drawable-xhdpi-v4/room_overflow.png
+SHA1-Digest: Ajdrt0uLrIv0d7qDX9Hl7ovCtd8=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: H5lDzV2Zw0y5I4W+edSWTSrKjWg=
+
+Name: res/drawable-nodpi-v4/capacity_availableseat.png
+SHA1-Digest: D3WSxmKdgzHTWLIcUAmDhNn/zsE=
+
+Name: res/layout/settings_item_list.xml
+SHA1-Digest: cBJhnOatlWYhLxWq6amxMcotOZY=
+
+Name: res/drawable/green_button_v2_text_color_enabled_always.xml
+SHA1-Digest: cAnpdF+/9khoq0abMV5CgLZ1kf8=
+
+Name: res/layout/page_realmoneyaccnocardee.xml
+SHA1-Digest: cZx1+pNmQU0c09ZNg9Khb4vXKgM=
+
+Name: res/layout/resultsactivity.xml
+SHA1-Digest: Nt2iJb6nFAFZ66F7W4QlQ5OUs9s=
+
+Name: res/drawable-nodpi-v4/sag_ticket_promo.png
+SHA1-Digest: LQbvPrpF7gd5m9xDOEbf73mTk5Q=
+
+Name: res/layout/dialog_gameinfo.xml
+SHA1-Digest: Yh895Od2D0f7TQNhVwhJfw7KVNs=
+
+Name: res/drawable-nodpi-v4/edit_background_normal.9.png
+SHA1-Digest: TFum499nFCkmHQi6dSXTtEHKjRk=
+
+Name: res/drawable-xhdpi-v4/actionicon_room_enabled.png
+SHA1-Digest: Y2mxwPDKJyXf9udR+v6At7XEreM=
+
+Name: res/drawable-nodpi-v4/tournament_seating.png
+SHA1-Digest: fdKY+lEbPXfESuLRm3746ehsVXM=
+
+Name: res/layout/editcombobox_combo.xml
+SHA1-Digest: JGiW5EM7NafjZCgvbDHY140okJ4=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: LewhoID0LjtBYVPp7OCVxcpi4Ls=
+
+Name: res/layout/dialog_selfexclusion.xml
+SHA1-Digest: HncDfnsjBZlaoLOTQ1mU0/9sppc=
+
+Name: res/layout/simple_list_row_1.xml
+SHA1-Digest: I7xMwxr6pXi+mpx1Ofp9U2pTBS8=
+
+Name: res/drawable-xxhdpi-v4/notification_regular.png
+SHA1-Digest: Py14nqLt+3dDmOc6A14zpVTEdH4=
+
+Name: res/drawable/table_shadow.xml
+SHA1-Digest: pQxSe9QB14d8i+fcHtu5eQbd90c=
+
+Name: res/drawable/custom_checkbox.xml
+SHA1-Digest: rajc36iHFP5SO+Z1sVzW4P4QsCo=
+
+Name: assets/thedeal/table/images/how_to_screen1_ft.jpg
+SHA1-Digest: hAmwNt2PKc6Tk+5Vf6gA5dVcKvU=
+
+Name: assets/thedeal/ui/button_selector.csb
+SHA1-Digest: m1HFcvqJ8dzdFa1q0cP8XlNZMRc=
+
+Name: res/drawable-hdpi-v4/fd_i_spin_9.png
+SHA1-Digest: y84xAdlOIr1QumZ/rCfVA3JaQv0=
+
+Name: res/layout/simple_spinner_item.xml
+SHA1-Digest: 8MqTb83IVdeNnkW8BimnUopN2sI=
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA1-Digest: suOnRIPUhrW7uBhCbxwJYUiliy4=
+
+Name: res/drawable-hdpi-v4/ic_notification_button_happy.png
+SHA1-Digest: VLH+8XmgesfgITdzclFXuUVX1no=
+
+Name: assets/cards/0576/card_suit.csb
+SHA1-Digest: /4JnNy16F6GsnyTNjLd93grpza0=
+
+Name: res/drawable-mdpi-v4/tabicon_ice.png
+SHA1-Digest: Vka5QQ4IqoDy/bwjj7G6vgO7lM4=
+
+Name: res/raw/snd10.mp3
+SHA1-Digest: rJM4hGzGparBUEV9RVkjH5cr5wc=
+
+Name: res/drawable/green_buttonv2_shape_disabled.xml
+SHA1-Digest: fRQv23OzXF/19+jqLhLX9JWuT7A=
+
+Name: res/drawable-nodpi-v4/sag_add_table_promo.png
+SHA1-Digest: l97ZlEvjNMV0Yt6Ox6k4W7NSaxY=
+
+Name: res/drawable-xhdpi-v4/homeicon_vegas.png
+SHA1-Digest: ZjC4Drb35UnpXspHiu2viIHtsFk=
+
+Name: res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: JK+SO98DvE2zb2cpp1SVOIO+XsU=
+
+Name: res/drawable-nodpi-v4/tournament_registration_open.png
+SHA1-Digest: kQ8Zh+zgisczmvpTxUUod9wq1vw=
+
+Name: res/drawable-xlarge-nodpi-v11/bkg_poker.jpg
+SHA1-Digest: 3kdaJKRBaLu5zF0pXh2OnaF1thc=
+
+Name: res/layout/table_spacer.xml
+SHA1-Digest: OROmvAcROXX7t8OYNLqmsayacmg=
+
+Name: res/drawable-xhdpi-v4/ic_notification_button_cart.png
+SHA1-Digest: bKMtjuVgvN/SQ+Lg05qjF4OhUFE=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: xeutaZvABw40/AIzFqNqXOs2vyw=
+
+Name: res/layout/dialog_pin.xml
+SHA1-Digest: 1lqCJ40nVfCg5yIUHt3OCl9/gEQ=
+
+Name: res/drawable-xlarge-nodpi-v11/v3_background_home_2.jpg
+SHA1-Digest: YyQdXN6QLjhoHr7Fm0MuEo7iaKY=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.p
+ ng
+SHA1-Digest: iN/uNjBfhVbAIr76ujTy7rKk9Iw=
+
+Name: assets/thedeal/sounds/deal_card_flip_01.mp3
+SHA1-Digest: rMDdrQcoM4g739QBZKL0zZYKK7g=
+
+Name: res/drawable-mdpi-v4/menu_cashier.png
+SHA1-Digest: CIU4yXk6+q5b6I7M01CQZhpbBFE=
+
+Name: res/layout/drawer_layout_expanded.xml
+SHA1-Digest: e1+JS2qoAc8FRLGPbAeXZIeW6Ok=
+
+Name: res/layout/searchactivity.xml
+SHA1-Digest: T4N/lpyu8KhzEIYlAX6K1vaMfeM=
+
+Name: assets/thedeal/ui/prizes_panel.png
+SHA1-Digest: caWtxzP3T3lINPepywVk/7vxw9I=
+
+Name: res/drawable-hdpi-v4/logo_icon.png
+SHA1-Digest: AYdWCHqXY96Heb5Cg/AyZmlt6zA=
+
+Name: res/drawable-mdpi-v4/drawer_shadow.9.png
+SHA1-Digest: cNUdijE95lHbP1Db15SXYf0Kwsk=
+
+Name: res/layout/dialog_confirmlimits.xml
+SHA1-Digest: 7WOx6PF2j8T8OKcOMiec/cWxpAQ=
+
+Name: res/drawable-xxhdpi-v4/ic_notification_button_open_browser.png
+SHA1-Digest: yed6gTpe2osHSYTzt83K0EaSnQQ=
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA1-Digest: ebHxwgrxiLQo1hJ3ZiONBBPdfsM=
+
+Name: res/drawable-hdpi-v4/folded_corner.png
+SHA1-Digest: 1yOSCkdcJDFskVPp73II4nMgXNA=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: Wl0x3/PQYrRDwagaXHH4f7mABgs=
+
+Name: res/drawable-hdpi-v4/menu_account.png
+SHA1-Digest: leZxKlelC6juJZtRgnqWSKEAUH8=
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA1-Digest: BygBrEEFbyJGmxkWe+/BxS1ZtvI=
+
+Name: res/drawable-xhdpi-v4/tournicon_prizes.png
+SHA1-Digest: RJFvusEnhPUklq4jTgX+AzJIkow=
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA1-Digest: WJwxXYQHl6QWDka2O1BvIEtMjAQ=
+
+Name: res/drawable-hdpi-v4/tournicon_satelites.png
+SHA1-Digest: 9S0zXh7/6AujyR3k6qBcyyiMJi8=
+
+Name: res/drawable-ldrtl-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: pxni+y0etDEj2lBgg/0qLkhIOdk=
+
+Name: res/drawable-mdpi-v4/ic_notification_button_thumbs_down.png
+SHA1-Digest: zlQjxDsmWqbORE/Ebsz6p3Yhvuo=
+
+Name: res/drawable-mdpi-v4/in_app_bg_2.png
+SHA1-Digest: p9tuZywFBpAWDLlKJmuSP0iz9t0=
+
+Name: res/drawable-xxhdpi-v4/lobby_button_top_right.9.png
+SHA1-Digest: FdJwiicEIq8DLVK8LjCfFr5UlIQ=
+
+Name: res/drawable-xxhdpi-v4/button_close_off.png
+SHA1-Digest: Q3YV52nza+oz93/HFwCeCQPLnBg=
+
+Name: res/drawable-xhdpi-v4/bc_bubble_operator.9.png
+SHA1-Digest: Mb3KBu/xfe4HqYad1ZLb/hZxOko=
+
+Name: assets/thedeal/ui/info.csb
+SHA1-Digest: wpmjvQ/Z7NPgy9d49w6dNOGi0wI=
+
+Name: res/drawable-hdpi-v4/abc_ab_share_pack_holo_dark.9.png
+SHA1-Digest: ClYufRbNWvyovpfKiKGhZcxPbv8=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: rG5iJ8LJqs0d2oExcr38IP+z/7s=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: Zpm+uanjIZounXjdWPevociI0a8=
+
+Name: assets/thedeal/ui/images/icon_arrow.png
+SHA1-Digest: LbwjRmmrKi/osUA1WMbiWCrfrHw=
+
+Name: res/drawable-xxhdpi-v4/info_tooltip.9.png
+SHA1-Digest: zgK0zWkivZi9pqnIG16ESgodwus=
+
+Name: res/drawable/black_buttonv2_enabled_always.xml
+SHA1-Digest: 7VHpEBvoGvKm4Y2AW5scchg2LO4=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: qdpVIcOeVOJG3xTaI3TbVDJS/j8=
+
+Name: res/layout/tournamentactivity.xml
+SHA1-Digest: JupMPbie8uGNiVzVM3ktaw39KOs=
+
+Name: res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: g2USB8po5f17zq2bzhZdtnxSmOg=
+
+Name: res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 6bGD4jGKEnE3B0EkCpW5Emm9up8=
+
+Name: res/drawable-xhdpi-v4/ic_notification_button_copy.png
+SHA1-Digest: +ngOtT27T76wTy2AvvxcCa4LqKY=
+
+Name: res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: VJa6PrhxyIRS2huzDuIN1KH+I2c=
+
+Name: res/layout/sports_lobby_activity.xml
+SHA1-Digest: 4D4w+egtSZJ8mJZ62/vR6aa3sWs=
+
+Name: assets/thedeal/seat/images/avatar_mask.png
+SHA1-Digest: nV6jQREsa4jRWkZRcUkoKXjpIes=
+
+Name: res/drawable-nodpi-v4/tourn_nonselected.png
+SHA1-Digest: E7E0aZb06GbQ4/5T8JLlwnCT3mo=
+
+Name: res/drawable/black_buttonv2_shape_pressed.xml
+SHA1-Digest: C4bw5j/8gb+Ide94/I+Izwe0kWQ=
+
+Name: res/drawable/post_usage_dialog_bg.xml
+SHA1-Digest: 878A3azDk7WSJ7Dk0bIc+vq3Nrw=
+
+Name: res/drawable-hdpi-v4/cast_ic_notification_2.png
+SHA1-Digest: qtdy9yZtPE1i5ELFCsAkEKDYPxs=
+
+Name: res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: mKb40R7xcuZM96zo643mq8SVoL0=
+
+Name: res/color/linkv2colorlist.xml
+SHA1-Digest: hXID7wn5gdO08ik18zU9K/KCYmk=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: UCzYT6RE8m1+z99KNVBkhnl38jY=
+
+Name: res/layout/chatitem.xml
+SHA1-Digest: 4ZrzRLz6FBNKP5SgSAv66INUnTM=
+
+Name: res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: RMsgj4KJpKAEXVBRBwDt8FeaMY8=
+
+Name: res/layout/dialog_accountinfodialog.xml
+SHA1-Digest: 2a5n5bjKjun3+yY8RFUU8RkEe6k=
+
+Name: assets/thedeal/table/images/background_blurred_hr.png
+SHA1-Digest: ZaIDd+Va0KARVNbWie3ZH2GkTgw=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 2SSuJk3m1pafpmf81TSs7M6iuf0=
+
+Name: res/drawable-xxhdpi-v4/silver_nudge.png
+SHA1-Digest: zsUj8IM174vg2VAf1GKWGpWAGz8=
+
+Name: assets/cards/0576/images/rank_j.png
+SHA1-Digest: O91KQ7h8WLOCwejoOseBc6PhJwc=
+
+Name: res/drawable-xlarge-nodpi-v11/bkg_sport.jpg
+SHA1-Digest: 8557stJ9vxlGNOhF97EdEWakc84=
+
+Name: res/layout/lobbyfragment_spinandgo_row5.xml
+SHA1-Digest: CAeB6XUFZDKz+iVIUtdkZfIbSEk=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: oJkL4xtlN87pNrCzPgueqqvY2nU=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: RQ09RDJf3yWYEKYOavo2ED4Yaz0=
+
+Name: res/layout/dialog_inactivitytimeout.xml
+SHA1-Digest: GwKw8rQLl31Uciqa1Y68YdZ30hM=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: m3YAtUmXDcAGXG5Zyr9q08Mbs2Q=
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA1-Digest: qtv4Ox2BTM0Ewmi3Scxy6Qex2YI=
+
+Name: res/layout/dialog_lasthand.xml
+SHA1-Digest: HPS6HpE9sdN5/qHux8D8JU6t9BE=
+
+Name: res/raw/snd27.wav
+SHA1-Digest: M3U8ZQH7jK05BH6QNmD+VCtD88I=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_light.9.pn
+ g
+SHA1-Digest: MNi9MV8wCkdDwmYH6J7+SbIAI1k=
+
+Name: res/layout/abc_screen_simple.xml
+SHA1-Digest: Urpa3cJPqCZ02U2zo5CRlJ1MCbE=
+
+Name: res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: z0xEJNNl6qN3MKa3Uq4y93mF7Cw=
+
+Name: res/layout/dialog_termofservice_it.xml
+SHA1-Digest: XXD0FxI9OQmQEYN47pdG/vDN67E=
+
+Name: res/drawable-nodpi-v4/v3_background_home_2.jpg
+SHA1-Digest: xppDdN8dFewIAckJI54L+B3S/D4=
+
+Name: res/layout/simple_list_item_1.xml
+SHA1-Digest: +XcH0UPbL62G1QNiezT0JsxmxkY=
+
+Name: res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: /2mBmivLSyY7rFj/FYlp78++b/g=
+
+Name: res/drawable-xxhdpi-v4/actionicon_search.png
+SHA1-Digest: 20p7GzXGXwmX0rMYupqA7HHEdm4=
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA1-Digest: 6ga3ohDAgjszm8vt3QE6o48ucng=
+
+Name: res/drawable-xhdpi-v4/zoom_add_logo.png
+SHA1-Digest: wJivzAWr/ikRg/8BaIO5eM8Z9KM=
+
+Name: res/raw/snd33.wav
+SHA1-Digest: +AnKgCMbhi/Je1E6CUlCIXaTyos=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 3WOChYu3Ms2kyEHXijAnPBxAgRA=
+
+Name: res/layout/tournamentfragment_list.xml
+SHA1-Digest: 8VLYuynSEIn2y1eqIRCRTV2dAAA=
+
+Name: res/drawable-mdpi-v4/tournicon_status.png
+SHA1-Digest: Gt7C5O4ejLl0//QkyEmozf0PVZk=
+
+Name: res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: j4YCzt0aE3XiVuR90dIkNXUHnHE=
+
+Name: res/layout/settings_item_boolean.xml
+SHA1-Digest: 91h6bTix6C6ul3wdLCBnVx2gFOQ=
+
+Name: res/drawable/chat_background.xml
+SHA1-Digest: 4mBXVdeermLlrLd3CGnsBNoseoc=
+
+Name: res/drawable-mdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: W063SlyrzTvVLq8T+B8TBmOdWCk=
+
+Name: assets/thedeal/ui/images/rec_rounded_stroked_dark.png
+SHA1-Digest: x3wQji6fNFCJGXq3rqh05W/wTyI=
+
+Name: res/layout/dialog_activateaccount.xml
+SHA1-Digest: el437ZEEJZk3Nop6CCzJCUUbbEE=
+
+Name: res/drawable-hdpi-v4/ic_notification_button_decline.png
+SHA1-Digest: B6y7iPn5z9weWT8vjIdkfq8vKH0=
+
+Name: res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: 0MMPUBC/hxFmt1Ak92Vmj3X0hfs=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: 5DJcJTVQZ/5EfOcHn52XOrGisZk=
+
+Name: res/animator-v14/ua_iam_slide_in_bottom.xml
+SHA1-Digest: dfaa51H/3Y2RPX+XYpTjOLc+hC0=
+
+Name: lib/armeabi-v7a/libpokerstars.so
+SHA1-Digest: EOAraZzBiKiTAlNnfH6DdS+f8Cc=
+
+Name: res/drawable-nodpi-v4/green_button_normal.9.png
+SHA1-Digest: NrQ3nJ5v0PBRwFCYxdnVC1jP0Rk=
+
+Name: res/layout/table_header.xml
+SHA1-Digest: EwJenGCOfrffppyUN3qEg/czb7U=
+
+Name: res/drawable-xxhdpi-v4/ic_drawer.png
+SHA1-Digest: i4aSHLFDe9o7a1QYeQjyWgBVsvg=
+
+Name: res/drawable-mdpi-v4/tournicon_satelites.png
+SHA1-Digest: YbChnQconZCNCQ6nCIaXb5EvuHM=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 92pHkmawW9x95wDQw6uvTZBRXkQ=
+
+Name: res/drawable-nodpi-v4/lobby_toggle_selected.png
+SHA1-Digest: iDOPlIApKWepvI0A43y5TQyzBZI=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: 5rSZbdJDOTdM5kJhhIdl8m8briI=
+
+Name: res/drawable/black_button_text_color.xml
+SHA1-Digest: lVqeBl58k9jfTHpBHWTS6H68HpQ=
+
+Name: lib/armeabi-v7a/libopencv_core.so
+SHA1-Digest: DAftt7Fn8BWxNuuUTyj/aoMLGyQ=
+
+Name: assets/thedeal/jackpot/particle_win1.plist
+SHA1-Digest: vSAToMaM8SCZaABUhcpo/uL1Qzs=
+
+Name: res/drawable-xxhdpi-v4/forward.png
+SHA1-Digest: rm9PQfr+JwzmPxZUcicUwS1SDUw=
+
+Name: assets/thedeal/seat/images/avatar_frame_desktop.png
+SHA1-Digest: Iu7mNFBGvo7wDkhiZtUR4+lISDQ=
+
+Name: res/drawable-xxhdpi-v4/drawericon_casino.png
+SHA1-Digest: ulIkr1uYdyQYEfYD7tsvT1K1fYY=
+
+Name: res/drawable-xxhdpi-v4/chips_1.png
+SHA1-Digest: yTMuMzIgmYY9NQUHUYwGh1QT9ao=
+
+Name: res/drawable-xlarge-nodpi-v11/background_home_2.jpg
+SHA1-Digest: VFHf9BLAAPRWZWS2gODcPudlwys=
+
+Name: res/layout/dialog_tourn_change_phase_row.xml
+SHA1-Digest: xrbmFq7ontNQ1pI6XanPUEDPP+8=
+
+Name: res/layout/dialog_changeaddress.xml
+SHA1-Digest: TOX0fHijyzJyvJIwYxx38h4kjI4=
+
+Name: assets/cards/0576/images/rank_9.png
+SHA1-Digest: 8NCuvFGz/uutLCsu+DIT76EzBzk=
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: lFwWIsf1l1uVpW1Xm0iz19TBZG0=
+
+Name: assets/thedeal/sounds/deal_bonus_win_jackpot.mp3
+SHA1-Digest: DIlBFEovDdRraysaP4zDE7rwYzQ=
+
+Name: res/animator-v14/ua_iam_slide_out_top.xml
+SHA1-Digest: vfp5wMxlM7ZWY9EuTQKa2CqGPTM=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: R0rCQap54Xf4ElOYS7zj9TUQB6s=
+
+Name: assets/thedeal/ui/rec_rounded_stroked.png
+SHA1-Digest: OwVFifeZ6Dkioie5GTzm7ZwlrCc=
+
+Name: assets/thedeal/table/counter_blurred.png
+SHA1-Digest: dkcyZlxAt7Hdqwe78z1R14mrlQw=
+
+Name: res/layout-v17/abc_search_view.xml
+SHA1-Digest: 2QjpiYzODtUfutphL4GOwKR2yvQ=
+
+Name: res/drawable-hdpi-v4/ic_notification_button_thumbs_up.png
+SHA1-Digest: KHfIULq691qM76viVS0cpXeDclc=
+
+Name: res/drawable-nodpi-v4/room_caption_background.png
+SHA1-Digest: 9rGkA2do4BXeUeCGdAa8whs0VPc=
+
+Name: assets/thedeal/ui/images/icon_info.png
+SHA1-Digest: ENJNouYTxKl5tcxI4YoIqlipBJo=
+
+Name: res/drawable-xhdpi-v4/chips_6.png
+SHA1-Digest: nAVSR8XYBt5J6GLu/2tbCa11cZo=
+
+Name: res/drawable/default_start_logo.xml
+SHA1-Digest: t+EYIwt8xmThxAdlRXN9OJqnX78=
+
+Name: res/layout/lobbyfragment_spinandgo_list_room.xml
+SHA1-Digest: iy8SWY9ihfHjpHAA4fVErgbnMtg=
+
+Name: res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: PqzD1Bva41x/4FJI5xe2uDeGmiE=
+
+Name: res/drawable-mdpi-v4/menu_casino.png
+SHA1-Digest: xvv9RsY0pHeB43pTIpwHiNBCXjw=
+
+Name: res/drawable-xxhdpi-v4/fpp_coin.png
+SHA1-Digest: qhCAMzzjsqCdgzqTevyYi/t8ZCI=
+
+Name: res/layout/dialog_enhanced_password_reset.xml
+SHA1-Digest: trYzKYttqxC98rOnNQFJqiCFtQ4=
+
+Name: res/drawable-mdpi-v4/ic_close_white_18dp.png
+SHA1-Digest: s5mkAfFoDdDM78Ir4RKtDzKGFrY=
+
+Name: res/layout/dialog_enhanced_password_reset_result.xml
+SHA1-Digest: 7JxGAAWVFgVNOQKd2sf9uLI0Lso=
+
+Name: res/drawable-xxhdpi-v4/card_match_win.png
+SHA1-Digest: s8ThSyQgdaYK376LOk62FkSQY9E=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: 8UdqvLb0HOmVMH2qCnY9uOrXQWM=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: QluevaTHgv86WnKHj0Dyu1BcXpk=
+
+Name: res/drawable-nodpi-v4/minitable_table.png
+SHA1-Digest: YT7aDBouhOLuPHqzPEKydNCWUx8=
+
+Name: res/drawable-xhdpi-v4/home_ring_logo.png
+SHA1-Digest: aURLqHot8jYsyTqt1VlipXDaPtc=
+
+Name: res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: 4HH3Bsrr5QDXIXVKrtF7nXNxySk=
+
+Name: res/layout/dialog_browser.xml
+SHA1-Digest: LolEIY4EDKhMyUMWGvqO6SaDqRc=
+
+Name: res/layout/page_realmoneyaccreellicenseee.xml
+SHA1-Digest: r8ufd2yyr9RQqbJCNQLS2IozNnk=
+
+Name: assets/thedeal/jackpot/mp_avatar_placeholder.png
+SHA1-Digest: Y4Rak3UYnPXRG/qWDRCshXn5TAk=
+
+Name: res/layout-v21/abc_screen_toolbar.xml
+SHA1-Digest: 3DrQWhnuPJmA5opxQF29BZaW/n8=
+
+Name: assets/cards/0576/images/hj.png
+SHA1-Digest: VL3ijCSTrRg+b+Kfm9jwSqpaaks=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: I3MP0NXnINH3Gb4a/IxI+nMF2mw=
+
+Name: res/drawable-mdpi-v4/ic_notification_button_thumbs_up.png
+SHA1-Digest: bXUpnfAylqCWsc3YIref1TGTfgM=
+
+Name: res/layout/dialog_pokerschoolsignup.xml
+SHA1-Digest: FWZv2ajcItteTi4pP/fxkqICzko=
+
+Name: res/layout/tournamentfragment_row.xml
+SHA1-Digest: 6g6k9uon8mULEw4qp7i3ZpW4qBI=
+
+Name: res/layout/join_activity.xml
+SHA1-Digest: 62gYKcJ1mqxFzvnJYpIGqeCqVe4=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 7I7bReLRQHlqabBYSFGTaGGtVk4=
+
+Name: assets/cards/0576/images/sj.png
+SHA1-Digest: oQjNSYdfVNAOuSA8cwo9qxYZWOQ=
+
+Name: assets/thedeal/ui/header.csb
+SHA1-Digest: pT3RDhpiSDe95ynRrJEXCYtRjHs=
+
+Name: res/drawable-hdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: SfY+3G0ROn26yscNfyqLheYZY3o=
+
+Name: assets/thedeal/ui/images/icon_prizes.png
+SHA1-Digest: VYycU2VJwbwUj0zDkGX4dIxx+xg=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: pyKGvlDIcuabjUP3XyADkEc6qG4=
+
+Name: res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: z7zwna5/785Ly8ahNPOE2jNcEWg=
+
+Name: res/drawable-nodpi-v4/capacity_takenseat.png
+SHA1-Digest: Pdh10ct5s8bfm7SavWabKW4/uVM=
+
+Name: res/drawable-nodpi-v4/sag_logo.png
+SHA1-Digest: tnpboe2fNrshyvBQpLdc+EDl+Nk=
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA1-Digest: IuYI5vQjWWP1qL2ucpoSX2vYK8Y=
+
+Name: res/drawable-xhdpi-v4/cast_ic_notification_2.png
+SHA1-Digest: tccUOIw+wwShOm1ZhkTFX+cBUZA=
+
+Name: res/layout/dialog_login.xml
+SHA1-Digest: 8UDsnMu9y940dBBspsfqFfrXB48=
+
+Name: res/layout/dialog_selfexclude1or5years_confirm.xml
+SHA1-Digest: AIwngfxuhfCGVtXghz8ksin7QH8=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: h591GjAtEZ+scBz50reA/1QaVeU=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: ofI9nzE08OaCOIP3AVHuxWg/9QQ=
+
+Name: res/drawable-nodpi-v4/black_button_normal.9.png
+SHA1-Digest: akUJUKlYpTsT5+PnHoHBOwfQesM=
+
+Name: res/layout/dialog_depositlimit_es.xml
+SHA1-Digest: 57T++BOWoD+tjvmyne2Y7cahOrM=
+
+Name: res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: +eLoSt8uctg1cY5up3uNj7FsoEI=
+
+Name: res/drawable-xxhdpi-v4/actionicon_poker.png
+SHA1-Digest: /824fEmS6Rp92bOBOUH1vAkLYtc=
+
+Name: res/layout/table_content.xml
+SHA1-Digest: R5ZWRCQl3Kekayle87Y3Thc1Rkw=
+
+Name: res/drawable-nodpi-v4/drawer_icon.png
+SHA1-Digest: 8/01KmoHtu2e58qlvX88EA0UDus=
+
+Name: res/layout/dialog_validateinstallidsms.xml
+SHA1-Digest: t/ay8aUIeNAtq/25oeCkSyUGxoQ=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: s4uIGxiw82Eldwc4SK5gHwRLmgU=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: OIRGcM9wwTMJqudjfOzKjfWhqx0=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_dark
+ .9.png
+SHA1-Digest: R0rCQap54Xf4ElOYS7zj9TUQB6s=
+
+Name: res/drawable-xxhdpi-v4/cast_ic_notification_2.png
+SHA1-Digest: 1uqhFvgtVXGAYszv0Kl27g03dD0=
+
+Name: res/drawable-nodpi-v4/minitable_fiveholder.png
+SHA1-Digest: Not4dh10K7uNdkOjb2csC7HmaI0=
+
+Name: res/drawable-hdpi-v4/icon_close.png
+SHA1-Digest: NXpHk2ArNHJedNtudeKWAxR3sCQ=
+
+Name: res/raw/fold.png
+SHA1-Digest: WuiQA/kcl7Xyjm8qLcnKyeJ1NtU=
+
+Name: res/drawable-xxhdpi-v4/diamond.png
+SHA1-Digest: N1XH7l5gGBIpLVOdnrVIdHVf6DE=
+
+Name: res/drawable-mdpi-v4/ic_notification_button_cart.png
+SHA1-Digest: OX0x8xnOMSQY+0jfvVxTGX1pCpU=
+
+Name: res/drawable-xhdpi-v4/in_app_bg_2.png
+SHA1-Digest: rbG2wRFvQUfKoB55zMZr/1Y2M6Q=
+
+Name: res/layout/dialog_autowithdrawlimit.xml
+SHA1-Digest: cRDe8mkDLL2/rYwiovFnfIGb5Ak=
+
+Name: res/drawable-nodpi-v4/sag_add_table_bg.png
+SHA1-Digest: UU5ou0vtmOnp36o4qjAyJreigd0=
+
+Name: res/layout/dialog_connstate.xml
+SHA1-Digest: IgQvlTx4FioY9rygti/bKd6Rhp4=
+
+Name: assets/thedeal/ui/spotlight.png
+SHA1-Digest: OXiqMmSYTT/eC0hdx05oalmu05k=
+
+Name: res/raw/snd18.wav
+SHA1-Digest: CFi2UclFWwqTTirNnTDnxBuAQZw=
+
+Name: res/layout/dialog_tournregistration.xml
+SHA1-Digest: Fql7c5qQqXDS1FcPmxZlr6ar7Ro=
+
+Name: res/layout/lobbyfragment_criterialist.xml
+SHA1-Digest: H4jup6P9P2YptpAidpbw2BxbuDg=
+
+Name: assets/thedeal/cards/thedeal_card_back.png
+SHA1-Digest: tU+7bCnsRuB1mgVe0YgKFPTM+Pg=
+
+Name: res/drawable-xxhdpi-v4/drawericon_iceleaderboards.png
+SHA1-Digest: A4frcUjV3fL0aRFqpa+07R0YvOI=
+
+Name: res/drawable/white_triangle_down.xml
+SHA1-Digest: 0JecVfJ70DcsY+NZsDte0M46qho=
+
+Name: res/menu/bc_chat.xml
+SHA1-Digest: x8xDPReyTiLolnTDLG4bwYInN7I=
+
+Name: res/raw/snd29.wav
+SHA1-Digest: h3aaS8lUQ6A4TMSKY59Alpsz0Vo=
+
+Name: assets/thedeal/jackpot/particle_win3.plist
+SHA1-Digest: 3q2YN1cwrI0rYX7d7QlOOz/8VTU=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: +bjkZfnp7jH8HvA5wzYQ85O04Ic=
+
+Name: res/drawable-hdpi-v4/tabicon_ice.png
+SHA1-Digest: TLP47AHWfE56PuZ3VR9lf7x+J5g=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: YA4050FPgpAFuw6xQI3jFSgIwVQ=
+
+Name: assets/thedeal/ui/button_play.csb
+SHA1-Digest: 9X4Iyie3JoK1xlXOI00ejf/GEso=
+
+Name: res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: jc4oJEYTLIrf2udsvTHr7e9rH+E=
+
+Name: assets/custom_monospace.ttf
+SHA1-Digest: tSwYqYijVQwkPM8KYkctJLQbFLo=
+
+Name: lib/armeabi-v7a/libcardioDecider.so
+SHA1-Digest: 526iptCok24CAALcXkLFh5Vhq1M=
+
+Name: res/layout/dialog_forgotuserid.xml
+SHA1-Digest: O8S6wII0Jtj7yX85kEDDCRhKPLM=
+
+Name: res/drawable-xxhdpi-v4/lobby_btn_glow_tablet.png
+SHA1-Digest: iwbvl8mOPGLsavqrEfqayIsBOmw=
+
+Name: res/layout/dialog_autorebuy.xml
+SHA1-Digest: s966P1d3+41BlQo7y87nkZNEQrg=
+
+Name: res/drawable-mdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: 3ocjamXiDDzZQ9Er9Iv+AG/CvIc=
+
+Name: res/layout/dialog_casinolimits.xml
+SHA1-Digest: ahFGKMnpLgu0s3Ti6WnsQtiSdNY=
+
+Name: res/raw/snd14.wav
+SHA1-Digest: Ojle6WRVQ1AN3ifodPd3ZihOOxE=
+
+Name: assets/thedeal/table/how_to_play.csb
+SHA1-Digest: 0Jkd8/Gj6+rVkBg+tkX7TQPEXSM=
+
+Name: res/drawable-xxhdpi-v4/chips_3.png
+SHA1-Digest: TmtG5M5AANqJIA4s/zzcQBtD8YY=
+
+Name: res/drawable-xxhdpi-v4/cast_ic_notification_0.png
+SHA1-Digest: wiFr7HkUAmyXa2FnNtgR6idKpcw=
+
+Name: res/drawable-hdpi-v4/ic_notification_button_follow.png
+SHA1-Digest: aSV5Tf1c6jdErqjLRju4eaz5DfQ=
+
+Name: res/drawable-nodpi-v4/black_button_pressed.9.png
+SHA1-Digest: HekIoCsVUzhRotcRfK8EpzrmwkA=
+
+Name: res/drawable/white_tile.xml
+SHA1-Digest: y9FAkKEPrilL3uFOkEjgaagupcU=
+
+Name: res/layout/lobbyfragment.xml
+SHA1-Digest: KU0txrZG+olFbezpYWevp6huwBQ=
+
+Name: res/drawable-hdpi-v4/baricon_refresh_light.png
+SHA1-Digest: 9P8hzm36chdNGIc/M+oZL36L6Is=
+
+Name: res/layout/dialog_handhistory.xml
+SHA1-Digest: ZeXmz5QXUpAhLrEoO8Up6mngkHI=
+
+Name: assets/thedeal/ui/jackpot_counter_numbers.png
+SHA1-Digest: qeuuiuEGdyWvgAGAu9V2UQn7jFY=
+
+Name: res/drawable/room_button_light.xml
+SHA1-Digest: 33vsK2LGSNYqxZxjCFuLKsEX+BY=
+
+Name: assets/cards/0576/images/suit_spade.png
+SHA1-Digest: iVmCjTINOMBXge3SAwPwlt+cHkw=
+
+Name: res/drawable-mdpi-v4/chips_4.png
+SHA1-Digest: 6h/HQESXeBK43KfN6FVTMU76Pwk=
+
+Name: res/layout/preference_dialog.xml
+SHA1-Digest: jjpKGTNziVjkXzTZTlw9swjlUPw=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: rRjIC9V51TgZe2Muk+QxNRxDB4k=
+
+Name: res/drawable-mdpi-v4/actionicon_lobby.png
+SHA1-Digest: ldROkv341pIgxmBi69tKudrFLro=
+
+Name: assets/thedeal/ui/sliderControl.csb
+SHA1-Digest: ogJy1d4upgHtC8QgVgTxWMeFz5I=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: alk9qCjovoayqfBmhKb0OSABN44=
+
+Name: res/layout/simple_spinner_dropdown_item.xml
+SHA1-Digest: 8uxGKJOotYFtsvBPlyYny5szRqk=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: wv2dVvaU2YokwLE9rPy/vR71x8o=
+
+Name: res/drawable-xhdpi-v4/push_notification.png
+SHA1-Digest: 1L5BjxucRKBQA9mI9FAbnx9uMWc=
+
+Name: res/drawable-nodpi-v4/lobbyicon_knockout.png
+SHA1-Digest: 1nb8Y83vv/ZJZRfQ4EMTOC8G+uc=
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA1-Digest: GoNaOA7lnmzaG0qoGwc+2pFImoM=
+
+Name: res/drawable-mdpi-v4/bc_bubble_system.9.png
+SHA1-Digest: gdf6IYPTlzxipbG/h5sdMIkenFc=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: PQepBgnG9/NfWmEsB0xZninuUKM=
+
+Name: res/drawable-xxhdpi-v4/drawer_tooltip.9.png
+SHA1-Digest: /uwiUof0NzaTEBka21wp7+EGXvM=
+
+Name: res/drawable-xxhdpi-v4/tournicon_prizes.png
+SHA1-Digest: 5KIxZHt/KeXE0iNPxLpUZjTKdRQ=
+
+Name: assets/thedeal/ui/rec_white.jpg
+SHA1-Digest: N6U9eiQA1bkDRfcISheK3b1C5oI=
+
+Name: assets/thedeal/jackpot/images/background_rays.jpg
+SHA1-Digest: A5N1CPQ13QFbA2dZYNgYqZxbelk=
+
+Name: assets/cards/0576/images/rank_7.png
+SHA1-Digest: 8sFDR123GTfgmeu11yGSI+uG5YA=
+
+Name: res/drawable-xhdpi-v4/actionicon_settings.png
+SHA1-Digest: AUntXs9Bonw1glojEGo+W9mmgfY=
+
+Name: res/layout/toggle_separator.xml
+SHA1-Digest: qX0S9VExeSxbC8WLKDAbdrkh5QM=
+
+Name: res/drawable-xxhdpi-v4/ic_notification_button_download.png
+SHA1-Digest: 67nAlYipygGzjSkVoSWxGHGgN10=
+
+Name: res/layout/tableslider_edit.xml
+SHA1-Digest: X7J4IT77u3N2kNJ+6XRWr29dbpA=
+
+Name: res/drawable-xxhdpi-v4/spade.png
+SHA1-Digest: iUd+IT8TK4kiz4KWkLKDtepFLiw=
+
+Name: res/drawable-xhdpi-v4/actionicon_room_disabled.png
+SHA1-Digest: VP4d6HqCIgY+Ri9k+7A36MiwM1U=
+
+Name: assets/thedeal/table/images/counter_blurred.png
+SHA1-Digest: dkcyZlxAt7Hdqwe78z1R14mrlQw=
+
+Name: res/drawable-nodpi-v4/bkg_poker.jpg
+SHA1-Digest: 89KUDBCvrBuvT6BHx12t9G6o3qc=
+
+Name: res/drawable-nodpi-v4/icon_attachment.png
+SHA1-Digest: gY1UfeG7clUJPEyurTvhf+ogs1o=
+
+Name: res/drawable-hdpi-v4/ic_notification_button_cart.png
+SHA1-Digest: pSUyJdUDZfjay7vVFjJuziRxqm4=
+
+Name: res/drawable-xhdpi-v4/cast_ic_notification_0.png
+SHA1-Digest: SC6BEoWbQN0P2/j+7oI2UDRWh3w=
+
+Name: assets/thedeal/table/images/how_to_screen4_ps.jpg
+SHA1-Digest: UPdtddGHvmS9oOxuSgIj3SAxDzw=
+
+Name: empty_.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: v0iWBlI5czWXCEaTRPjNNmieAL8=
+
+Name: res/drawable-hdpi-v4/ic_drawer.png
+SHA1-Digest: 2V8WT3fmyJE0IaTwQ+duVqm3rdA=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: Liu4ZSvXVbRTfKfw/Sf1BCXStdc=
+
+Name: res/drawable-xxhdpi-v4/lobby_btn_glow.png
+SHA1-Digest: AV9XNSitdIPcVrAxENIgO6hYjNg=
+
+Name: res/layout/dialog_depositlimit_it.xml
+SHA1-Digest: g7nbazqEhnTrKCdEzkECwSbSrkw=
+
+Name: res/layout/dialog_casinosessionreminder.xml
+SHA1-Digest: 6aEfB9Shg5piIcNQCTR7XbdtDmw=
+
+Name: res/layout/dialog_instantbonus_cleared.xml
+SHA1-Digest: G/iBUczMwgOu57VenkM7eXo34hM=
+
+Name: res/drawable-hdpi-v4/live_assistance_animated_button_01.png
+SHA1-Digest: /wuDU/o6UGQy7rFd6plhKTwHBFc=
+
+Name: res/drawable-nodpi-v4/white_button_disabled.9.png
+SHA1-Digest: IWyQJOv4wCslmC7cED/XSgCx7GI=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: T7jCCqaBHZydFrghJhlARmdI7xk=
+
+Name: assets/thedeal/sounds/checkmark4.mp3
+SHA1-Digest: hDNvUlMwqM0glkn3CmbDYARTaNg=
+
+Name: res/drawable/combobox_background_v2.xml
+SHA1-Digest: 0rYepdg/yVAdKQ9P+NGXFjehcq8=
+
+Name: res/drawable-nodpi-v4/spade_center.png
+SHA1-Digest: LeNxcC0N1IlhqVeklkiHnHrNSLw=
+
+Name: res/layout/dialog_selfexclude1or5years.xml
+SHA1-Digest: aNCgA79h0yHaO/uQkAeMOiaQHkE=
+
+Name: res/color/buttonv2colorlist.xml
+SHA1-Digest: /LdteKMiUnH+7Culv03SB5PO3CE=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: o+8NFbzkmHYkqnNEQEZFfu2Scxs=
+
+Name: assets/thedeal/ui/slider_inner_bar.png
+SHA1-Digest: Rma2LfBlq6u8Oao8TIuPMN1Aizw=
+
+Name: res/layout/dialog_webrmf.xml
+SHA1-Digest: uX7Is0kNOtCYyonV8iPcV6RZ6SY=
+
+Name: assets/thedeal/ui/dialog_logo.png
+SHA1-Digest: Sm6aGIDdHGVIbv6fZPFluniqcwc=
+
+Name: res/drawable-xxhdpi-v4/cast_ic_notification_on.png
+SHA1-Digest: GEgVUHgezybdIGh+tMP310Dychw=
+
+Name: res/drawable/bc_star_unselected.png
+SHA1-Digest: 8dRHbP/UTxZ2CXCKKGBl+RMpWPs=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: +qORW9oS7s5/oY5Z1R4KkQ+aJ1g=
+
+Name: lib/armeabi-v7a/libcardioRecognizer.so
+SHA1-Digest: M6C/I5r3aGD+jl8JQvJlmtIR0lI=
+
+Name: assets/thedeal/ui/images/spotlight.png
+SHA1-Digest: OXiqMmSYTT/eC0hdx05oalmu05k=
+
+Name: res/drawable-xhdpi-v4/homeicon_sports.png
+SHA1-Digest: sgbFRNDPrFZ9Rq/mb83E/fAC5aU=
+
+Name: res/drawable-mdpi-v4/chips_6.png
+SHA1-Digest: gKJaTnPQNfjcAjEP714xex/Yajg=
+
+Name: res/drawable-nodpi-v4/logo_lobby_sport.png
+SHA1-Digest: G+eZEvrZW8EWm3/l3gvlpWmMo5s=
+
+Name: res/drawable-xxhdpi-v4/drawericon_open_bets.png
+SHA1-Digest: NBppvMK9tkMG2ZqxRls/ohG+HVQ=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: in/uM6gaoddhlniDyLN3qnCoO90=
+
+Name: res/layout/startupflowactivity_viewpager_page.xml
+SHA1-Digest: BojMXbabyUGHy+N0Kf/Q1PAiqcE=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: hqxe2Ap9MZsAqBPDoV+yim7NXFM=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: 21LVrkYeQ5X/ROkyklkgL5qWqrE=
+
+Name: assets/thedeal/table/images/how_to_screen4_ft.jpg
+SHA1-Digest: XenhMI5UzS+igFosqRuTBNFcWdg=
+
+Name: res/drawable-xxhdpi-v4/tabicon_ice.png
+SHA1-Digest: Z8sspmJm1RdbbtgwL026Bb0ryqY=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: r5BaJcm8YInShTypnaU/gf6UKTQ=
+
+Name: res/drawable-hdpi-v4/tournicon_prizes.png
+SHA1-Digest: PnAQBtSn+qFyB3KTWK5GZ7MN8Ms=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: F15Y7TDgoQ90hOj/LqmJmzvUv5I=
+
+Name: res/layout/roomactivity.xml
+SHA1-Digest: hkO0pwypQTlIVu5snILUXq0Cuqg=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: assets/custom_monospace_bold.ttf
+SHA1-Digest: 6D3VzG9VeTE8BvrqHrmXjEnpmDU=
+
+Name: res/drawable-xxhdpi-v4/vip_steps_welcome.jpg
+SHA1-Digest: p6F+9dQ0n7TSb2O/OvUXdO1+CPk=
+
+Name: res/raw/snd16.wav
+SHA1-Digest: vgyAOxOV1Zz5zrFsIJb3ZlBZExQ=
+
+Name: res/raw/x.png
+SHA1-Digest: JL2sQOYzD0lEzdVdqmCQjSTJCjk=
+
+Name: assets/thedeal/ui/images/jackpot_counter_shading.png
+SHA1-Digest: +z9EpheLrslH/hyWQZreCRAVlLs=
+
+Name: res/drawable-nodpi-v4/green_button_pressed.9.png
+SHA1-Digest: zWhdq928qIxr4G7f4CsXz6Sfrkw=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: l4wPPYunAqUs5TQYb14SXXQJQ+I=
+
+Name: assets/thedeal/seat/images/avatar_placeholder_ft.png
+SHA1-Digest: Y4Rak3UYnPXRG/qWDRCshXn5TAk=
+
+Name: res/drawable-nodpi-v4/lobbyicon_password.png
+SHA1-Digest: gS7ST12XQufxt7KCizDkG+bvb8I=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: 6rSm6kORk3gR7sN+Kxa8/fR2reU=
+
+Name: assets/thedeal/seat/avatar_mask.png
+SHA1-Digest: nV6jQREsa4jRWkZRcUkoKXjpIes=
+
+Name: assets/cards/0576/images/cq.png
+SHA1-Digest: ehFQuWHwmk2XRqI+B+xghSVDJzM=
+
+Name: assets/thedeal/ui/images/icon_coin.png
+SHA1-Digest: J/c4si2mmSIezH1MZ4SwAYq50DM=
+
+Name: res/drawable-xxhdpi-v4/actionicon_refresh.png
+SHA1-Digest: ZnTOadymLNMqyrT+SETr5Xtthsg=
+
+Name: res/drawable/common_signin_btn_icon_light.xml
+SHA1-Digest: 5ZR1Xldhl/WTfH5LTXCKVBkZ6qA=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: zeUJW+N1oH+oj9U7hL70+0TC4pk=
+
+Name: res/layout/dialog_webcashier.xml
+SHA1-Digest: vTi/uyOXhifR4vBQzdeUkLXcgvo=
+
+Name: res/layout/dialog__migrationwizard.xml
+SHA1-Digest: 3NgVYQwi8bC0F6+ChZc/JNataDk=
+
+Name: res/drawable-hdpi-v4/forward.png
+SHA1-Digest: ICpCfsVvyeLZelzL8IoFNaMggsc=
+
+Name: res/drawable-xhdpi-v4/ic_notification_button_happy.png
+SHA1-Digest: jwSfRZeRCD3G9HVnsO6LOQ06QNI=
+
+Name: res/drawable-xhdpi-v4/chips_3.png
+SHA1-Digest: tl9efr/x4Xx5Mn7Wre3LG90RbTk=
+
+Name: res/drawable-xxhdpi-v4/drawericon_vipstore.png
+SHA1-Digest: 9ullCTeya6Ge5G2ZwpXRRQtyudc=
+
+Name: res/drawable-nodpi-v4/lobbyicon_zoom.png
+SHA1-Digest: alFGm6PbA/qYuXAkNMPcSMkeO5s=
+
+Name: res/drawable/transparent_button.xml
+SHA1-Digest: cbupuIj3sv2vvkphXvnCr0Hxgjo=
+
+Name: assets/thedeal/table/background_blurred.jpg
+SHA1-Digest: Gvke//721ZndbaYrF/8rugz5Gx4=
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA1-Digest: sQHV7LU9w03RhWt5HmQ4TGnnEmk=
+
+Name: res/layout/dialog_resetpassword.xml
+SHA1-Digest: T0GcJspTInIQax5fdJf2CVZomuI=
+
+Name: res/layout/dialog_table_fpp_congratulation.xml
+SHA1-Digest: Xo/q8kgSZ9umkI7WAIIn4uPCVQk=
+
+Name: org/jsoup/nodes/entities-full.properties
+SHA1-Digest: AFSgQ5iKN+T46TMZbysEx2T32t8=
+
+Name: res/drawable-ldrtl-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: pf9NIIotZsMzZhGmwThV2jglFL8=
+
+Name: res/drawable-xhdpi-v4/bc_bubble_visitor.9.png
+SHA1-Digest: iT3OJLBTad3juWVNf1V3Z8vRETQ=
+
+Name: res/layout-v21/simple_spinner_dropdown_item_v2.xml
+SHA1-Digest: 5qpmzJ5oGj8dJiUHIE4Sk48/7XM=
+
+Name: res/layout/webactivity_drawer.xml
+SHA1-Digest: Fg4EF/TeS46WkcZcOndjnWDVsAE=
+
+Name: res/drawable-v21/abc_cab_background_top_material.xml
+SHA1-Digest: axSHVFC6rTwUHr5qz+Cu4CSuTXs=
+
+Name: res/drawable-hdpi-v4/tournicon_players.png
+SHA1-Digest: 65zmJ9IyqbRNeLT6+SkLqEJhVno=
+
+Name: res/drawable-xhdpi-v4/application_icon.png
+SHA1-Digest: SdiB1O1Fz6pGioGfeihGjMX0ddY=
+
+Name: assets/thedeal/ui/images/slider_line.png
+SHA1-Digest: OJj0Uhxo9jGoqVYDj/8BUOUIY/4=
+
+Name: res/drawable/empty_chevrron.xml
+SHA1-Digest: 7h6bisKju/TKBfNB0J5dnzoc2B0=
+
+Name: assets/cds
+SHA1-Digest: cOpTF+2HZhPBYt2+rHhpoqb6S2c=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: TwWXY0poQcBhLXrZXIM9dyV+eP4=
+
+Name: res/drawable-xxhdpi-v4/drawer_open.png
+SHA1-Digest: uhFBuru3XdwEZAaLUMB6l0MF7E4=
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA1-Digest: T/r8SnVia4CVJE/EoPX2zvdv6MU=
+
+Name: res/drawable-hdpi-v4/in_app_bg_0.png
+SHA1-Digest: u8yvxUQKTX796GrG8GoOitb+fug=
+
+Name: res/drawable-xlarge-v11/room_button_gold_dark.xml
+SHA1-Digest: XQ2iTRfl/q/QXE89U7Rtkw794/Q=
+
+Name: res/layout/dialog_location_mobile_phone.xml
+SHA1-Digest: hRbXzq99yN3cqFNVRQUXm3VFE9k=
+
+Name: res/layout/dialog_verifypassword.xml
+SHA1-Digest: /6Xh1ZGCAA181/qtcbfGsXQGN5U=
+
+Name: res/drawable/green_button_v2_text_color.xml
+SHA1-Digest: NLwV290s3bRr9KBOI5HZ2vmVVBc=
+
+Name: assets/cards/0576/images/card_base.png
+SHA1-Digest: D/cjc70oNUHXZMUfd9YXDkDM82E=
+
+Name: res/layout/namevaluetable_row.xml
+SHA1-Digest: lj1vGM/+tzdxLFY2F/fS00O07W0=
+
+Name: res/layout/lobbyfragment_spinandgo_row.xml
+SHA1-Digest: zx81piRHTLQJ30ex3Lia4yagk/k=
+
+Name: assets/thedeal/table/images/how_to_screen2_ft.jpg
+SHA1-Digest: yzcVFUZcVopuiYK7VhrlBrplihY=
+
+Name: res/drawable-ldrtl-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: 2gdfs4MdNrmZ5fPzRYQKwf3z8nA=
+
+Name: res/drawable-xxhdpi-v4/actionicon_settings.png
+SHA1-Digest: 0JRQzk720u8wHWU6PFFC0iJ8JRc=
+
+Name: res/drawable-mdpi-v4/list_opened.png
+SHA1-Digest: MF/wM8eNUAF81AOaWkhztdKKe4Y=
+
+Name: res/drawable-nodpi-v4/home_bottom.png
+SHA1-Digest: vjbm6SfA5GONiS43TYnVZir9gas=
+
+Name: res/drawable-xlarge-hdpi-v11/live_assistance_animated_button_03.
+ png
+SHA1-Digest: K2lXpnzERWW17ufVM2L/lzk4V6k=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: 0sCo4kwonCjyXdol2LjGSe4b7T8=
+
+Name: res/layout/dialog_takepictures.xml
+SHA1-Digest: qS55eKJqtmLsBEnVjPBsiJBG25s=
+
+Name: assets/thedeal/ui/images/card_tray.png
+SHA1-Digest: SRCFAMh+crY3QjgtEw4tm7khlFY=
+
+Name: res/drawable-hdpi-v4/live_assistance_animated_button_03.png
+SHA1-Digest: O5UMeFAZnwQ9bIZ5cZgU9uGhyEc=
+
+Name: res/raw/snd7.wav
+SHA1-Digest: JHdg9tC3+kCUcSRxXFGkXCQTZ5Y=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: UrMd5Q/nT3zvFgkiyUUEZqSex7A=
+
+Name: res/layout/dialog_buyinlimit.xml
+SHA1-Digest: OnLwZgDGq5VHkITthpHsdntpQzU=
+
+Name: res/drawable-hdpi-v4/menu_lobby.png
+SHA1-Digest: ifqQlHJFwwSyWov6Bdr/f/ocBGo=
+
+Name: assets/thedeal/sounds/deal_card_slide.mp3
+SHA1-Digest: Snefa7fcgB59epyprL8kjm1qEww=
+
+Name: res/drawable/live_assistance_anime.xml
+SHA1-Digest: gdruRhtVI0/Rhdj97Vq3RTCwx/Y=
+
+Name: assets/cards/0576/card_colour.csb
+SHA1-Digest: b5kK7XE3DmPXeWOmMxYfDeHUqog=
+
+Name: assets/thedeal/ui/btn_play.png
+SHA1-Digest: FEIcYZ4ETLUB8Hf942u82oMCEPQ=
+
+Name: res/drawable-xxhdpi-v4/chips_6.png
+SHA1-Digest: paHLWPKNJRRY56vAVK2Gx09771E=
+
+Name: res/drawable-mdpi-v4/cast_ic_notification_0.png
+SHA1-Digest: 9HQ/1855rVEVRqUXGHO7UZK0yT8=
+
+Name: res/drawable-xhdpi-v4/combobox_background_normal_v2.9.png
+SHA1-Digest: VSQ/sQX9S2k7S0kPJzllD9ILrnU=
+
+Name: res/layout/widget_sectiontitle.xml
+SHA1-Digest: kOTNjbVYN4b9NXpE0+xQpFqUk6E=
+
+Name: res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: J10MbRypNxo+JeKfGf61OMkWgdY=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: MYhK6MDmNSOEu1U8SfgDMqzNtSc=
+
+Name: res/drawable-xxhdpi-v4/chips_4.png
+SHA1-Digest: FiL2PVLC9a7ApFS59Uzg6Rv74vU=
+
+Name: res/drawable-xxhdpi-v4/red_nudge.png
+SHA1-Digest: GSggu/5HT5WLiKLKJYsV/ETBzUU=
+
+Name: assets/cards/0576/images/rank_6.png
+SHA1-Digest: Q0cCz/UdKdN6k1nWYYl31SE0Xu0=
+
+Name: res/drawable/button_border_state.xml
+SHA1-Digest: r7uFgV+TENidp5CVGehPGFEoHCs=
+
+Name: assets/thedeal/seat/rec_gradient_reflected.png
+SHA1-Digest: 2OLVVzeNiz0v9b/vJeM7V5o6h6c=
+
+Name: res/drawable-nodpi-v4/tournament_completed.png
+SHA1-Digest: 1nwLOYCxgHj2RBgdAOKl6p8qEGI=
+
+Name: res/drawable-mdpi-v4/ua_ic_close.png
+SHA1-Digest: g090Vi/eeY1B7o61No+yeYb/mOY=
+
+Name: res/drawable-mdpi-v4/chips_3.png
+SHA1-Digest: EOYieOyXs9ctF9UY/HnkqgNZxQU=
+
+Name: res/layout/dialog_changeemail.xml
+SHA1-Digest: Kwjb4KIaNd5EOjaoJ6+Wa9jeeZE=
+
+Name: assets/cards/0576/card_face_j.csb
+SHA1-Digest: aYM4InlfToSBJhA7OSZ4guKe91Y=
+
+Name: res/drawable-mdpi-v4/menu_settings.png
+SHA1-Digest: zKAikYxHjQemqHx7EjIJsYiduPM=
+
+Name: assets/thedeal/ui/btn_autoplay_down.png
+SHA1-Digest: Y0o4ZSbV8MdirU4bKOucDm74Rts=
+
+Name: res/layout-v14/ua_iam_button.xml
+SHA1-Digest: bnhftM/pvftxsmVmCYFXZETwdyU=
+
+Name: res/drawable-nodpi-v4/lobbyicon_restricted.png
+SHA1-Digest: Qnnyr2D9MAZ/M/iK8krGV0RJcHI=
+
+Name: res/drawable/ua_iam_background.xml
+SHA1-Digest: TZRoz57RjGhdSa50r7Bb/sqP80E=
+
+Name: res/drawable-ldrtl-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: m5ZFB8xM9wLJXlv+RqbEVelyZ9M=
+
+Name: res/layout/page_realmoneyaccwelcome.xml
+SHA1-Digest: 1YOIQpIgx/gXhVnG44h6Ooayefs=
+
+Name: assets/thedeal/ui/btn_stop.png
+SHA1-Digest: xEAyvMAkpLELNfurct6e8V9pl3Q=
+
+Name: res/drawable-mdpi-v4/baricon_refresh_light.png
+SHA1-Digest: uqT8p1w5SiAr+ss5/e8wwdWFCkc=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: VfF1Y+3CjDiM4dG+tUnOEInJ2T8=
+
+Name: res/drawable-xxhdpi-v4/tournicon_flighted.png
+SHA1-Digest: 8xNKXDOK47cdAmHNDlpUhe0tLdY=
+
+Name: res/drawable-mdpi-v4/application_icon.png
+SHA1-Digest: HQbLxmN5j4j5lw/MMr3E8mrQ2oo=
+
+Name: res/drawable/dialog_border_gold.xml
+SHA1-Digest: keIQYXMglKWr6lJjMcUeB22X/ZQ=
+
+Name: assets/thedeal/jackpot/wheel_light_on.png
+SHA1-Digest: SOuUzSN2fvPFO7v2QrBS46Xnjjc=
+
+Name: res/layout/dialog_onetimepass.xml
+SHA1-Digest: EQCreEb8T2m5H3Cq9AQjRe946GE=
+
+Name: res/drawable-nodpi-v4/minitable_suit.png
+SHA1-Digest: 5mU8oqJO7WFmkgquLklArMrVWws=
+
+Name: res/drawable-ldrtl-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: LRWlMCeV4/Lq+wNklDndVFmtRHU=
+
+Name: res/drawable-ldrtl-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: amTHp+ttVms8n2SMceDC8FO0aqU=
+
+Name: res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: FsvLP65iWVfEfIkCPXw4wimwY7M=
+
+Name: empty.txt
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: vkqm8TXp3yy/Qg5JatgD5k3KN+g=
+
+Name: res/layout/webactivity.xml
+SHA1-Digest: lh/YbzU1wiTsG6ghfMwjmAjwUcU=
+
+Name: res/drawable-xxhdpi-v4/pyr_endchat.png
+SHA1-Digest: S0/VIMb7SeCsq87PEvBfM1yC8wY=
+
+Name: res/layout/dialog_casinohandhistory.xml
+SHA1-Digest: 42uwpvc0Mu0hxs9RgQXNTOrkesM=
+
+Name: res/drawable-xlarge-hdpi-v11/live_assistance_animated_button_01.
+ png
+SHA1-Digest: etwLadMkHftYb1K303HXNXJSwoo=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_dar
+ k.9.png
+SHA1-Digest: UnGnluRjvPtWCPTuaQl6cAdhCys=
+
+Name: res/layout/dialog_resetpasswordbyquestions.xml
+SHA1-Digest: D+Ck3uwhXX//unwjgJ93JQRQrDw=
+
+Name: res/drawable/black_buttonv2_shape_disabled.xml
+SHA1-Digest: nB/k50zd4x27jPXKTyJSG3OKAtU=
+
+Name: res/drawable/red_buttonv2.xml
+SHA1-Digest: eGrTPGEq7zTi9kMtBAONQ/MkwfE=
+
+Name: assets/thedeal/ui/btn_play_pressed.png
+SHA1-Digest: 3IAI9Kj5ELEiwY/XU0ktwQNBDi4=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: +gmuhIqM5fxBv3rZoih1jHA7u0A=
+
+Name: res/drawable-ldrtl-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: H3IfE7NWe2qX8Lw8zD2tmCu/mjk=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 8t8fYpBPxPeFuWeBGdYiV/u6+vM=
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA1-Digest: VVUIRMkvzEbOJTho27Aam7togWA=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: l8EI8skn68wNTc/ak4rIUV30BMw=
+
+Name: res/drawable-hdpi-v4/notification_regular.png
+SHA1-Digest: VZj9Cq/kQvrqgiszIWtqdME4G8I=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: JCchW37ep9rQAe5fTxcGI2f2woY=
+
+Name: res/drawable-xhdpi-v4/notification_attention.png
+SHA1-Digest: QTzvDEjp4PrvMRJ+1C9ou5Btjnk=
+
+Name: res/drawable-xxhdpi-v4/tournicon_satelites.png
+SHA1-Digest: q5TwNcslsjna3SyD6i8NwOaELDo=
+
+Name: res/layout/bc_chat_activity.xml
+SHA1-Digest: VCYexm7d0jefwVHA0ZYWhTcN39Q=
+
+Name: res/drawable-xlarge-nodpi-v11/background_home_1.jpg
+SHA1-Digest: VFHf9BLAAPRWZWS2gODcPudlwys=
+
+Name: res/drawable/button_border.xml
+SHA1-Digest: QHH92KSmzYJMT0LKovV5k1O8gJs=
+
+Name: res/layout/searchactivity_saveditem.xml
+SHA1-Digest: LJeWpxoJo8uF/afxK8HErN1FgO4=
+
+Name: res/drawable-xlarge-nodpi-v11/logo_lobby_sport.png
+SHA1-Digest: bxB7kAYcof5ocLnoGtK2puUWfUE=
+
+Name: res/drawable-hdpi-v4/sag_more_btn.png
+SHA1-Digest: 83tQLKukKDbogV7qXQ8vxw1bx2Q=
+
+Name: res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: stIAi0l6do5PtxTEEt+OuazTScA=
+
+Name: lib/x86/libcardioDecider.so
+SHA1-Digest: Uxr0K1iahX3iwXk9fU1aVFMV3Tw=
+
+Name: res/layout-xlarge-v11/lobbyfragment_spinandgo.xml
+SHA1-Digest: tVl45qdSloJQXIyDl3oly2JE88M=
+
+Name: res/layout/dialog_contactsupport.xml
+SHA1-Digest: L9v10RoXnd2RPKrz6tt3Zg+qMR4=
+
+Name: assets/thedeal/ui/images/button_gradient.png
+SHA1-Digest: Tb8bLTMAFmt5HTTMPXETOY30HnY=
+
+Name: res/drawable-xlarge-nodpi-v11/bkg_casino.jpg
+SHA1-Digest: RXeMdNgfSDz4I0jUQTwnGJv2/Yg=
+
+Name: res/drawable-nodpi-v4/minitable_sag_countdown_2.png
+SHA1-Digest: 95O/YAPANuS1co8ee660NaHoabA=
+
+Name: res/drawable-xhdpi-v4/in_app_bg_1.png
+SHA1-Digest: HJvsiIrspDVuAQfVQnozwxDfsz0=
+
+Name: res/drawable-nodpi-v4/tournament_running_open.png
+SHA1-Digest: WRTlC7xZLw0HFrnNEQJJ6xTvQXU=
+
+Name: res/layout/tutorialactivity.xml
+SHA1-Digest: GQsG8I1xqMrmsPO/IpvL2hb2FIE=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.
+ 9.png
+SHA1-Digest: 3u3fLmehvZBhy/5ikwcph94VGWM=
+
+Name: res/raw/snd5.wav
+SHA1-Digest: v/bLFZVxp6ENCeIzqxVf2wx3uQc=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: bIAQSJr/EfWZjIQk19BSgzvxEPU=
+
+Name: res/drawable-hdpi-v4/icon_confirmation.png
+SHA1-Digest: sGV1lTwmrwRXRJOqCNbAqfLs80A=
+
+Name: assets/cards/0576/images/sq.png
+SHA1-Digest: HehVMQb44eKSK41u3GZdakHPUwY=
+
+Name: res/layout/itemsadapter_rowtable.xml
+SHA1-Digest: BWdkdNnL8voKJTjUA2BIifKBVLk=
+
+Name: res/drawable-xhdpi-v4/tabicon_ice.png
+SHA1-Digest: YNIXrahH5PHWZot8lSbwUXfavMU=
+
+Name: res/drawable-mdpi-v4/ic_notification_button_download.png
+SHA1-Digest: 2BRYeGOpEzud3uKG3Cus7KYdehM=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: Pz5rsvZTd9eVNnjcXVU39QzrqM8=
+
+Name: res/drawable-xxhdpi-v4/drawericon_refresh.png
+SHA1-Digest: ZnTOadymLNMqyrT+SETr5Xtthsg=
+
+Name: res/drawable-xxhdpi-v4/pyr_hidechat.png
+SHA1-Digest: hi/4w9qsCJSr+Xf73QcjI4KqvxU=
+
+Name: assets/thedeal/ui/images/rec_rounded_stroked.png
+SHA1-Digest: EtW5uDr23eCSJZmFt/f16JcoZAE=
+
+Name: res/layout/dialog_systemhealth.xml
+SHA1-Digest: YqL93nqH/dDMjwaOhlDbmtHfZTY=
+
+Name: res/drawable-hdpi-v4/list_closed.png
+SHA1-Digest: UrUHs6HNYyzPz/8/tyrSACsqCZE=
+
+Name: res/drawable-nodpi-v4/promo_100bn_tab_nudge.png
+SHA1-Digest: JaHwjw7J7YCvV+axggan0RPeyfE=
+
+Name: res/layout/tournamentfragment.xml
+SHA1-Digest: JRMTZCUHxyAl13/TR3vGm7RLqws=
+
+Name: res/raw/bc_chat_history_js.js
+SHA1-Digest: OB4L6xJrb4DalM6oreVOpQ4LrWY=
+
+Name: res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: /c5bL7iVveqlG+34t96HN1xBRuc=
+
+Name: res/drawable-mdpi-v4/chips_1.png
+SHA1-Digest: nUEgnnT62nfSRAbIdPimzK0KHPA=
+
+Name: res/drawable/cast_ic_notification_connecting.xml
+SHA1-Digest: w6VbiHhUjjgQ8IfdLmu9ygfxN0o=
+
+Name: assets/cards/0576/front.csb
+SHA1-Digest: raoFf9sP/izgbxYhhrGbgawmDd0=
+
+Name: res/layout/dialog_table_fpp.xml
+SHA1-Digest: 4AJBMyeeSwZ4gHtFKrCC4fkUGkE=
+
+Name: res/layout/dialog_tournregfound_it.xml
+SHA1-Digest: NlRXj6zcnqNEd4TeFl+g2uZO/1o=
+
+Name: res/drawable-hdpi-v4/menu_search.png
+SHA1-Digest: BmVvWfn8BjpSzPjTLOk0Z3JaMUY=
+
+Name: assets/thedeal/ui/button_square.csb
+SHA1-Digest: koNJCrpfrxkVqgWBDsEDKucB+5A=
+
+Name: res/drawable-mdpi-v4/menu_room.png
+SHA1-Digest: cRzqVs3xP8+n0dIN8G95yjHCmpE=
+
+Name: res/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+SHA1-Digest: E74c3aj78MFnidZIhyjcbYdMtVs=
+
+Name: res/drawable-hdpi-v4/push_notification.png
+SHA1-Digest: ulyXXZj/rV2+13gZR2gSlxEMlQI=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: +96NH1NJOncqgaIjD9wfzefrtIw=
+
+Name: res/drawable-nodpi-v4/tournament_icon.png
+SHA1-Digest: khIgTBT0Tz8FHuB5OWCcNGo5AL8=
+
+Name: res/drawable-hdpi-v4/baricon_refresh_dark.png
+SHA1-Digest: /WsM6b2RqRBeuxxM7maxy5lhvdg=
+
+Name: res/drawable-hdpi-v4/live_assistance_animated_button_05.png
+SHA1-Digest: 9x/3HdbApPuDMQfPXg6zJa6dxdc=
+
+Name: res/drawable-xhdpi-v4/ic_notification_button_follow.png
+SHA1-Digest: Ir9Fq2Ds/3RENdRjt5+NgFvoccw=
+
+Name: res/drawable/sag_background.xml
+SHA1-Digest: pFzRt7SJXuxyfDoESEgIXNgxAGw=
+
+Name: res/drawable-xxhdpi-v4/drawer_open_notification_off.png
+SHA1-Digest: aoTJzisJdiS7ddFCsYLkR+ZThwQ=
+
+Name: res/raw/snd3.wav
+SHA1-Digest: zYFeSfa97qDAgppjKRXualbAelU=
+
+Name: res/drawable-xxhdpi-v4/ic_notification_button_remind.png
+SHA1-Digest: lOv49QNl6xCSMmBYprQUB6HZPLw=
+
+Name: res/drawable-nodpi-v4/minitable_sag_logo.png
+SHA1-Digest: gpEYk+J+gw0qUlRpXRcfChazwM8=
+
+Name: assets/thedeal/jackpot/images/wheel_light_off.png
+SHA1-Digest: 1Uwp3J0wlQAOHIEpCL9pV5dMvcA=
+
+Name: assets/cards/0576/images/rank_4.png
+SHA1-Digest: 468Edp1iqAVFAB+O8q91wzqI4dA=
+
+Name: assets/thedeal/ui/dialog_autoplay.csb
+SHA1-Digest: L+L95BXEsH5CXHJlcAAeTKBZ1nw=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: IVjsZMMVr/ce0JFlSQDbVTn2lZ8=
+
+Name: res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: C4a5xmVEzcIJxede0Urh0qZwCmg=
+
+Name: res/drawable-xhdpi-v4/chips_5.png
+SHA1-Digest: tADdB+nkwEGlSLL42yMVdE5xo/o=
+
+Name: res/drawable-hdpi-v4/menu_logout.png
+SHA1-Digest: lcSGIOhbHE4XXFA3SQYaML11MLQ=
+
+Name: res/drawable-nodpi-v4/tournament_registration_closed.png
+SHA1-Digest: /iQ+T6VUh34lhFJoqKK4/DPkqGo=
+
+Name: res/drawable-xxhdpi-v4/drawericon_search.png
+SHA1-Digest: eIwf43rUUMJfYRyO2S9kpzkayGY=
+
+Name: lib/x86/libpokerstars.so
+SHA1-Digest: 8R2/Vor4ZQas+nKBu4am+hfM92c=
+
+Name: res/drawable-land-nodpi-v4/lobby_button_selected.9.png
+SHA1-Digest: 95NQyMzPGBUVQoiuZvKa2fz89Xk=
+
+Name: res/layout/mini_game_web_activity.xml
+SHA1-Digest: VlfZB1GDJ6yXI+oMoXeqkg/Gpgs=
+
+Name: assets/cards/0576/images/suit_heart.png
+SHA1-Digest: 9ke5s+rx2bEpGZse2JQ3/iP7DYk=
+
+Name: assets/thedeal/ui/audio_test_1.csb
+SHA1-Digest: k3eHYTQn0MqKOFChsGUsPt0HuXI=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 4oU1S0T6qbsEVVg1vrykxhO0l2Y=
+
+Name: res/drawable-xxhdpi-v4/drawericon_tables.png
+SHA1-Digest: nb9WjMyZe+9e/jWQfkIUMug6eXo=
+
+Name: res/drawable-hdpi-v4/fd_i_spin_2.png
+SHA1-Digest: QIV+VixNJmq7uiHSzyoe2P45u5U=
+
+Name: assets/thedeal/ui/button_info.csb
+SHA1-Digest: blYFYgUiZxvw0Y4FgbGVDLiU4bY=
+
+Name: res/drawable-hdpi-v4/application_icon.png
+SHA1-Digest: GlFTO9Qj7YAwMDgENvy5kxNEehY=
+
+Name: res/layout/searchfragment.xml
+SHA1-Digest: aKxFFVW/rPbIEEehGiFPkOh81Qo=
+
+Name: res/layout/videofragment.xml
+SHA1-Digest: S0NybsFguItopv/UpedTQ1MbSPs=
+
+Name: assets/cards/0576/images/rank_a.png
+SHA1-Digest: cdOzI03S0aQHFFdvOnQVblct6eE=
+
+Name: res/drawable/green_buttonv2_enabled_always.xml
+SHA1-Digest: CHuz12IXwPono0EO8LVTV3qOP/Y=
+
+Name: assets/thedeal/ui/images/dialog_logo.png
+SHA1-Digest: Sm6aGIDdHGVIbv6fZPFluniqcwc=
+
+Name: res/drawable-mdpi-v4/actionicon_room_enabled.png
+SHA1-Digest: tah65CYzbUgY6b+DFZNRonjA1jY=
+
+Name: res/drawable/button_close.xml
+SHA1-Digest: psHDmRdRsHHgCrtK1TT0itOeqD0=
+
+Name: assets/thedeal/ui/jackpot_counter_shading.png
+SHA1-Digest: +z9EpheLrslH/hyWQZreCRAVlLs=
+
+Name: res/drawable-hdpi-v4/ic_notification_button_thumbs_down.png
+SHA1-Digest: LUPubjkPFL23tqbNmennG7IQxqA=
+
+Name: res/drawable-xhdpi-v4/homeicon_casino.png
+SHA1-Digest: 5BujKTgRt5s+I39KMMeIA6QncYc=
+
+Name: res/layout/dialog_accountloginsettings.xml
+SHA1-Digest: c1K5ZiRc+RLlgBrENPoypvIaT6c=
+
+Name: res/drawable/tile_active_border_pressed.xml
+SHA1-Digest: N94Towo6yOO62vNCmCCQx0UtChA=
+
+Name: res/layout/dialog_depositlimit_questionaire_div.xml
+SHA1-Digest: e2Z+a+1lSRJB2FvNOdafRmtnTh0=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: qaK4e1gDhaSXVr673Ke38Qdp/V4=
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA1-Digest: wmiggMaq3+ut9dhB1rng0sAXwmU=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA1-Digest: D6dilO+UMcglambujyMOhNbLZuY=
+
+Name: res/layout/dialog_tourntickets_tournamentlist_row.xml
+SHA1-Digest: gYSIvzu60ogPrIKF8CuzGc9ucYg=
+
+Name: res/layout/page_realmoneyacclicenseee.xml
+SHA1-Digest: AAoruMsg1FfOZlPnQeKjWOp56oM=
+
+Name: res/layout/signup_wizard_page2.xml
+SHA1-Digest: uP5SPOZg7nmmj8104i9F5HWGB2k=
+
+Name: res/layout/page_activatetokenwizard1.xml
+SHA1-Digest: xcVOp4LTqQ5Yyt9njFvXD6C9muE=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_light.9.pn
+ g
+SHA1-Digest: pCIvTjWlEd+72lf6cxDeEv/N0Pg=
+
+Name: res/layout/dialog_tourntickets_loading.xml
+SHA1-Digest: yGLmKiCNgvp978YK7UNgpvHv9MA=
+
+Name: res/layout/signup_wizard_page1_item.xml
+SHA1-Digest: 3ki3T7vfsIHQwTTryA81vhARUDQ=
+
+Name: assets/thedeal/table/images/how_to_screen3.jpg
+SHA1-Digest: R85PqYwAwBQKLQFPK4ROnCjpwK4=
+
+Name: res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: ivaTCfBR/9/xdUOYU0Y9t9A9BkY=
+
+Name: res/layout/dialog_tourntickets.xml
+SHA1-Digest: GAa8+Rb6E5BSkbvOyZSQPRNMnhY=
+
+Name: res/raw/snd12.mp3
+SHA1-Digest: rJM4hGzGparBUEV9RVkjH5cr5wc=
+
+Name: res/drawable-xlarge-nodpi-v11/lobby_button_selected.9.png
+SHA1-Digest: MXMDheZiKilRtx72Oat++uYoQOc=
+
+Name: assets/thedeal/ui/images/circle_stroked.png
+SHA1-Digest: wsweWQwoQBZ+yuU2ZxomRFlL14k=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: CbQKQR4v+KUpSOw8jtj/8rngelU=
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA1-Digest: ZliTihZ+8kHBA4SfvPIPI00Y7uE=
+
+Name: res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: +5f5J84eLIoVJmf+raKGpEmYDBQ=
+
+Name: res/layout-v14/ua_fragment_iam_card.xml
+SHA1-Digest: 8b4ejdTpi6vD1qBHh/TGp03JoTI=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: WYYEXP9zXPHmkO70T8BA20aSj+U=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: ZGa5KUTOdSU2J4s2wiAg6YjzYjQ=
+
+Name: res/layout/dialog_pendingfunds.xml
+SHA1-Digest: N2WoKDqM4BmzA62D8iPRq4czyqQ=
+
+Name: res/raw/snd36.wav
+SHA1-Digest: Pw9EYiPLgUyAmrLyP5NipP58qRA=
+
+Name: res/drawable-xhdpi-v4/tab_btn_new.png
+SHA1-Digest: 9sRqbQ5/yRSdDw6ZBLr2QLyFcRs=
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA1-Digest: OLivq7Um8v40AfrWzOZZy+6/mb0=
+
+Name: assets/thedeal/jackpot/images/mp_avatar_placeholder.png
+SHA1-Digest: Y4Rak3UYnPXRG/qWDRCshXn5TAk=
+
+Name: res/drawable-xxhdpi-v4/ic_notification_button_follow.png
+SHA1-Digest: Jr4MewME5aeYuQCqHkMO6Oxpsps=
+
+Name: res/layout/page_ageverificationconfirm.xml
+SHA1-Digest: H+aZq2QVhb76n9NboDq1mCWpKIw=
+
+Name: assets/thedeal/ui/control_layer.csb
+SHA1-Digest: vX7cFBOxhcfpkwYRbPOjXUXXyjE=
+
+Name: res/drawable-xxhdpi-v4/free_spin.png
+SHA1-Digest: umKmqYfnoKxAQjI6FzKTMJalCV0=
+
+Name: res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: QHJrTKnGAS7xrsv3f4q+dcGKg1g=
+
+Name: assets/thedeal/sounds/deal_win_royal_flush.mp3
+SHA1-Digest: IHSbMg7ULJhacbt5vsr4SoZ/xsE=
+
+Name: res/layout/dialog_activateaccountemailvalidated.xml
+SHA1-Digest: lykUTUI8XLHO4V+Pg995AaKMcdY=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: e6ZxO30OB+oHpoct3gGLBY0gYXA=
+
+Name: lib/x86/libcardioRecognizer.so
+SHA1-Digest: zAt9rLLVsb9/Gqusme0RQDklSO4=
+
+Name: res/layout-v14/ua_fragment_iam.xml
+SHA1-Digest: hq9+EKW9EOYoy+TLSB2bNd69IXo=
+
+Name: res/drawable-xhdpi-v4/ic_notification_button_remind.png
+SHA1-Digest: WL6cfpuVQtXVS8KY3JTLxa5fWYw=
+
+Name: res/drawable-hdpi-v4/chips_4.png
+SHA1-Digest: 8HpctZfM4MTmNnEpcHGGIOSOHkY=
+
+Name: res/layout/game_activity.xml
+SHA1-Digest: rtU6yHO9bF0M5wSFxOk99JvSkYQ=
+
+Name: res/drawable-nodpi-v4/lobby_button_normal.9.png
+SHA1-Digest: aoKV1fTv3Ot1EbfxqVlt8hr+GP4=
+
+Name: assets/CacheAssets.zip
+SHA1-Digest: PGrYfdgezkbT1O89I/UhN0V4N5E=
+
+Name: res/drawable/baricon_refresh.xml
+SHA1-Digest: fnJHW0o5ROd2VFTbSmf5okcsPr4=
+
+Name: assets/thedeal/ui/button_close_game.csb
+SHA1-Digest: rBqfemz0ZcbvWbwEjEKeLLQISKk=
+
+Name: res/drawable-mdpi-v4/ic_notification_button_open_browser.png
+SHA1-Digest: lRcSt/+IpUnb/mw1IWARD7vgafM=
+
+Name: res/drawable-xxhdpi-v4/ic_notification_button_happy.png
+SHA1-Digest: 0sKN8xx4tjLgwzgt55x1XyvGIGU=
+
+Name: res/drawable-mdpi-v4/tournicon_flighted.png
+SHA1-Digest: rY3gXO+6c3iPZtLy8KDbSqmiJcQ=
+
+Name: res/drawable-nodpi-v4/v3_background_home_1.jpg
+SHA1-Digest: ICwYcTCcv2CKNi8Kqro6BkShVdc=
+
+Name: res/drawable-hdpi-v4/ic_notification_button_download.png
+SHA1-Digest: JlLQTkFyX9+CB2PvJe9bIbKc7r4=
+
+Name: res/drawable-xxhdpi-v4/in_app_bg_2.png
+SHA1-Digest: va9+RBQwjk8CwFr+dUBl0mm4jh4=
+
+Name: assets/thedeal/jackpot/wheel_light.csb
+SHA1-Digest: dMDOrjZ5eO71kHPG4qi2jKHO3+8=
+
+Name: res/drawable/baricon_save.xml
+SHA1-Digest: WX1HxrPy1pYNC/Qv4Bj63UCuN0E=
+
+Name: assets/thedeal/table/table_message.csb
+SHA1-Digest: 0gTXpCYjf1QFCuuW7jRIBxb9Og0=
+
+Name: res/drawable-nodpi-v4/promo_vpps_nudge.png
+SHA1-Digest: wKHWerJpY+YKrH5KrXgG7DBXcwI=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: ZCWbX0fQHZsWK6AU9JmOADI6oXA=
+
+Name: res/drawable-xhdpi-v4/homeicon_buy_chips_star_glow.png
+SHA1-Digest: FDLfwlFDF7I1dWOzz1tAC2Gg5XA=
+
+Name: res/layout/settings_section_collapsed.xml
+SHA1-Digest: k9Wzrk3QwR5w7hhyAEe8mjbkKuk=
+
+Name: res/drawable-hdpi-v4/cast_ic_notification_0.png
+SHA1-Digest: dwCi8REd8Li4eCeDlFR5VLkA/bU=
+
+Name: assets/thedeal/table/images/how_to_screen3_ps.jpg
+SHA1-Digest: pT+voHIPtnZWSakIGV1NDKXRxj0=
+
+Name: res/raw/empty.png
+SHA1-Digest: Y/I6NlqwHtujODyem6BMYHLDVy4=
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: TGHVlpw1mq1IC2cB7ulwjQ18wdc=
+
+Name: res/drawable-xxhdpi-v4/starscoin.png
+SHA1-Digest: ODtBrDaQiDXi9OHIxIwMIChM8FM=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: NNwe3FKHs47gjoFv3kwcJmKiUOw=
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA1-Digest: Kurwlv4Jq5aYzUiR0hdzBXuLXic=
+
+Name: res/layout/action_bar_title.xml
+SHA1-Digest: xXR9Soho2gy9+1n5job2p5NOVhs=
+
+Name: res/layout/boldchat.xml
+SHA1-Digest: ppAOAwbIIOOctfvTv0/13s72b6U=
+
+Name: res/drawable-hdpi-v4/tournicon_tables.png
+SHA1-Digest: A5OjXFHjRbaCtyQ0i3EpqRGvRqw=
+
+Name: res/layout/settingsactivity.xml
+SHA1-Digest: QycxjAcJ2gmin/YqV1+1pLcnVNc=
+
+Name: res/layout/dialog_gameinfo_tournament_row.xml
+SHA1-Digest: tCiHzNdxWoaG6jdv96AbWkRdtWk=
+
+Name: res/drawable-hdpi-v4/notification_icon.png
+SHA1-Digest: R7TBZ21+Rw7xETWOXCXzQ+niQ5U=
+
+Name: assets/cards/0576/images/rank_2.png
+SHA1-Digest: 0KaLVYNpaflJ17QOKpiqAlGStiU=
+
+Name: res/drawable-hdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: SBKgHrI8+WG2Q5nUL763ra3tcmc=
+
+Name: res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: uyottmZzDUEWjbHtQsMbW4FWg88=
+
+Name: res/drawable-nodpi-v4/logo_lobby.png
+SHA1-Digest: 9SDMH7ikg6YLRsl5kRlYFrp8UHg=
+
+Name: res/layout/page_realmoneyaccpage2.xml
+SHA1-Digest: 0Nn5ZvxLz8YU4uK7SKK8p4qoCH0=
+
+Name: res/layout/dialog_tourn_finished.xml
+SHA1-Digest: Q5yaEXxaL8twsyfUa/RhoxEmUuc=
+
+Name: res/drawable/default_bg.xml
+SHA1-Digest: 5GvZqKSK+Fuo1qX1rOdG0qL/kRU=
+
+Name: assets/thedeal/ui/images/currency_pound.png
+SHA1-Digest: BNVCJklzLqIgRBHP5Dq0plIxQeU=
+
+Name: res/drawable-xhdpi-v4/ic_notification_button_share.png
+SHA1-Digest: LnA9pzRCDLk3jpVBUy8RvDOtFeI=
+
+Name: res/drawable-xhdpi-v4/start_background2.jpg
+SHA1-Digest: LZtjk5nj29Dha15zuJjlQlYBGKc=
+
+Name: res/drawable-hdpi-v4/chips_6.png
+SHA1-Digest: itt6ACkhIGM4k5n/8ZYPeJ0Wxco=
+
+Name: assets/thedeal/ui/button.png
+SHA1-Digest: a/RKN6DMlK2k51TSx3Hlevkw9uU=
+
+Name: res/drawable-xxhdpi-v4/actionicon_room_enabled.png
+SHA1-Digest: vIFfD5kSkprO6Gcs666nUfqoXgs=
+
+Name: res/drawable-xhdpi-v4/tournicon_satelites.png
+SHA1-Digest: 2WyMTZj8XmP3Wq3KOJ+2UA7Vev0=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: u8lEY+2Bl006RY/NojCiasl0Huw=
+
+Name: res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: hjf9hvwtitJD8jRTc+L89zr4i1I=
+
+Name: assets/thedeal/ui/currency_dollar.png
+SHA1-Digest: IDXA+HibfFXX5nP9fbGZQn3WlV0=
+
+Name: res/drawable-hdpi-v4/bc_bubble_visitor.9.png
+SHA1-Digest: WlunLMGYxhJx1jKqQ4ysAtpU56c=
+
+Name: res/layout/page_realmoneyacctermsofservicefr.xml
+SHA1-Digest: Pr3dtqvK2K5X5mnDZr83QUSBrK0=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha
+ .9.png
+SHA1-Digest: Ay1qOaJ2aLiCf8NAaujbkp0H1cQ=
+
+Name: res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: k0FMguOXHvmVqqQT8jnVO1rQacs=
+
+Name: res/raw/snd1.wav
+SHA1-Digest: b7E1CwHvOwZ4OOkoGhXvbdhozNI=
+
+Name: res/drawable-nodpi-v4/minitable_sag_ticket.png
+SHA1-Digest: gZ4Y3JDbzD2iUUHEHJ8PgVubQfU=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: 8pvrUMgikaLGOMW8rQ65pwo3A2E=
+
+Name: res/drawable-xxhdpi-v4/ic_notification_button_thumbs_up.png
+SHA1-Digest: MKeNhgQsH+Xqa1nkAqQ5bLFSJxo=
+
+Name: res/raw/snd20.wav
+SHA1-Digest: SG0GywZlLo6I5P/AeC1knc4SJq4=
+
+Name: res/drawable-hdpi-v4/fd_i_spin_4.png
+SHA1-Digest: QjCsRmLV+KAruxaDGzkqOWqck+k=
+
+Name: res/drawable-xhdpi-v4/abc_ab_share_pack_holo_light.9.png
+SHA1-Digest: WrIqF9XJYtZryb3rhyRFbyTMctw=
+
+Name: res/layout-xlarge-v11/searchfragment.xml
+SHA1-Digest: sKgiqhq5i6xXOp/CQLFJcFqIbQg=
+
+Name: res/layout/dialog_missedevents.xml
+SHA1-Digest: rl1Q0Zl9BSik+DjQKU1H6uYzSoY=
+
+Name: res/drawable-hdpi-v4/ic_notification_button_copy.png
+SHA1-Digest: 5+Mzr9p9jKMHtRREjRgwKo+wf0w=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: P/kmPSRL8PV848y4DhX+Mo6kQm4=
+
+Name: res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: f5w1/P3BOViOfigUbV/eR0uuTmE=
+
+Name: res/drawable-xxhdpi-v4/drawer_open_notification_on.png
+SHA1-Digest: FeJrsYdjhMEpDhfb6zkSsNNSdeY=
+
+Name: res/drawable/red_buttonv2_shape_normal.xml
+SHA1-Digest: xm7D9UtyVDzlBHvA//iMBMBbebk=
+
+Name: res/drawable-hdpi-v4/live_assistance_animated_button_07.png
+SHA1-Digest: RhCEIvZkrclgWDlRSQaNCHBhI0A=
+
+Name: res/drawable-xxhdpi-v4/actionicon_save.png
+SHA1-Digest: e33GkF1kNZj1i4arno2rnwBt9CA=
+
+Name: res/drawable-xxhdpi-v4/bc_bubble_system.9.png
+SHA1-Digest: kHxyJxBCGc/de0CYn1dh0jfEwds=
+
+Name: res/drawable-mdpi-v4/logo_icon.png
+SHA1-Digest: D+8ri6qnWclCBkYTZV/i9dabBPE=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: qMANMwB04lLZzsPwIYT9/W7CByk=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: /7bw14nZmssFy3hqySiiFfoRLtE=
+
+Name: assets/thedeal/jackpot/images/wheel_spotlight.png
+SHA1-Digest: LNX1vL9fZ7SgjulNlE+soXC0bgk=
+
+Name: res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: gzqpohXWJM2gFnRT3iBL2AD2vm0=
+
+Name: res/drawable-hdpi-v4/actionicon_room_enabled.png
+SHA1-Digest: WKDYp/nAGNhx2OC6Ro2pbi4vi/4=
+
+Name: res/drawable/room_button_gold_light.xml
+SHA1-Digest: HV03BZfhvIJclHpM6hD1LikQ5Ec=
+
+Name: res/drawable-xhdpi-v4/chips_1.png
+SHA1-Digest: KWEhDLzWznwk0DuFcC3bIZJ+dHc=
+
+Name: res/layout/bc_form_rating.xml
+SHA1-Digest: BzDbPMWdYjZk5BOd12FvzfUng04=
+
+Name: res/layout/dialog_takepictures_it.xml
+SHA1-Digest: BNE4Y/vx37yXnzRArQ4xb9W3Kf4=
+
+Name: res/drawable-mdpi-v4/folded_corner.png
+SHA1-Digest: WW3Q3z2+8j3bbHIKUMnVEIMKYaQ=
+
+Name: res/drawable-xxhdpi-v4/black_activity_back_button.png
+SHA1-Digest: tbGAp8jdVdZ9l29J1IrRdooa5ZI=
+
+Name: res/drawable-nodpi-v4/capacity_table.png
+SHA1-Digest: bpcy7mhN5eJ5j+IsuxQaSZSk98w=
+
+Name: res/layout/abc_simple_dropdown_hint.xml
+SHA1-Digest: 9QsIz7oIlTWay0j7V/AhOBXdPX8=
+
+Name: res/raw/snd22.wav
+SHA1-Digest: xiubeAoOnjV+yCA8hGXS1RApTjg=
+
+Name: res/drawable-xxhdpi-v4/drawericon_dfs.png
+SHA1-Digest: 1fRX4FBSA5MFJ/9DGhj4ycX8H0M=
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA1-Digest: hnqfKlWBVTIjuTLWJUP8jTtBEQY=
+
+Name: res/drawable-xxhdpi-v4/checked.png
+SHA1-Digest: KhBwvcZQyTYAJ8MiQeLrCYPIEZE=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: 3Cm8nhJcFA+BRyvYi9o9mdskUFM=
+
+Name: res/drawable-hdpi-v4/room_overflow.png
+SHA1-Digest: naQmO2BbIgK+9g6e5CfyMUjBBbY=
+
+Name: res/drawable-xxhdpi-v4/ic_notification_button_share.png
+SHA1-Digest: Z/ogSK0lqDF2qiBrsjxcF6WRPd8=
+
+Name: assets/thedeal/table/deal_card_slide.mp3
+SHA1-Digest: Snefa7fcgB59epyprL8kjm1qEww=
+
+Name: res/layout-v21/simple_spinner_item_v2.xml
+SHA1-Digest: GcWrgtcRvy4fhckC6/QPi3chutE=
+
+Name: res/layout/page_realmoneyaccpage1nj.xml
+SHA1-Digest: jPAtZ7Msue7hmuyIRVKwSvB2Asg=
+
+Name: res/drawable-hdpi-v4/notification_attention.png
+SHA1-Digest: f6G6Cn3rPS+KoT2CRzJ3rYhkNHs=
+
+Name: res/layout/page_activatetokenwizard3.xml
+SHA1-Digest: IeIaeKUnDSokJDCJWbp8MMrJB8c=
+
+Name: assets/FileAssets.zip
+SHA1-Digest: 15VLjvko32wu1axQ0jYipYWoqG4=
+
+Name: res/raw/bc_chat_history.html
+SHA1-Digest: XpKKeZOemI8SyAqSvmd8AIFyz7U=
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: Mlwb9Wl58hgqZe59BGUFigLas4A=
+
+Name: assets/thedeal/ui/images/icon_prizes_disabled.png
+SHA1-Digest: cxUaT/cLKGKSwyiAWifzYH60qz4=
+
+Name: res/drawable-nodpi-v4/lobbyicon_happy_hour.png
+SHA1-Digest: xN5OrCrqYmLojQrz8LTZikWepk4=
+
+Name: res/drawable-xlarge-nodpi-v11/logo_lobby_casino.png
+SHA1-Digest: YTp5oI5qqdLucYJwTeB2EaBhQuk=
+
+Name: res/drawable/dialog_border.xml
+SHA1-Digest: LXTbmq04NqCU1EfNpsE/N07W0so=
+
+Name: res/drawable-xxhdpi-v4/drawericon_lobby.png
+SHA1-Digest: Vhyil1JohKdnWoHBr2dJkf3J3t0=
+
+Name: assets/thedeal/table/images/how_to_screen1.jpg
+SHA1-Digest: eP9muXJ4IQmKK9xRxK1aLGQuPdQ=
+
+Name: res/drawable-hdpi-v4/ic_close_white_18dp.png
+SHA1-Digest: M7TAIRPLu7XVgDlqFoWZyoOQv2Q=
+
+Name: res/drawable-xxhdpi-v4/abc_ab_share_pack_holo_light.9.png
+SHA1-Digest: XaZ3POvFv4jr26RzgjApoTtoBEg=
+
+Name: res/layout/signup_wizard_page4.xml
+SHA1-Digest: ClDtHVrIqiuVsiCzIYy+7gG8E1o=
+
+Name: res/drawable-xhdpi-v4/bc_bubble_system.9.png
+SHA1-Digest: L9ebiPLCvJeqvTrslTCE59weci4=
+
+Name: res/drawable-mdpi-v4/tournicon_tables.png
+SHA1-Digest: 7gbq9THc9m/qLj1G1cIZK4Os60I=
+
+Name: res/drawable-hdpi-v4/ic_notification_button_remind.png
+SHA1-Digest: a1ph0BTTPOMoKfuMrvOIRtrpOws=
+
+Name: assets/thedeal/ui/images/card_tray_base.png
+SHA1-Digest: x3m0EnJm+wVeRkM0f8nL2quRecQ=
+
+Name: res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: nNpQ2cq1fhlyzVMZB6yre+ujuJw=
+
+Name: res/drawable-hdpi-v4/in_app_bg_2.png
+SHA1-Digest: TyqoZFPl3FAAkZu3qJ0XQCDsPIM=
+
+Name: res/drawable-xxhdpi-v4/logo_icon_white.png
+SHA1-Digest: mAxo7BU168xdnbXbKl+klPxRV/0=
+
+Name: res/drawable/lobby_button.xml
+SHA1-Digest: zB8Y0F+5GiobWksgLQF4vKzqwhc=
+
+Name: res/layout/lobbyfragment_spinandgo_list.xml
+SHA1-Digest: Lotertf0jrvv2cEdRNG1f1PtTS8=
+
+Name: res/drawable-xlarge-hdpi-v11/live_assistance_animated_button_05.
+ png
+SHA1-Digest: 4NemtSQOAgzDOgOClCBxPlFzA4o=
+
+Name: assets/thedeal/ui/images/icon_info_on.png
+SHA1-Digest: TBdXjnI4xt7+KxDENfyhoi3Jmy8=
+
+Name: res/layout/login_activity_new.xml
+SHA1-Digest: thODXvAOJhG3pzJ5jm8XKTok27o=
+
+Name: res/drawable-hdpi-v4/powered_by_google_light.png
+SHA1-Digest: 1p8HkYSQc6asTjUOCQeAiFfr8oU=
+
+Name: res/layout/bc_form_phone.xml
+SHA1-Digest: 5y9T0Si+Pd/C/pHjWsJFpMR9/Ac=
+
+Name: assets/thedeal/jackpot/background_bonusround.jpg
+SHA1-Digest: xiZTIiwKCmWaynFIYXxoKDd4NF4=
+
+Name: res/drawable-xxhdpi-v4/in_app_bg_0.png
+SHA1-Digest: IYqsYcKoA1RnPESNF6diKZYzT14=
+
+Name: res/drawable-hdpi-v4/fd_i_process.png
+SHA1-Digest: NQjr7p3AOD+EKBoAxTQyb9a2b7g=
+
+Name: res/drawable-nodpi-v4/light_effect.png
+SHA1-Digest: AV35jyv3hjgAWiqCjHF6DPfasSs=
+
+Name: assets/thedeal/seat/images/pod_ft.png
+SHA1-Digest: h06QLYVFfpoi644kjR267OEUmgg=
+
+Name: res/layout/widget_icontitlebutton.xml
+SHA1-Digest: pFOGlEdbSN9CjJSQaFbUKp+FM6c=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 8t8fYpBPxPeFuWeBGdYiV/u6+vM=
+
+Name: res/drawable-nodpi-v4/lobby_button_disabled.9.png
+SHA1-Digest: XN5w1Md9HdoumWwJvFEQup1hFx4=
+
+Name: res/drawable-mdpi-v4/ic_notification_button_accept.png
+SHA1-Digest: NJ2JrRnXXDgDicZxYlpnxaJZ/yc=
+
+Name: assets/thedeal/Default/Slider_PressBar.png
+SHA1-Digest: 3GObsmY5AGsHrh02Y+C3+mNqDW8=
+
+Name: res/drawable-hdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: zYEVoFXucmJpZuzXxsGneYWIlNU=
+
+Name: res/drawable-xhdpi-v4/logo_icon.png
+SHA1-Digest: yCTrkrvxiZNdNlm7sTXoOOhQWPw=
+
+Name: res/layout/settingsfragment.xml
+SHA1-Digest: omBLanUyd6+6sa6ug0RZfsEK1rY=
+
+Name: assets/thedeal/sounds/deal_whole_coin.mp3
+SHA1-Digest: J4M/RViFysMDladHVii0ahP3Ypg=
+
+Name: res/drawable/red_buttonv2_shape_disabled.xml
+SHA1-Digest: ymHj6zCw9sNVeW/RVJAtGGH05HE=
+
+Name: res/layout/dialog_createaccount.xml
+SHA1-Digest: boekiHhSo6fJvmxgZRbf+q2Uft4=
+
+Name: res/drawable-hdpi-v4/chips_2.png
+SHA1-Digest: PJ7cyOIDPBoM4eDFkyshyo2Vxb8=
+
+Name: res/drawable-xxhdpi-v4/action_table_normal_white.png
+SHA1-Digest: f7HG6ocesr2PX+2ZGV190PJR2nc=
+
+Name: res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: LZMqwcX/oCryOgxvEnSkOdDEr2M=
+
+Name: res/layout/dialog_accountrevalidationfinancial.xml
+SHA1-Digest: DxS0eFAsfG/PnRjF8CgowPPqYws=
+
+Name: res/layout/page_ageverificationerror.xml
+SHA1-Digest: ccYvpv4Wcw+bohRPznCBob0hGaM=
+
+Name: res/drawable-hdpi-v4/fd_i_spin_6.png
+SHA1-Digest: ArKi1dajm4DU/4dKx19mtliZBK0=
+
+Name: res/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: KVPasUIEwylEuHQRSTZ6eGpVtYg=
+
+Name: res/drawable-nodpi-v4/caption_background.9.png
+SHA1-Digest: sD3M4zcYkaDHe2z+KwtAMzHFc/E=
+
+Name: res/drawable-mdpi-v4/bc_bubble_operator.9.png
+SHA1-Digest: SRGI6EMWRWMnEtGyvZJnU1DAQXQ=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: Txi4nHde0NvRVGH4WjelV6dyOKU=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_light.9.p
+ ng
+SHA1-Digest: M/AuBUDrasZr5kX0EObwl5+LiN8=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: jRDpYM91mjqHK5ma3wpm8URdz+w=
+
+Name: assets/thedeal/table/images/background_high_roller.jpg
+SHA1-Digest: DHw4lzELFTHWLU5cjOGO94ztErU=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: S/+WIalIT7QGoZ4J/VOqr0XEGEM=
+
+Name: assets/thedeal/ui/images/rec_rounded.png
+SHA1-Digest: BcZKVMQGIzvye8eFEYpyhFC1E8I=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: tbKOWkoq8X/O9SqZLE2Z7VwIrfw=
+
+Name: assets/thedeal/jackpot/images/wheel_light_on.png
+SHA1-Digest: SOuUzSN2fvPFO7v2QrBS46Xnjjc=
+
+Name: res/layout/pyr_bc_chat.xml
+SHA1-Digest: P2gD55ZdAwIeTY6A7GZvul2E7n8=
+
+Name: res/drawable-xxhdpi-v4/btn_check_off_pressed_holo_light.png
+SHA1-Digest: 74By1FNZ8+U3ckk3IsLQn9QgT1U=
+
+Name: assets/cards/0576/card_face_q.csb
+SHA1-Digest: 8vF29pMdVaXHoOltjirgF90o7u4=
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: kvy6NVZis2HTuWhGbjSTUHivrS8=
+
+Name: res/drawable-xxhdpi-v4/milestone_counter_background.png
+SHA1-Digest: clQMDZr/Bjg/ckhgIVODumh+ZJc=
+
+Name: res/drawable-mdpi-v4/live_chat.png
+SHA1-Digest: UDupQ6Wu7Nt1dqraFo7ffz86ULc=
+
+Name: res/drawable-xxhdpi-v4/coin_glow.png
+SHA1-Digest: OZb1EJbsZmm/3l19Ob5J/vSkuh4=
+
+Name: res/raw/snd38.wav
+SHA1-Digest: kn8tfcSQM2RskcGKMYuMLZwTVw4=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: nRtiU5b/2GCMrB/FhPJC0XFk+lU=
+
+Name: res/drawable-xlarge-hdpi-v11/live_assistance_animated_button_07.
+ png
+SHA1-Digest: OtJJlXJK7oh/cw6fpXc8vygMM2o=
+
+Name: res/drawable/selection_separator.xml
+SHA1-Digest: tUkLCrF1ounc4YSneM8KiVTsY28=
+
+Name: res/drawable-ldrtl-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: StjC3BA1LtHVLp7GTDic4k0PU08=
+
+Name: res/drawable-nodpi-v4/bkg_casino.jpg
+SHA1-Digest: B69uB+3oXSP8DVqb97P0t7Ft8ks=
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA1-Digest: yzUTvnuoz7wI59ctP8Ej8kwWg60=
+
+Name: res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: jJIIxBXFlVwxMesuJlFFhjvLhPM=
+
+Name: res/drawable-xhdpi-v4/powered_by_google_light.png
+SHA1-Digest: 1PCeD4X7eVLdr2+EB4poVTq1PZw=
+
+Name: res/drawable-xxhdpi-v4/btn_check_on_pressed_holo_light.png
+SHA1-Digest: HWGXxglH47gTzOMOzDnk82IZ/FI=
+
+Name: res/layout/dialog_livechatdialog.xml
+SHA1-Digest: iGTdLz/armlI0zz0cLkWqXXNKnA=
+
+Name: res/drawable/red_buttonv2_enabled_always.xml
+SHA1-Digest: 7VHpEBvoGvKm4Y2AW5scchg2LO4=
+
+Name: res/menu/main.xml
+SHA1-Digest: 218ld1W5MM8+qjK5xGupFpbLByk=
+
+Name: assets/thedeal/cards/reveal_move.csb
+SHA1-Digest: nhqerUG/elFQv4VqxE3HWRj6Oww=
+
+Name: assets/thedeal/fonts/Roboto-Bold.ttf
+SHA1-Digest: 0xOrLEV1a/TpcmR/WyrWka0lCZA=
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA1-Digest: 4v+8EPFdvECoQ0aU/372XdvVWsk=
+
+Name: assets/cards/0576/images/hq.png
+SHA1-Digest: xRu2tTbfRqvInYZWMO/R1X+1v7k=
+
+Name: res/drawable-xxhdpi-v4/tableicon_ice.png
+SHA1-Digest: Z8sspmJm1RdbbtgwL026Bb0ryqY=
+
+Name: res/layout/dialog_freespins.xml
+SHA1-Digest: LlvP8dFoi0QOv3Lgi39JJdVACsQ=
+
+Name: res/layout/homeactivityv2_tile.xml
+SHA1-Digest: a4B/pviNG0oKupvxYZx5yETnbVU=
+
+Name: res/drawable-nodpi-v4/background_home_2.jpg
+SHA1-Digest: 8O9xYN5qQ602faqlg09OZbI7VK8=
+
+Name: res/drawable-xxhdpi-v4/drawericon_nudge.png
+SHA1-Digest: 6VGf9EL7M0WyYYdffD8nMmBia8U=
+
+Name: res/layout/dialog__fatalerror.xml
+SHA1-Digest: L3pgVJPmajs8X0AB0ClF0J1DWHA=
+
+Name: res/drawable-xxhdpi-v4/actionicon_room_disabled.png
+SHA1-Digest: Ofw0OUsJDHwAJm4TmIMsf3dBbGA=
+
+Name: res/animator-v14/ua_iam_slide_in_top.xml
+SHA1-Digest: y4hBlO9A3V2mEBFsZKqRNxpq4Uo=
+
+Name: res/drawable-xxhdpi-v4/drawericon_leave.png
+SHA1-Digest: gKr4IkaSc5ptTuW8QcbXIYxFN4Q=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: +W21ZNQRN0oDMKb9p9oNUq/o5as=
+
+Name: assets/thedeal/ui/card_tray.png
+SHA1-Digest: 5cUnUNIhmVdqT1studRG2JVa9jo=
+
+Name: res/drawable-xhdpi-v4/ic_notification_button_download.png
+SHA1-Digest: PZjC+I3DG3BCHI4H3dW2pmBQrOY=
+
+Name: res/raw/snd32.wav
+SHA1-Digest: ry9Xv7tOjXhJA6vzK/iQzkuUHqY=
+
+Name: res/drawable/bc_stars.xml
+SHA1-Digest: YLmPl6luEpEmoMMjg/jtefNnFTA=
+
+Name: res/drawable/bc_star_selected.png
+SHA1-Digest: ivAhbcrvC3qIMl8Z9tYOB/IEfyA=
+
+Name: res/layout/dialog_communicationpreferences.xml
+SHA1-Digest: TPMn/lV9mgP+OlHKrXHFzVxSE9I=
+
+Name: res/drawable/lobby_grand_total_title_bg.xml
+SHA1-Digest: pMycl8Fu0QgSMvPE1lxFRp/ErUw=
+
+Name: res/drawable-nodpi-v4/lobbyicon_dr.png
+SHA1-Digest: Owe8pbE9YivsWZ70pT/qPmJ4YxA=
+
+Name: assets/thedeal/fonts/RobotoMono-Regular.ttf
+SHA1-Digest: aaZcK3l9L6EktMcJCX52G3hXoDU=
+
+Name: res/drawable-xhdpi-v4/actionicon_lobby.png
+SHA1-Digest: OFRracKrhy6D3/UHPO4kVNrgX9E=
+
+Name: res/drawable-xxhdpi-v4/room_overflow.png
+SHA1-Digest: jkOBhYKCm/35+3pntQjcYhFLb3k=
+
+Name: assets/thedeal/seat/images/rec_gradient_reflected.png
+SHA1-Digest: 2OLVVzeNiz0v9b/vJeM7V5o6h6c=
+
+Name: assets/thedeal/ui/jackpot_counter.png
+SHA1-Digest: hx+Lna2QUcv3chOUTIzuZQceJR8=
+
+Name: res/drawable-xlarge-nodpi-v11/v3_background_home_1.jpg
+SHA1-Digest: QpY9/yiiOCLuXZ/TOjMal/ga5Z8=
+
+Name: res/drawable-hdpi-v4/actionicon_lobby.png
+SHA1-Digest: uTovgEK241zwbBwFmrnADY21KSU=
+
+Name: res/drawable-nodpi-v4/divider.png
+SHA1-Digest: pv8FBjUzQ5F6lywl/CvC+He5UBE=
+
+Name: res/layout/dialog_postlog.xml
+SHA1-Digest: L16z6z6LRcOA67Q0zLx0i/68DHE=
+
+Name: res/drawable-xhdpi-v4/list_opened.png
+SHA1-Digest: TeFw2IMD8BK007erMJ5P9gyfIKQ=
+
+Name: res/drawable-mdpi-v4/powered_by_google_light.png
+SHA1-Digest: ZTHLPZe63ATwVGAlXju4hnecsME=
+
+Name: lib/armeabi-v7a/libcardioRecognizer_tegra2.so
+SHA1-Digest: MaoE97l1MsMCegmC8a/mpOf37qw=
+
+Name: res/layout/startactivity.xml
+SHA1-Digest: g8PEUYay5gMLwlwa+V9TQcq3BZU=
+
+Name: res/layout/dialog_depositlimit_questionaire_row.xml
+SHA1-Digest: fxgPQSetcRnFefhQEZDUkS3uuxU=
+
+Name: res/drawable-xhdpi-v4/ic_notification_button_thumbs_down.png
+SHA1-Digest: 3r2XmoBo8FB2gTAt3ZKwa5elqYg=
+
+Name: res/layout/lobbyfragment_new_addon.xml
+SHA1-Digest: FSoD5pdP0ztXnAhBOv3ZCBZIMdg=
+
+Name: res/raw/snd24.wav
+SHA1-Digest: uftScPfKiHyd3Z/URCjNbeCI2ms=
+
+Name: res/layout/editcombobox_edit.xml
+SHA1-Digest: 4gHLo18EVd3V0TKwZFkxrV2MOs4=
+
+Name: res/layout/ua_activity_landing_page.xml
+SHA1-Digest: dTNY6QQKXwbG9dh0wWhKPnTUQWY=
+
+Name: res/drawable-mdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: 0tNMOXXmuQbid1TzI7vwe4GNLsE=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: Gr88G2zQ2X0grlFxAco+5IsVZzU=
+
+Name: resources.arsc
+SHA1-Digest: ltO+DA5sJPtcm999U2jhAN65U2o=
+
+Name: res/drawable-mdpi-v4/baricon_sort_dark.png
+SHA1-Digest: +94sCws5g81D5B4yQQqGAZ+8+U0=
+
+Name: res/layout/toggle_item.xml
+SHA1-Digest: tzfLB2JHhH4XANeWJJ7JEwKFkzA=
+
+Name: res/drawable/green_buttonv2_shape_normal.xml
+SHA1-Digest: lYQMPoR6OblDuOS2UV72HrO2a5s=
+
+Name: res/layout/dialog_webmigration.xml
+SHA1-Digest: vJgthjAo07swysavKruA9sKi3vQ=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA1-Digest: tB5OWH9PLfGhYUi0ff5UDkaatac=
+
+Name: assets/wearecolt_quick_rest_heavy.ttf
+SHA1-Digest: DZIgTxMyyyU6y29j/TCaY11ezIY=
+
+Name: res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: 99b1k6o3uE4SJ+yIBAjga+3czGs=
+
+Name: res/drawable-nodpi-v4/minitable_sag_seating_3.png
+SHA1-Digest: 749YHUuh1dbxDZySfYbq8NKQgK0=
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: tpEM52vWcakmOwaErjJ4ZPrPYyg=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_light.9.pn
+ g
+SHA1-Digest: ZKYQRM+6FnZ8NFfqxj2cRG8euKk=
+
+Name: res/layout/page_migration1.xml
+SHA1-Digest: 9000vh1Doqy+SSyu/TvGlYAfBQE=
+
+Name: res/drawable-hdpi-v4/alert.png
+SHA1-Digest: 5S3r4oGjPIQlm2vz5fe0WMEQUAk=
+
+Name: res/drawable-nodpi-v4/minitable_table_sag_red.png
+SHA1-Digest: 8VKtoxjPraRi09dvtzRVItsDr90=
+
+Name: res/drawable-xxhdpi-v4/card_match_fail.png
+SHA1-Digest: 35AVdCfrxJJvzUC6biYK0Ty2Mk4=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: tOuiTf7qLHudHHS2BEMDpwatMcs=
+
+Name: res/drawable-xxhdpi-v4/drawericon_responsiblegaming.png
+SHA1-Digest: 7A68Ic+OfSAzBRx3cuMdx86Mg6Q=
+
+Name: assets/cards/0576/images/cj.png
+SHA1-Digest: eeCexpnNKanUDmsYgmJ6tW2HWqs=
+
+Name: res/anim/abc_fade_in.xml
+SHA1-Digest: ohPEA4mboaFUu9LZMUwk7FmjbPI=
+
+Name: assets/thedeal/jackpot/images/0.png
+SHA1-Digest: 4xUmj0NNXjtSklY2gEjaYxsas+w=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: pt2sGm+R9IKa/yNYVOguoJ1i7qI=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: ejUHf+Zq02w7OdVBf+PoNjou6Xc=
+
+Name: res/drawable/green_buttonv2_shape_pressed.xml
+SHA1-Digest: RVJ0zl9vVZRmFLGOABvMPlzFPB8=
+
+Name: res/color/abc_search_url_text.xml
+SHA1-Digest: F4K5VKXTGCKhvgEKr7o9ry0cpE4=
+
+Name: res/drawable/page_background.xml
+SHA1-Digest: aN9eIwqnDiv6D5gtrN3dWK1arHg=
+
+Name: res/drawable-mdpi-v4/actionicon_room_disabled.png
+SHA1-Digest: 4o3SIbBNXnoJu95pnd+gK/fzBFw=
+
+Name: res/drawable-mdpi-v4/forward.png
+SHA1-Digest: eNXf5sLPeD2jjDM5iu+/di7WjaE=
+
+Name: res/drawable-xhdpi-v4/abc_ab_share_pack_holo_dark.9.png
+SHA1-Digest: DuyZ1gAA3NTcE3G6SRG6/RK5O7M=
+
+Name: assets/thedeal/pod/mp_mypod.png
+SHA1-Digest: dIxgAEYSHypjW8tIvbx8ifvdj5I=
+
+Name: res/drawable-xxhdpi-v4/bc_bubble_visitor.9.png
+SHA1-Digest: j2Fw2MgEDbI6zEbeM0Z/ixygj6M=
+
+Name: res/drawable-nodpi-v4/sag_bkg_symbol.png
+SHA1-Digest: d5regRq/PZ03ds/he9/iy3ejtGg=
+
+Name: res/drawable-hdpi-v4/baricon_save_light.png
+SHA1-Digest: 3Daa3EhUynERSGHHZaSu4mV8omE=
+
+Name: assets/cards/0576/images/suit_club.png
+SHA1-Digest: IzTlXDsTZ8JyYCLjrycKoR6loK4=
+
+Name: res/drawable/dialog_border_black_small_padding.xml
+SHA1-Digest: dDBTA4y/rxCManB6aKuyXXr/GsU=
+
+Name: res/layout-xlarge-v11/searchactivity.xml
+SHA1-Digest: SuGgEl13a3ucqzUy8AhDovEq2fk=
+
+Name: assets/thedeal/ui/images/menu_selected.png
+SHA1-Digest: BWynzLX6tqQNeO31vJO/wg+fwcI=
+
+Name: res/drawable-xxhdpi-v4/list_closed.png
+SHA1-Digest: J6CTY2tpFyFP8RBzgz1jld6VAa0=
+
+Name: res/drawable-hdpi-v4/icon_attention.png
+SHA1-Digest: WmQvRzNtzRGSc48h6J2j9KINJ7c=
+
+Name: res/layout/dialog_requeststarscoinaudit.xml
+SHA1-Digest: 0983ba3m7l34aEeNGeZS3r5EkhI=
+
+Name: res/drawable-hdpi-v4/chips_0.png
+SHA1-Digest: wbGQQdUQao5do6y2zKPMS2wj/VQ=
+
+Name: res/drawable-hdpi-v4/menu_cashier.png
+SHA1-Digest: Ak/I7EK0rVrvXpmyropuoRrpmWU=
+
+Name: res/drawable-ldrtl-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: Kt5Py8gmqS/Ew/Rs8Jsl2K4AdeM=
+
+Name: res/drawable-hdpi-v4/fd_i_spin_8.png
+SHA1-Digest: DXCUC5Zjb0ju0caeVd/vyW4aLhQ=
+
+Name: res/drawable-xhdpi-v4/folded_corner.png
+SHA1-Digest: ZtuhwYW6f0ZCOfFs9Y6ng5ClUKo=
+
+Name: res/drawable-mdpi-v4/baricon_sort_light.png
+SHA1-Digest: jH4z8F/bizCNd67BK1eoMXhTflM=
+
+Name: res/drawable-nodpi-v4/green_button_disabled.9.png
+SHA1-Digest: JjTQeKHPw+uNn9fR0ZeQd6BTUcI=
+
+Name: res/drawable-xlarge-v11/room_button_gold_light.xml
+SHA1-Digest: aOqKgmAMJPYqtXmYjx/CcoT1E+U=
+
+Name: res/drawable-xxhdpi-v4/icon_close.png
+SHA1-Digest: qlMEkY+2pkLiFxN4crmTeTJb0ag=
+
+Name: res/drawable/checkmark_selector.xml
+SHA1-Digest: cZH2panNlnl6TD3JaNmpdF7yTzQ=
+
+Name: res/drawable-xxhdpi-v4/btn_check_off_disabled_holo_light.png
+SHA1-Digest: ME34WG8S9mdU3Rq/gs4yoSl8oVo=
+
+Name: res/layout/page_realmoneyaccintenttoplay.xml
+SHA1-Digest: kjTklTznrXdPaoQTXdNOzilo7Ms=
+
+Name: assets/thedeal/ui/images/icon_info_disabled.png
+SHA1-Digest: J8nrae2ZjDl02uemSqMEu7Yl9zU=
+
+Name: res/drawable-hdpi-v4/menu_settings.png
+SHA1-Digest: /dMpHWF25c79Ds1JjmFrvTsEPZY=
+
+Name: res/layout/activity_post_usage.xml
+SHA1-Digest: CkAdi2KoHXVeipnY6CSxJ0MBCts=
+
+Name: assets/thedeal/ui/images/icon_close.png
+SHA1-Digest: s3tuBq9HfouiZkdMC/BA2uil4RQ=
+
+Name: res/layout/startactivity_connectionlist.xml
+SHA1-Digest: Oqt8xen3E+p5wCwP7R08xgU/DEc=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: j2NWST7vEd6i0CVDqQ9UCzVtf+4=
+
+Name: res/layout/dialog_guestmessages.xml
+SHA1-Digest: vcN4SC1lgnRgzSC14+LUDaOTDw0=
+
+Name: res/layout/signup_wizard_page5.xml
+SHA1-Digest: 9cME2znw6Py3s7Bi5iXB/9cBl9A=
+
+Name: res/drawable-mdpi-v4/list_closed.png
+SHA1-Digest: /w04M6p7pWibt3QH1YuqaEPhiI4=
+
+Name: res/layout/dialog_addresslist.xml
+SHA1-Digest: 8mbCbJOJK4+RenYNZQtwgPK5dV4=
+
+Name: assets/thedeal/ui/images/rec_rounded_shadow.png
+SHA1-Digest: 7ojKIqa0mBIV2u/7USfuwgH6yk4=
+
+Name: res/layout/dialog_regulator_reminder.xml
+SHA1-Digest: QpvAQ22s++tgV4ZtL/MtCSMA628=
+
+Name: res/drawable-mdpi-v4/aide_aux_jouers.png
+SHA1-Digest: 0XE4c172bQWfKIYerV4ttQ3agDM=
+
+Name: res/layout/dialog_minigametickets.xml
+SHA1-Digest: KDD0OgONNtD5HP4zHQWyQRAZi0A=
+
+Name: res/layout/quickseat_separator.xml
+SHA1-Digest: HlSYi2aX7wOYc+Eqo42mvrv9Zvc=
+
+Name: assets/thedeal/seat/avatar.csb
+SHA1-Digest: 2KBb6nIKTaXl9Qt6L/HC8/b/vCM=
+
+Name: assets/thedeal/ui/button_stop.csb
+SHA1-Digest: upDG/4HISh+uDuKrt6WyJU3+wfU=
+
+Name: assets/thedeal/jackpot/images/bonusround_wheel.png
+SHA1-Digest: VVlJUM9Xg+842IdHVvXacEI4eYE=
+
+Name: assets/thedeal/ui/how_to_play.csb
+SHA1-Digest: NMJNw710z1YwlgAFcQZARsOr2k8=
+
+Name: assets/thedeal/Default/ImageFile.png
+SHA1-Digest: cwkWNryZBCNqCjD22wwBqFIuskE=
+
+Name: res/drawable-xhdpi-v4/ic_notification_button_open_browser.png
+SHA1-Digest: 3C+GvGRxPJQsaBlkgtLpQDAbGsk=
+
+Name: res/drawable-xxhdpi-v4/tournicon_tables.png
+SHA1-Digest: RQOB7s8wxTqwfbr2gHcX9haQ5iQ=
+
+Name: res/layout/dialog_emaillocale.xml
+SHA1-Digest: cOWqko+gRqvjQMIs3nL53kcEaXk=
+
+Name: res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: RwOTCkvoy8JfKjFQZXnNiOHbxpQ=
+
+Name: assets/thedeal/cards/card.csb
+SHA1-Digest: JFGeBA5N5oKOs76+UM9Q4Uux/Lc=
+
+Name: res/raw/gtm_analytics
+SHA1-Digest: z4lph6xlv9ztpVWW3QM9h7QjqS0=
+
+Name: res/drawable-mdpi-v4/ic_notification_button_follow.png
+SHA1-Digest: ANlsaw8C4mWjxB74Qu/ckLCcJAA=
+
+Name: res/drawable-nodpi-v4/green_buttonv2_pressed.9.png
+SHA1-Digest: KSIQGuMU9nnpsbHmOKV+JodbL2U=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: PIrE1bETED2AcFA+Z0PCJDOewO4=
+
+Name: res/layout/dialog__warning.xml
+SHA1-Digest: d14st2ks0ixVv+iJQvvYI1ZL7uc=
+
+Name: res/drawable/drawer_background_color.xml
+SHA1-Digest: +XjUzYFcA75s+APlDHUBcSLI5ow=
+
+Name: res/drawable-mdpi-v4/ic_drawer.png
+SHA1-Digest: HHdEzTGOqhI7AVyoDYLl5UHyvf8=
+
+Name: res/drawable-nodpi-v4/tournament_cancelled.png
+SHA1-Digest: 4E4beRxmvHrOKeUjfM3NBZFUKuM=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.
+ png
+SHA1-Digest: s9/qxuNt34tuDKZEbu3WbQxLGWs=
+
+Name: res/layout/lobbyfragment_spinandgo_info.xml
+SHA1-Digest: aA1NIJiQF55bQDDeiwK+JgzpyNg=
+
+Name: res/drawable-xxhdpi-v4/ic_notification_button_decline.png
+SHA1-Digest: 02yl1cfVoWgPST7dkQf+80bMHE0=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_light.png
+SHA1-Digest: i1ZTqep+pgKdIhB18Xwu3c7KrFI=
+
+Name: res/drawable-mdpi-v4/in_app_bg_1.png
+SHA1-Digest: AofUmjwhTiz932/6unKdIlnRKdc=
+
+Name: res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: rDjkEjKiK/nrEgQWcUD2KRvUbLk=
+
+Name: res/drawable-nodpi-v4/lobbyicon_gold_sng_elg.png
+SHA1-Digest: 8fb8yaadTsTZ8PymfXGfOEvfvj8=
+
+Name: res/raw/snd26.wav
+SHA1-Digest: Z/DnctV+LdXeLH3rvMBg6uwF95c=
+
+Name: res/drawable-nodpi-v4/promo_100bn_logo.png
+SHA1-Digest: dcmFw8hS+f321bc4vRhiknOfaLQ=
+
+Name: res/layout/table_footer.xml
+SHA1-Digest: 5o/ELVwFSLpbq9MwJDFWYJMb1S0=
+
+Name: res/color/wallet_secondary_text_holo_dark.xml
+SHA1-Digest: Oac55pqqCoG/i8uJC2MtVDtiTFM=
+
+Name: assets/cards/0576/images/dj.png
+SHA1-Digest: fi16iyBdLiJAwaj/IIL5OkVzV04=
+
+Name: res/drawable-xxhdpi-v4/drawericon_sort.png
+SHA1-Digest: Vkq0FaOSmDtxvuqkJniC3z0RpGs=
+
+Name: res/drawable-mdpi-v4/menu_home.png
+SHA1-Digest: 4weu0u9UJyAG3syEjBHCyEhrKuw=
+
+Name: res/drawable/green_button_text_color.xml
+SHA1-Digest: f31SdNgtKUNB2fCnVEN0dGXBPxA=
+
+Name: res/layout/wizard_next_button.xml
+SHA1-Digest: kefgJNATomg80IHoVn1vJlBP8eA=
+
+Name: res/drawable/tile_active_border_right_state_antialiased_bitmap.x
+ ml
+SHA1-Digest: 54UYtYrPk1ODAOvFHK4OX6+WsNM=
+
+Name: res/drawable-hdpi-v4/cast_ic_notification_1.png
+SHA1-Digest: +hkZ/Ra8e3BFpVYHZYj6/IfghuU=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: 2zGuWTNe/mXuDfUEMVNWpRpYsB4=
+
+Name: res/drawable-xlarge-v11/room_button_dark.xml
+SHA1-Digest: 05jS4iZMXiPWPKwFNAt3T3p3sfM=
+
+Name: assets/thedeal/jackpot/images/bonusround_wheel_base.png
+SHA1-Digest: NJCKeeFEhhK6X9eEsG7xzyVF3fc=
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA1-Digest: XAMga7bDqcMWOCaDC/5P1dg4e9U=
+
+Name: assets/thedeal/ui/slider.csb
+SHA1-Digest: 4TtxbRdP34eLGJWG6ft/5+O9ZEY=
+
+Name: res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: mKelBYxIm5wlrcb8sZ5VCCPnGJs=
+
+Name: res/drawable-xxhdpi-v4/ic_notification_button_sad.png
+SHA1-Digest: Yfyb8Kh5vml01QMsLYy9XTFEtTo=
+
+Name: res/layout/action_bar_lobby_selector.xml
+SHA1-Digest: bCWyaAgoNvxRiRLU0a1lh7LTTWk=
+
+Name: res/layout/dialog_accountrevalidation.xml
+SHA1-Digest: 84eJd/Lu/+1AXZB/Ua+0vtlibsM=
+
+Name: res/drawable-nodpi-v4/lobbyicon_fixed_bounty.png
+SHA1-Digest: BoSCgV5S2zXsF8ffwzbOizURZNs=
+
+Name: res/layout/dialog__update.xml
+SHA1-Digest: AXgaASXNqI5FSU8f6x6q2MtEeRc=
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA1-Digest: pxxMHwS6AZpM+jSiaFnfxzt/Tus=
+
+Name: res/drawable-nodpi-v4/v3_background_home_3.jpg
+SHA1-Digest: Ov+Yprpu6b7zT1+CIV69/Lr2B1I=
+
+Name: res/drawable/room_button_gold.xml
+SHA1-Digest: qsaLMchkI6+Cm01qamJEOl8TRP8=
+
+Name: res/layout/page_realmoneyaccnotificationpage.xml
+SHA1-Digest: N9m4qY61HYJfK93tP/lG6adTRCE=
+
+Name: res/layout/dialog_externalauth.xml
+SHA1-Digest: poMizdlTZvSqE0u6TT2CzvCcg+I=
+
+Name: assets/thedeal/ui/images/icon_info_disable.png
+SHA1-Digest: uXHuP9yrb3qRl3YozHjsF8cY0R0=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: vBwm0ihe3tJu932F0b7IvAec1Ho=
+
+Name: res/drawable-nodpi-v4/lobby_toggle_normal.png
+SHA1-Digest: g3i/baNNRfnmPa3l5MUW7GCTBrg=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: PqTpPBDW7Mw+tiTo97Mdprm+VVU=
+
+Name: res/layout/dialog_register_close_buttons.xml
+SHA1-Digest: h2TbfCjo0ehMHfDyb7NY5DV0sCo=
+
+Name: res/raw/snd34.wav
+SHA1-Digest: wsPojI6sQhaUb0fh8T9HO/IKMEM=
+
+Name: res/layout/dialog_tourntickets_none.xml
+SHA1-Digest: EwX1vldoRB6Y5Q6ZITFCSIHhm0o=
+
+Name: res/drawable-mdpi-v4/ic_urbanairship_notification.png
+SHA1-Digest: /8VTWpnHdzyLDrjD5B8GzCrvOlM=
+
+Name: res/drawable-nodpi-v4/tourn_selected.png
+SHA1-Digest: 5qw4dLXoMhg9ws8UCV5pYZztE3k=
+
+Name: res/layout/lobbyfragment_spinandgo.xml
+SHA1-Digest: +zkCl4x9UuoEz6E35Ag5ui1jScU=
+
+Name: assets/thedeal/ui/images/prizes_panel.png
+SHA1-Digest: caWtxzP3T3lINPepywVk/7vxw9I=
+
+Name: res/drawable-hdpi-v4/notification_close.png
+SHA1-Digest: 3fwd1J3rd0ip0uRVlGF4uk0VmOM=
+
+Name: res/layout-xlarge-v11/lobbyactivity.xml
+SHA1-Digest: 1iVeAfUnmv6twBbWJiolwzv/otI=
+
+Name: res/drawable-mdpi-v4/notification_icon.png
+SHA1-Digest: XvBiNH397WdUVyBqrRGVyN5XyR0=
+
+Name: res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: 6eRtpYyE2B45gWd2aZtCG4kO5FM=
+
+Name: res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: pBR99OG39RSH5mvInfhWhS5HH80=
+
+Name: res/drawable-xxhdpi-v4/application_icon.png
+SHA1-Digest: 5xmToUjBXfCj+RfsV2TyYAM2WOQ=
+
+Name: res/drawable-xxhdpi-v4/drawericon_milestones.png
+SHA1-Digest: SwCpY+cdCYRvRAwdYN/lgDubBE0=
+
+Name: res/layout/dialog_notifydisconnectedsng_list_row.xml
+SHA1-Digest: Mjn//MOAitFBGEtOnzerexuQZYA=
+
+Name: assets/thedeal/ui/slider_knob.csb
+SHA1-Digest: KiQ3eTfF/N6hSPkz0bLHuBotzxA=
+
+Name: res/layout/page_realmoneyaccpage2fr.xml
+SHA1-Digest: 91vuBpniB527M8WrOvO+cDJ6SDs=
+
+Name: res/layout/dialog_inappstore.xml
+SHA1-Digest: s8RzGU6rbR/5je+KS01Txmeb0wc=
+
+Name: res/drawable/room_button_gold_dark.xml
+SHA1-Digest: Mmgjey6kovWuTDmjfDNhdUD2S68=
+
+Name: assets/thedeal/jackpot/bonusround_wheel_base.png
+SHA1-Digest: NJCKeeFEhhK6X9eEsG7xzyVF3fc=
+
+Name: assets/thedeal/table/images/how_to_screen4.jpg
+SHA1-Digest: RZziM68Zp++i1ZJxu9Z6qHleypE=
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA1-Digest: 43CFSZrA4bH7N3aQHkhCueTKX6M=
+
+Name: res/drawable/dialog_knockout_border.xml
+SHA1-Digest: 6VSfHlou77OVraVc8eD8j1wOohQ=
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: BLQq1kPx0/JPxPxgp/MrxD6Ft1Q=
+
+Name: assets/cards/0576/images/rank_10.png
+SHA1-Digest: qJUkWaeSLy31u3d8aa8HdITp4JI=
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA1-Digest: 9JWJR0qt9ACSmUHvHpdMc/ljSx0=
+
+Name: res/layout/dialog_notifydisconnectedsng.xml
+SHA1-Digest: EOH7leD9zMCN8kRMhqtKgFmvoE8=
+
+Name: res/drawable-nodpi-v4/lobbyicon_private.png
+SHA1-Digest: Nglp0gQLJaW4fQ3je3BXHqugW0c=
+
+Name: res/layout-xlarge-v11/lobbyfragment_spinandgo_row.xml
+SHA1-Digest: GfHPLL89TIs/+3kRFuXIGIhxHC0=
+
+Name: assets/thedeal/fonts/Wearecolt-QuickRest-medium.ttf
+SHA1-Digest: 6P0HyWtcLyrIYeKubH3v38m9+7U=
+
+Name: assets/thedeal/cards/reveal_move_noturn.csb
+SHA1-Digest: Tbb71H1RQhsyJqj9IG2WwucJl9Y=
+
+Name: res/drawable-nodpi-v4/caption_background_no_top.9.png
+SHA1-Digest: NADEPA6EM3twft9ddOnDm2iCpQs=
+
+Name: org/jsoup/nodes/entities-base.properties
+SHA1-Digest: GGECs3/ztDnWbYv+CYzxzkBnoq4=
+
+Name: res/drawable-xxhdpi-v4/drawericon_logout.png
+SHA1-Digest: 9kuGUfRt+g8TGvesxoaEBuUOphU=
+
+Name: assets/thedeal/table/images/how_to_screen2_ps.jpg
+SHA1-Digest: mS2bvB08avTtN6bN0/p9BCJsd2A=
+
+Name: res/raw/snd11.mp3
+SHA1-Digest: rJM4hGzGparBUEV9RVkjH5cr5wc=
+
+Name: assets/thedeal/sounds/wheel_bgnd.mp3
+SHA1-Digest: jKvg6/z2+i3om+c2qY9qw6EtUHk=
+
+Name: res/drawable-xxhdpi-v4/action_cashier.png
+SHA1-Digest: uowCmeMsKJX83Y04DjMbEBeM6wg=
+
+Name: res/drawable-xlarge-v11/room_button_light.xml
+SHA1-Digest: oMEi+09Schz/GaS3xbkI8/gSe7M=
+
+Name: res/layout/drawer_item_expand.xml
+SHA1-Digest: s8Aamc6GAM9rbepgBNjuaGsXInU=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA1-Digest: YsHF4VJihRr1oEZ76cu42zsHjek=
+
+Name: res/drawable-mdpi-v4/baricon_save_light.png
+SHA1-Digest: Gl9yq/GyHMrtNYO7nmwor6sp41U=
+
+Name: res/drawable-xxhdpi-v4/icon_attention.png
+SHA1-Digest: Sjj2eIMpPJirRlIYvF4/RHDxl9o=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: r5BaJcm8YInShTypnaU/gf6UKTQ=
+
+Name: res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: rSv1DhC6X4oie9qro50Ohfy7FA4=
+
+Name: assets/thedeal/ui/button_right.csb
+SHA1-Digest: Vwrfi6XWG3Sai2aIFmWpqS9pb9w=
+
+Name: res/drawable-xlarge-nodpi-v11/background_home_3.jpg
+SHA1-Digest: NQKUjaHJ2VnCfI/jtFwLUrp9eCI=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: WDwqcy6yDbnca5VTvWWktckJuL4=
+
+Name: res/drawable-xxhdpi-v4/info_button_white.png
+SHA1-Digest: IWDH/R1e+4dGd/5MTMHMBJ9GbdU=
+
+Name: assets/thedeal/ui/currency_euro.png
+SHA1-Digest: uJ7671paebauYxBjhLdakNZRXEY=
+
+Name: res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: CT87uAFW2S+oSiDq6Ta7ae0xJWs=
+
+Name: res/layout/lobby_grand_total_popout.xml
+SHA1-Digest: NoeJNkGF/gGJnIz+TECXpx2ToLc=
+
+Name: res/layout/quickseat_criteria_buyin_stake_less.xml
+SHA1-Digest: vrD3CcuKJwnOKh0pEKIibY3gQuM=
+
+Name: res/drawable/edit_background.xml
+SHA1-Digest: 4n59yNo/16b0rUFHRlDjHfVXGfA=
+
+Name: res/anim/abc_slide_out_top.xml
+SHA1-Digest: 8TSJifDdlA1J4leugOVG9Peg+k4=
+
+Name: res/drawable-xhdpi-v4/cast_ic_notification_on.png
+SHA1-Digest: sx8MulCwoLgPjrSZfuaaFvEppcE=
+
+Name: res/drawable-nodpi-v4/minitable_sitout.png
+SHA1-Digest: tvL4oJekguyxWaWZRacWUFq6DE0=
+
+Name: res/layout/quickseat_expand.xml
+SHA1-Digest: oWB2mBwB3gYWY/LbNiR8Vw+Wa9Q=
+
+Name: res/drawable-xhdpi-v4/forward.png
+SHA1-Digest: LOoCo9aFlyl8PXCp5HKFbqtjCO0=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: CLs5FbiMwb7vIKZyvZ2iE6odMZs=
+
+Name: res/layout/page_realmoneyaccpage1be.xml
+SHA1-Digest: +LPrJGUVvPw/CSHS7TT1JQmipnY=
+
+Name: res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: f5w1/P3BOViOfigUbV/eR0uuTmE=
+
+Name: res/drawable-xlarge-nodpi-v11/v3_background_home_3.jpg
+SHA1-Digest: uSVec3AoifEvLQ1yppY10BSDiYE=
+
+Name: res/layout/page_realmoneyaccchalengequestions.xml
+SHA1-Digest: tjZJVexCC+bK1jwvQSpyZJfLGh0=
+
+Name: res/drawable-hdpi-v4/cast_ic_notification_on.png
+SHA1-Digest: YcDKa0kXSGCqvr7JtJZ+cKz+YyY=
+
+Name: assets/thedeal/ui/btn_stop_down.png
+SHA1-Digest: gF+CQ8PwGJTK3K6aFSYQgOug/9I=
+
+Name: res/drawable-hdpi-v4/fd_i_error.png
+SHA1-Digest: WOJe8yB/oAo0xVgU39OPS3PpQqI=
+
+Name: assets/cards/0576/images/sk.png
+SHA1-Digest: YGziXpVXD5lmdNjOXe11ljnkZro=
+
+Name: res/drawable-mdpi-v4/ic_notification_button_happy.png
+SHA1-Digest: hujjLPDGze+AobkoOzyCIkLkCWo=
+
+Name: res/layout-v17/dialog_casinosessionreminder.xml
+SHA1-Digest: /VqgwMENjAG8M6xHoglJL3tmf44=
+
+Name: res/drawable-hdpi-v4/actionicon_account.png
+SHA1-Digest: 3Z23pMdhSyOx6SoHOJEFYiX2LcI=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: DK56Y6UjLNHOo/ha0XddWTzD+NE=
+
+Name: assets/cards/0576/images/hk.png
+SHA1-Digest: Uq9gJBLbB4FkdIAdYAPBcV8mk70=
+
+Name: res/layout/dialog__fastdeposit.xml
+SHA1-Digest: n9sdccujGM92WaSe/W3Yug3357A=
+
+Name: res/drawable-nodpi-v4/tableslider_background_shortcut.png
+SHA1-Digest: qUM1WKmgvcSoszZZx2fTT5Vtf4I=
+
+Name: res/layout/dialog__exit.xml
+SHA1-Digest: 2xyHGZ68FrF6RjKZFAAJehhUjSQ=
+
+Name: res/drawable/green_buttonv2.xml
+SHA1-Digest: wmScxo1ZffhW5wlyCqzXJSH8IhM=
+
+Name: res/layout/dialog_authlicensemismatch.xml
+SHA1-Digest: qe0O5Kd78b+DnF65/7P4wlTacJE=
+
+Name: res/layout/dialog_validate_mobile_phone.xml
+SHA1-Digest: FRlHHVxb3xpSPBro2aK2jlTjoCA=
+
+Name: res/drawable/default_logo.xml
+SHA1-Digest: t+EYIwt8xmThxAdlRXN9OJqnX78=
+
+Name: res/drawable-xxhdpi-v4/drawericon_less.png
+SHA1-Digest: bqZZDh4UQAI5vcOTOJCiXSSG+UQ=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: srU1La0aKxKcB1CLvKiSYa09NHU=
+
+Name: res/drawable-xxhdpi-v4/push_notification.png
+SHA1-Digest: xSGM+Pn+c62ctrVJ2q4sLybQ66c=
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA1-Digest: 23+Jvb4EjV4PRCeleOHimhjR9AA=
+
+Name: assets/thedeal/ui/button_left.csb
+SHA1-Digest: NKw+jA5It8Cf4+fiJxenzHyyT70=
+
+Name: res/drawable/dialog_border_thin.xml
+SHA1-Digest: o8iHsFh0c/yK9p6BvpCARuo8QpA=
+
+Name: res/drawable-hdpi-v4/abc_ab_share_pack_holo_light.9.png
+SHA1-Digest: FYJMlhRX7djURTxtIy4aUjcm/os=
+
+Name: res/layout/drawer_item.xml
+SHA1-Digest: VOhvqiZZIF82NYKeN67ScnNUj+Y=
+
+Name: res/drawable-v21/ua_iam_background.xml
+SHA1-Digest: ONW1Q8sAlLGFblkTPMGwrb4u3Wg=
+
+Name: res/layout/bc_bubble_system.xml
+SHA1-Digest: 11Lv25zZuWJTWKpi8ICJCM9l5eg=
+
+Name: res/drawable-mdpi-v4/chips_5.png
+SHA1-Digest: /mQoCg4Twv2bZ0lC1rMEYVyvLaA=
+
+Name: res/drawable/minitable_badge.xml
+SHA1-Digest: G6wZLdKP2UDqjzBDqn0UuPGkVxw=
+
+Name: res/raw/snd19.wav
+SHA1-Digest: fzlg8gWs3DSWiNPFSE53gd1UyNA=
+
+Name: res/raw/snd28.wav
+SHA1-Digest: RURu8CrFoF+7XrNNpFFKRtu2wqg=
+
+Name: res/layout/lobbyfragment_spinandgo_row4.xml
+SHA1-Digest: syNzBR8WCTTrwwYmkMBLWWoKvP4=
+
+Name: res/drawable-xxhdpi-v4/cast_ic_notification_1.png
+SHA1-Digest: j03DPBFzsrv0MgPWX+LN1jrs+lA=
+
+Name: assets/thedeal/ui/images/currency_dollar.png
+SHA1-Digest: IDXA+HibfFXX5nP9fbGZQn3WlV0=
+
+Name: res/layout/tableslider_shortcut_layout.xml
+SHA1-Digest: notOC2kdPbRgOD1WZtJ4IAAin6A=
+
+Name: res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+SHA1-Digest: F5P0P5x15oLSQ50Yn8x7hPMmw78=
+
+Name: res/drawable-mdpi-v4/ic_notification_button_sad.png
+SHA1-Digest: r9s24+xesNl/965cDCnd/5p/tck=
+
+Name: res/layout/dialog_tournunregistration.xml
+SHA1-Digest: mJYA8pzSN8JbDhArHttBV0+gMtQ=
+
+Name: res/layout/quickseat_criteria_text.xml
+SHA1-Digest: GTv+WPMaduh94GTG/fBwXSj7xFg=
+
+Name: assets/thedeal/ui/images/pixel_one.png
+SHA1-Digest: ZnH4322rn07Zn16+q/YlskvaKhw=
+
+Name: res/layout/browsefragment.xml
+SHA1-Digest: dPyIK0RQrGkaIIX7UscHsr2GJcY=
+
+Name: res/anim/abc_fade_out.xml
+SHA1-Digest: MTJWZc22b5LNeBboqBhxcQh5xHQ=
+
+Name: res/color/abc_background_cache_hint_selector_material_light.xml
+SHA1-Digest: Ar2UUPlfpEs3yEzo4tkl4vQG/sY=
+
+Name: res/drawable-mdpi-v4/menu_search.png
+SHA1-Digest: FE9nOMVqPaLK8I+0f4HYbU+KaEw=
+
+Name: res/layout/page_ageverificationwelcome.xml
+SHA1-Digest: Ao9qvMKMG2YZYT4aL6+pC6I+BHQ=
+
+Name: assets/cards/0576/images/rank_k.png
+SHA1-Digest: sgCLkSnK89n5niFJgYXryEv5INs=
+
+Name: res/layout/simple_spinner_dropdown_item_v2.xml
+SHA1-Digest: k+EShKZSTFk1Vuri6/kI2DOyMm4=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_dark.9.pn
+ g
+SHA1-Digest: Jo7euj4LvkDv54RWdIWxYYLnMbg=
+
+Name: res/drawable-xhdpi-v4/ic_notification_button_unfollow.png
+SHA1-Digest: lkWZm+7L5e7W7MtqhHvdI+nDw+c=
+
+Name: res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+SHA1-Digest: 3/M33ElldnGYpXd83Qxt6UHPIg4=
+
+Name: res/layout/dialog_sportslimit.xml
+SHA1-Digest: DVDbOgzTEgVw1w9pdjJDx8FuQOo=
+
+Name: res/drawable-xlarge-nodpi-v11/logo_lobby_vegas.png
+SHA1-Digest: Ww0KDmcgYmKG2GRoAcNgMC7g/Ps=
+
+Name: assets/thedeal/table/images/thedeal_logo.png
+SHA1-Digest: 2kiao1KuhgOr5IMLSYko9LtGHtM=
+
+Name: assets/thedeal/ui/dialog_countdown.csb
+SHA1-Digest: BAFyJlYpetGY8nqV5AUXzcLWZ+o=
+
+Name: res/drawable-hdpi-v4/ic_notification_button_open_browser.png
+SHA1-Digest: FE11AMV3bJZkuozjmIS+Dx/hMUE=
+
+Name: res/layout/dialog_confirmlimits_row.xml
+SHA1-Digest: k3HqcXMZgYQAPCOv7FCpF/NiNX8=
+
+Name: res/drawable-xlarge-hdpi-v11/live_assistance_animated_button_00.
+ png
+SHA1-Digest: MWDjhuW6LEfJdGD0Z0ulrqmDkqE=
+
+Name: assets/thedeal/table/background_high_roller.jpg
+SHA1-Digest: DHw4lzELFTHWLU5cjOGO94ztErU=
+
+Name: res/drawable-xhdpi-v4/tournicon_players.png
+SHA1-Digest: B4mEGXDgMu83scmGoTkqC8D8UUA=
+
+Name: res/drawable-xhdpi-v4/tournicon_tables.png
+SHA1-Digest: t3t998VawADIfsZcSJGG1SfnHqk=
+
+Name: assets/thedeal/ui/payout.csb
+SHA1-Digest: lqht6B5w+tUDXVIqfQs02kvaK1Q=
+
+Name: assets/thedeal/ui/images/icon_chevron.png
+SHA1-Digest: ZwkFi0hThevOJX7JTRCq2SOFHS8=
+
+Name: assets/thedeal/fonts/Roboto-Regular.ttf
+SHA1-Digest: oY3L+ZyNIyXC+/IqZOjMKKDPTTs=
+
+Name: res/layout/dialog_casinocommunicationspromp.xml
+SHA1-Digest: hdHPnuQcHP84fosnr3vUmgVZeqA=
+
+Name: res/layout/bc_form_text.xml
+SHA1-Digest: EFVhpKjjVN5sLlS11ZSQOVrSQCw=
+
+Name: assets/thedeal/seat/images/pod.png
+SHA1-Digest: SdF0CYvT7HbSoeMh23AW0YlkqDA=
+
+Name: res/raw/snd13.wav
+SHA1-Digest: v7/9impA6tn9zCohMIKJx9agteY=
+
+Name: assets/thedeal/ui/button_close.csb
+SHA1-Digest: kWX8mJEVcCwQWv6562gc6Gb5k40=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: Ctu9p40E4P5fvzBufyBMmPaVWbA=
+
+Name: res/drawable/info_button_state.xml
+SHA1-Digest: UwkJcM+cF2WGPqLQn4lmiz4UeIo=
+
+Name: res/drawable-nodpi-v4/sag_ticket_bkg.png
+SHA1-Digest: i5NiCrqEApFjMLEc+uL/ey5BMB4=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+SHA1-Digest: IRY9orSUNBiHDRmCdZDLwsHlvFM=
+
+Name: res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: rBBvnGEEgdETBrMQyET5EQQ57f0=
+
+Name: res/drawable-nodpi-v4/minitable_sag_spin.png
+SHA1-Digest: 48F9bexATw2XtJM13N/wlV/ncx4=
+
+Name: res/layout/dialog__wizard.xml
+SHA1-Digest: tp+G6/uVrF/iZO3LI3ic+ugIXU0=
+
+Name: assets/thedeal/jackpot/images/mp_mypod.png
+SHA1-Digest: dIxgAEYSHypjW8tIvbx8ifvdj5I=
+
+Name: res/layout/dialog_leaderboardssettings.xml
+SHA1-Digest: 9tzttteNdRTeuvz6F6ckRZ4s1X4=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: KNgaBl1KV/4hqZf2mRSkhqFvYpI=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: I2JJHnuKjt9jtF8C76fBatEScaE=
+
+Name: res/layout/dialog_closetable.xml
+SHA1-Digest: b/oc0Iwc/yKvP3+5kLk+s1qaSBM=
+
+Name: res/drawable-xxhdpi-v4/chips_0.png
+SHA1-Digest: kCbRWnNExX7QMPJxHa8n4u+dH1A=
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA1-Digest: WvQXaLW+RYwVqlOlLTLQnw4LYsw=
+
+Name: res/drawable/black_button.xml
+SHA1-Digest: VYnkj+1KTKHp3wouo8Sl6Xe+fEw=
+
+Name: res/drawable-nodpi-v4/green_buttonv2_normal.9.png
+SHA1-Digest: GiRQBtMG2bii3PXY3qna/OpVLNk=
+
+Name: res/drawable-nodpi-v4/question_grey.png
+SHA1-Digest: BW4duk70Aw1wtXvlsdE2W6MPk5c=
+
+Name: res/drawable/white_tile_top.xml
+SHA1-Digest: yRAjiVfYCRtcxr5m6gWyhhyJYrs=
+
+Name: res/drawable-xhdpi-v4/ko_popup.png
+SHA1-Digest: waxRmZrYRykLEDBXABa1dD121C4=
+
+Name: res/drawable-xxhdpi-v4/drawericon_hamburger.png
+SHA1-Digest: DD5KmDNhMB3PjBY3tsc9Pbjse0w=
+
+Name: res/drawable-nodpi-v4/logo.png
+SHA1-Digest: QzEG9BNu24d39sBbCQqNAWoimmg=
+
+Name: assets/thedeal/table/background_blurred_hr.png
+SHA1-Digest: ZaIDd+Va0KARVNbWie3ZH2GkTgw=
+
+Name: res/raw/spade.mp4
+SHA1-Digest: ZWVlEhpF6nfVfcYIzsBhAhaaFQg=
+
+Name: res/drawable-mdpi-v4/tournicon_prizes.png
+SHA1-Digest: Dvilm574/RRS7HrtQw4gjoniLdk=
+
+Name: res/drawable-nodpi-v4/sag_add_table_checkmark.png
+SHA1-Digest: m11hZdm5XXApPVRcEEO6Gi+oXio=
+
+Name: res/layout/dfs_lobby_activity.xml
+SHA1-Digest: XBf8PPpyu8BhgQnN7eiGkRzV4Z0=
+
+Name: res/color/wallet_primary_text_holo_light.xml
+SHA1-Digest: w7sjSaxozXlN0DQModXpj3u/Hlg=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: dYDfYdQeVCs4/1WeSohObo/Y42U=
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA1-Digest: LDGyZt2n5b/qQavvl8/LSTlEtYs=
+
+Name: res/layout/dialog_avccode.xml
+SHA1-Digest: 74CKg719fCiz/wF9mN+e+xwnP4M=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.pn
+ g
+SHA1-Digest: vq3AaVX19jU0c0v1npZsAQOh+CI=
+
+Name: res/drawable-xxhdpi-v4/lobby_button_top_left.9.png
+SHA1-Digest: TSCgzBX+KqswJyL+49k3jxhhUCI=
+
+Name: assets/thedeal/jackpot/bonusround_stopper.png
+SHA1-Digest: 2O4mlt9aaTpacor1lCnVFmYZb4Q=
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: igV6Z9qyPsoUBNkEZPzj+DDt0kE=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: KfT1DbEuXyhvG18n0yILeVsK0Vo=
+
+Name: res/layout/dialog_resetpasswordbyaddr.xml
+SHA1-Digest: MTvNTf61AeXFl5v+AYJoUjK8hDs=
+
+Name: assets/thedeal/fonts/RobotoCondensed-Bold.ttf
+SHA1-Digest: DG2CpMQ5JnYMNNd8txgsMWeEFRM=
+
+Name: res/drawable-mdpi-v4/menu_lobby.png
+SHA1-Digest: Oukj/GflWi2wohnU8YkUEmzR1uE=
+
+Name: res/layout/dialog_moneyavail.xml
+SHA1-Digest: fMoUqJT7zchrt/vJy1Ioutovz+M=
+
+Name: res/raw/snd8.wav
+SHA1-Digest: +Ut26MkU/4LqEpUUx2MB18fVaQU=
+
+Name: assets/thedeal/fonts/RobotoCondensed-Regular.ttf
+SHA1-Digest: 9HQuFcSJ1cSRzpoPBkYceXIntCs=
+
+Name: res/drawable-xhdpi-v4/cast_ic_notification_1.png
+SHA1-Digest: NrEGClY641EfvHXtY4n1ZGpEMx0=
+
+Name: res/drawable-hdpi-v4/live_assistance_animated_button_02.png
+SHA1-Digest: AhkdFExurhlVAfKJx6vzN/dY3Kw=
+
+Name: res/layout/quickseat_tournament_list_item.xml
+SHA1-Digest: Ajo/HnWN5z7bsur5jPdNIN/ecC4=
+
+Name: res/drawable-nodpi-v4/lobbyicon_team_pro_bounty.png
+SHA1-Digest: FsjWrausPr1VWaRiBMM6OL2XFzg=
+
+Name: res/drawable-hdpi-v4/tablehead_add.png
+SHA1-Digest: wgMcY1EmjBX4VIdGH5KiTLqJ6ck=
+
+Name: res/drawable-xhdpi-v4/tableicon_ice.png
+SHA1-Digest: YNIXrahH5PHWZot8lSbwUXfavMU=
+
+Name: res/layout/dialog_knockoutbountyaward.xml
+SHA1-Digest: 2ENCQejDQCsg8OtpY0Q1OIdILv0=
+
+Name: res/drawable-xxhdpi-v4/actionicon_sports.png
+SHA1-Digest: 1YwoJklyJXQut0WikMrtRI9ZjlE=
+
+Name: res/drawable-nodpi-v4/minitable_sag_seating_1.png
+SHA1-Digest: aHSd9gxdy9wsw70ukgi8csVVUVI=
+
+Name: res/layout/dialog_tournregfound_it_list_row.xml
+SHA1-Digest: ctjlat6jm9omUPH2mcol5EuiRMQ=
+
+Name: assets/thedeal/jackpot/images/background_bonusround.jpg
+SHA1-Digest: EGDPEUbEfHUghxNgRYWTkF214aE=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: yP2hhhdWfqPQ6VTBFpcZM+5I8sg=
+
+Name: res/drawable/white_button_thick_border_state.xml
+SHA1-Digest: nnitQtI6Dee7F9mqqNl4M7uf35Q=
+
+Name: assets/thedeal/jackpot/images/bonusround_stopper.png
+SHA1-Digest: 2O4mlt9aaTpacor1lCnVFmYZb4Q=
+
+Name: res/drawable-xhdpi-v4/notification_icon.png
+SHA1-Digest: 2rdymCt+7H8zygbT3ShKVM0eLSQ=
+
+Name: res/raw/snd30.wav
+SHA1-Digest: nmkqzWHGGxbEQCTOm+2fx8jbMAM=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: qMusFEHLxtyIRFZqZhmVkdXijqQ=
+
+Name: assets/thedeal/jackpot/bonusround_stopper.csb
+SHA1-Digest: oDmfEWXd5zlaUv13uJRBkKuaOo0=
+
+Name: res/drawable/fd_spinner.xml
+SHA1-Digest: 1SUQi5zeynjxAplcF0ptDZ27GSk=
+
+Name: res/layout/lobby_grand_total_arrow_down.xml
+SHA1-Digest: 14IX/SNygH2aXYlzbFMAtqO83nQ=
+
+Name: assets/thedeal/seat/images/icon_starscoin.png
+SHA1-Digest: 2IYZkJVFKsVuEgNaQGc92pWXPyE=
+
+Name: assets/thedeal/ui/images/slider_background.png
+SHA1-Digest: rbI3qnQkviwvwKTgp2jobGMsnKE=
+
+Name: res/layout/lobbyactivity.xml
+SHA1-Digest: dfpIgdb8/JvSuZFXyt8j8W0M638=
+
+Name: res/drawable-nodpi-v4/lobbyicon_team_pro.png
+SHA1-Digest: vEXq7ucDZtMVeCKLw4gM7Xej1YI=
+
+Name: res/layout/drawer_layout.xml
+SHA1-Digest: wtlMmIhWkikyweaBbuVcB6eNZCE=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 53DYKltMU34zhaYZHtlNZkme+Co=
+
+Name: res/drawable-hdpi-v4/aide_aux_jouers.png
+SHA1-Digest: +r/2HDZIHnZSgT1hG8eFuKa2mKk=
+
+Name: res/drawable-nodpi-v4/tableslider_background_full.png
+SHA1-Digest: JTrvZOonmltrednDzOUwSvv6Bss=
+
+Name: res/drawable-xxhdpi-v4/white_info_icon.png
+SHA1-Digest: G1emuPHTKfmKWkEoRI4OlEDKX98=
+
+Name: assets/thedeal/jackpot/wheel_spotlight.png
+SHA1-Digest: LNX1vL9fZ7SgjulNlE+soXC0bgk=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: f8NYPVOXcYBwuQSENH+eJEOJeV4=
+
+Name: res/drawable-nodpi-v4/lobby_button_selected.9.png
+SHA1-Digest: iYOTWTWD/g+WsET6NuM0dOo2vv8=
+
+Name: res/layout/dialog_inappstore_list_row.xml
+SHA1-Digest: 7VMjDMQvmiX2rSVoWqhPskQKhig=
+
+Name: res/drawable-mdpi-v4/cast_ic_notification_2.png
+SHA1-Digest: ScIgi8J9nz/mj+rEl2ptzIDBHtE=
+
+Name: res/drawable-nodpi-v4/nemid.png
+SHA1-Digest: +Wwhb4Smq5klb161T63Bssce3dg=
+
+Name: assets/thedeal/ui/images/button_gradient_stroke.png
+SHA1-Digest: YQfzZo/zUKD3ZhhafoQgPI9xdJs=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: Cv+J7vU8p5tdCif6GMDKlPPRC6M=
+
+Name: res/layout/dialog_playtimerestriction.xml
+SHA1-Digest: ge3geGBumeg+SJK3Eu9PsJcuLtQ=
+
+Name: res/drawable-mdpi-v4/actionicon_search.png
+SHA1-Digest: /A/u/rBoCd3AvWpd8lQV2oyLQe4=
+
+Name: res/layout/dialog_tourn_change_phase.xml
+SHA1-Digest: KlrJx6Iw5aIOi0KRiI9mwW1GgiQ=
+
+Name: res/drawable-xxhdpi-v4/drawericon_withdraw.png
+SHA1-Digest: w5nWSr/LZFz+G3ZGmsjnfBIB9sY=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: BoLkfiIFe77i34exfP7BramG/ho=
+
+Name: res/drawable-xhdpi-v4/ic_notification_button_decline.png
+SHA1-Digest: wSmBo+XjgVMoUBs3rmsFa6oR0vk=
+
+Name: res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: uX86MGhu4M8vmPbtFYpYLNhN0I0=
+
+Name: res/layout/dialog_depositlimit.xml
+SHA1-Digest: FZYFWg+O1LUjwiBX1s3rSU1Ukm4=
+
+Name: res/drawable-nodpi-v4/tournament_announced.png
+SHA1-Digest: kvfBV/AKwuJepxzDzxDdBO8JVBo=
+
+Name: res/drawable-xxhdpi-v4/drawericon_more.png
+SHA1-Digest: o57E4XU1ITS4ycjnphvvqMJ5bws=
+
+Name: assets/thedeal/seat/pod.png
+SHA1-Digest: SdF0CYvT7HbSoeMh23AW0YlkqDA=
+
+Name: assets/thedeal/ui/button_confirm.csb
+SHA1-Digest: tiMXtIDctOqpQYB11XfRStMPl94=
+
+Name: res/drawable/common_signin_btn_text_light.xml
+SHA1-Digest: uUKajOeaH727Hi4Wq8NZs+UTSkQ=
+
+Name: res/drawable/strength_gradient.xml
+SHA1-Digest: bnywzC5o6rtNih1T8hZ57WfRxe0=
+
+Name: res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: 8TGvVLbABMGx0gU3ldKg01URLyQ=
+
+Name: res/drawable-xxhdpi-v4/progress_bg_bar.png
+SHA1-Digest: y6TBStlEzhhSA14amsPjYhm0lnE=
+
+Name: res/drawable/room_button_dark.xml
+SHA1-Digest: gyyHZtuSQc91KBFk6kJ1pSX8lRU=
+
+Name: res/raw/snd15.wav
+SHA1-Digest: LOKCmxql+8ObVCLbgA89LkpXKTg=
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: h7hNXJrcbvKMv9bbGrTrvd0dOgs=
+
+Name: res/drawable-mdpi-v4/abc_ab_share_pack_holo_light.9.png
+SHA1-Digest: ACn85wgDVhp0J+z8I9ta/grur9k=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: xa+o97ZNQDyD6tCp4L4gmqdoPrs=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: c6UHlDP2WF/CTLcgoeTY3w+h0DQ=
+
+Name: res/layout/page_realmoneyaccdepositlimit.xml
+SHA1-Digest: 2c4VMMaa7uQ+Jx9FyXxuS3pxq/0=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+SHA1-Digest: fJDemyYkG1ADa8kfTcfiXUcM7jY=
+
+Name: res/layout/wizardactivity.xml
+SHA1-Digest: DhXiL1Vg/NPoadK0tij83Lozcp0=
+
+Name: res/drawable-mdpi-v4/menu_account.png
+SHA1-Digest: LBfTGTwuJ/8shEMaZ/IdH5Xz3YI=
+
+Name: res/drawable-nodpi-v4/green_buttonv2_disabled.9.png
+SHA1-Digest: abz/woMW0aetpRdQiXDaon1qhP4=
+
+Name: res/drawable-xhdpi-v4/homeicon_buy_chips_plus.png
+SHA1-Digest: Bnui8+e4U+76fYIb13gv9G21HDo=
+
+Name: res/layout/abc_screen_content_include.xml
+SHA1-Digest: g/J8w0EHwY+BmTxj9S092R8ZPiw=
+
+Name: res/layout/dialog_tournrematch.xml
+SHA1-Digest: NcLUlVbElXP1xTbInl9NQWJxUAk=
+
+Name: res/drawable-xxhdpi-v4/chips_2.png
+SHA1-Digest: Auq2TtvWqDzrg1c6BTezjKOijrc=
+
+Name: res/drawable-hdpi-v4/baricon_save_dark.png
+SHA1-Digest: qaMDLA+x7QQaaeIPMtV4utQYwlk=
+
+Name: assets/thedeal/jackpot/images/background_bonusround_win.jpg
+SHA1-Digest: e8HJFtQVKGSmNXNgEAUK3mqFDFY=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+SHA1-Digest: HSo66NSY39XTXO777pXaLU1UHYM=
+
+Name: res/layout/dialog_loginhistory_row.xml
+SHA1-Digest: 0OUpCRvk8sAa2cAnWgH6jpsywXE=
+
+Name: res/drawable-hdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: iP8qRXkY+XNmRoVEr+A6b2fLfF4=
+
+Name: res/layout/page_realmoneyaccconfirm.xml
+SHA1-Digest: H+aZq2QVhb76n9NboDq1mCWpKIw=
+
+Name: res/drawable/common_signin_btn_icon_dark.xml
+SHA1-Digest: aRTa6LppCF5k0ZrHn9MQaHZCLLU=
+
+Name: res/drawable-xxhdpi-v4/btn_check_on_disabled_holo_light.png
+SHA1-Digest: lEdsW6Ufg2xgW9v0t+z80CTuJGQ=
+
+Name: res/layout/dialog_choosestack.xml
+SHA1-Digest: G7ry8RRZ5s57Q8a2PeFqURAXOc0=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_dark
+ .9.png
+SHA1-Digest: KfT1DbEuXyhvG18n0yILeVsK0Vo=
+
+Name: res/layout/page_wizardprogress.xml
+SHA1-Digest: q3dPOF80R+oykS1mDs71cm0/S60=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: bCfalDf3dtwVG4mH7KjMYlR/m8c=
+
+Name: res/layout/dialog__simplewebview.xml
+SHA1-Digest: V+B372uHC/wf9YKPtFRh35z72UI=
+
+Name: res/drawable-xxhdpi-v4/info_button_off.png
+SHA1-Digest: Q8h53OsqeLWIiPffo3IkGcaLU+8=
+
+Name: assets/thedeal/ui/images/icon_starscoin.png
+SHA1-Digest: +DDcWhgDkWuG5tFgvrEYK7+Y5zM=
+
+Name: res/drawable-xhdpi-v4/home_btc_logo.png
+SHA1-Digest: dVYnWdZfSoM/njFhi3B1pSJZPGA=
+
+Name: res/drawable-xxhdpi-v4/drawericon_qs.png
+SHA1-Digest: zM41ZlNtvl3JrT/qks46L/n6W+k=
+
+Name: res/drawable-hdpi-v4/live_assistance_animated_button_00.png
+SHA1-Digest: DRnLpcHoDICemoWRmgFfweoVv3w=
+
+Name: res/layout/page_migrationconfirm.xml
+SHA1-Digest: jdfcUiVlfG2jTYEuaif3xpB+5pI=
+
+Name: assets/cards/0576/images/rank_8.png
+SHA1-Digest: 21WmkfgZ+hlsrTEP+zjfQfo8KuU=
+
+Name: res/drawable-hdpi-v4/ic_notification_button_unfollow.png
+SHA1-Digest: nfb9PnZstut/84E6u2UUwDz+LQQ=
+
+Name: res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: sSd73UlwBBESVH63lNNrS2c8dsI=
+
+Name: assets/thedeal/jackpot/mp_mypod.png
+SHA1-Digest: dIxgAEYSHypjW8tIvbx8ifvdj5I=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: XfiPEQDAz6Ng5Q70xPZblJiqGT8=
+
+Name: res/drawable-xhdpi-v4/home_tournaments_logo.png
+SHA1-Digest: xNpHY5yQ2QndxnMS4VeFC+q/fCM=
+
